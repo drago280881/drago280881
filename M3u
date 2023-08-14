@@ -37,8 +37,9 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoonJapyw6FjCzN6EhLZw8Ay-RtyqRL5Jng&usqp=CAU" group-title="Entretenimiento",AZTECA CORAZÓN ♥ 
 #EXTVLCOPT--http-reconectar=verdadero
-#EXTVLCOPT:caché de red=1000
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 #EXTINF:-1, tvg-logo=" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/El-Nueve-Mexico-en-vivo-Online-Teleame-Mexico.png?fit=1920%2C1080&ssl=1" group-title="Entretenimiento",EL NUEVE 
+#EXTVLCOPT:caché de red=1000 
+http://line.pro-iptv.cc:80/ivantramonto/5D61D8/101168
+#EXTINF:-1, tvg-logo=" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/El-Nueve-Mexico-en-vivo-Online-Teleame-Mexico.png?fit=1920%2C1080&ssl=1" group-title="Entretenimiento",EL NUEVE 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/163347 
