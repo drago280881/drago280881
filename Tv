@@ -56,7 +56,7 @@ http://tvpro.tech:8080/patacujne23/acab1312/55673
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://estrella-games-oando.amagi.tv/playlist.m3u8 
-#EXTINF:-1, tvg-logo= https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11517-1329_import.png" group-title="Entretenimiento",CANAL 11
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjxNLdNuKjJbzRko3VaOHs_GuVCl_NsgpsA&usqp=CAU" group-title="Entretenimiento",CANAL 11
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1200px-Logo_Canal_14_M%C3%A9xico.svg.png" group-title="Entretenimiento",CANAL 14
