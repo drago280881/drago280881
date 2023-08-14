@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="Entretenimiento",AZTECA UNO
+
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
