@@ -35,3 +35,63 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoonJapyw6FjCzN6EhLZw8Ay-RtyqRL5Jng&usqp=CAU" group-title="Entretenimiento",AZTECA CORAZÓN ♥ 
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 #EXTINF:-1, tvg-logo=" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/El-Nueve-Mexico-en-vivo-Online-Teleame-Mexico.png?fit=1920%2C1080&ssl=1" group-title="Entretenimiento",EL NUEVE 
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/163347 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Entretenimiento",MVS TELEVISION
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs) #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="ENTRETENIMIENTO",A MÁS +
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Entretenimiento",UNIVERSO
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/patacujne23/acab1312/55673 
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RNHPuoRxZfDWv5pHNDDye-L0tjMUfr8oGw&usqp=CAU" group-title="Entretenimiento",ESTRELLAS GAMES
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://estrella-games-oando.amagi.tv/playlist.m3u8 
+#EXTINF:-1, tvg-logo= https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11517-1329_import.png" group-title="Entretenimiento",CANAL 11
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1200px-Logo_Canal_14_M%C3%A9xico.svg.png" group-title="Entretenimiento",CANAL 14
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="Entretenimiento",MILENIO
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpJ8f53Xvv8BCRhbzjOB6bCfJ6N9paLZk-Q&usqp=CAU" group-title="Entretenimiento",BUAP 18.1
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://tvenvivo.buap.mx/livestream/stream.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlElpXexRw3NNuoF9NgGdSekdbIPlwSaINYQ&usqp=CAU" group-title="Entretenimiento",CANAL 22
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDIzIDI6Mjg6NTggUE0maGFzaF92YWx1ZT16cStjdy9
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="Entretenimiento",MEXIQUENSE TV
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1, tvg-logo=" https://tvazteca.brightspotcdn.com/58/74/8f13538947b7a5e8a0c8989612e1/adn-40-512x512-color-02.png" group-title="Entretenimiento",ADN 40
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Entretenimiento",ESTRELLA TV
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU" group-title="Entretenimiento",DISTRITO COMEDIA
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://mag.redmytv.com:80/ivantramonto/5D61D8/101253
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entretenimiento",COMEDY CENTRAL
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://190.61.55.186:1010/play/a023/index.m3u8
