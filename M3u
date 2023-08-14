@@ -45,7 +45,8 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/163347
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Entretenimiento",MVS TELEVISION
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs) #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="Entretenimiento",A MÁS +
+https://www.dailymotion.com/cdn/live/video/x7urqme.m3u8?sec=wka0WksqMgYggSHtzuaXE0cTdKhcDO3f746vva-Mlf8I5xoX_J5V68oL9M04kls7&dmTs=112164&dmV1st=9116a7e5-5ded-4505-a42a-30769e4262a6
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="Entretenimiento",A MÁS +
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Entretenimiento",UNIVERSO
