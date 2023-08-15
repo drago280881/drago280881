@@ -209,3 +209,196 @@ http://45.166.92.22:58001/play/a032/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148738
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXtPRYikFcZM1JzxhstJZ4TtzqVmkBK3XfQ&usqp=CAU" group-title="Entretenimiento",ANIMAL PLANET
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a00m/index.m3u8 
+#EXTINF:-1, tvg-logo=” https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20220215204912&path-prefix=es" group-title="Entretenimiento",HISTORY 2
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Entretenimiento",HISTORY HD
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Entretenimiento",TLC
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICa-bZnQhHv_rTub2qm6TXReRR6WW1xP28A&usqp=CAU" group-title="Entretenimiento",SEMBRADOR
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.228.234.41:16000/play/a0am/index.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL-NtUvtXatynECZzoPzO002wWdxBmhwNqg&usqp=CAU group-title="Entretenimiento",EWTN
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a050/index.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4j-IhmB4v64QdAGkDzkS-YUkt_oW-KiHQg&usqp=CAU" group-title="Cine",GOLDEN PLUS
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://181.177.255.253:8000/play/a028/index.m3u8
+#EXTINF:-1, tvg-logo=" https://www.google.com/search?client=ms-android-motorola-rvo3&sca_esv=556867888&hl=es-419&sxsrf=AB5stBiFc1ka-dDCTr7RJRekUGBLl-vl0g:1692047369292&q=golden+edge&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjx047Th92AAxUlk2oFHYUsAFUQ0pQJegQICxAB&biw=509&bih=973&dpr=2.13#imgrc=KDWCiLXKAk8cOM" group-title="Cine",GOLDEN EDGE
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101221.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pV6wgT9u40RbzF385KhTPWkr_AXNba3yIw&usqp=CAU" group-title="Cine",MULTIPREMIER
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/70
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU" group-title="Cine",AXN
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJnMgXYTaITGfW16XAI5HDRykKfYX5QwiNqQ&usqp=CAU" group-title="Cine",DE PELICULA
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://mag.redmytv.com:80/ivantramonto/5D61D8/409264
+#EXTINF:-1, tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX CLASIC
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://170.79.235.29:8000/play/121
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX FAMILY
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://170.79.235.29:8000/play/120
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX PRIME
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://170.79.235.29:8000/play/122
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX OLD
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://170.79.235.29:8000/play/123
+#EXTINF:-1, tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine",CINE FAMILIAR
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://181.78.75.11:9500/play/CINEFAMILIAR/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIAxwgRNIGNVjZG4vXnQWyJHU-MlecHWAFg&usqp=CAU" group-title="Cine",CINE HISPANO 
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://181.78.75.11:9500/play/CINEHISPANO/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Cine",CINE PREMIUM
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://181.78.75.11:9500/play/CINEPREMIUM/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNDgiqY1ZM_wMGS_xeu_JeQn1tJ8u3L0W9Q&usqp=CAU" group-title="Cine",AMC
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2aZlwuVS7iJTLSY9I0GDGYMkU-DqpglYJhQ&usqp=CAU" group-title="Cine",CINE LATINO 
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a02c/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvC9qAyM37vpcYt9KMVAqrF6o2_MyyaPkNw&usqp=CAU" group-title="Cine",CINECANAL
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRz91iUOfrHfYdFy7KIIFINrpbYjQ1mtiMw&usqp=CAU" group-title="Cine",FX HD
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="Cine",SONY MOVIE
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6x8jKgKJQdDMR7Be8ZQjnnHyrsrlVhj1yg&usqp=CAU" group-title="Cine",DHE
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxdvjF6gfMCAv8Ja87zAwPQWI27Jg2vzljUA&usqp=CAU" group-title="Cine",STUDIO UNIVERSAL
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyJtXyxqMFNR-rAvAPTD1HXn-KGaXVhtfeg&usqp=CAU" group-title="Cine",UNIVERSAL CHANNEL
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.228.234.41:16000/play/a0br/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-reality-dark-logo.png" group-title="Cine",UNIVERSAL REALITY
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/patacujne23/acab1312/46519
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtMOzdIfzmiBpEq0-WenQ9rr2WZkEBAdu76hwZl08qwEZSQfy5kbztXU&s=10" group-title="Cine",UNIVERSAL COMEDY
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/patacujne23/acab1312/46628
+#EXTINF:-1, tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="Cine",UNIVERSAL PREMIER
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/patacujne23/acab1312/46630
+#EXTINF:-1, tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="Cine",UNIVERSAL CINEMA
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="Cine",UNIVERSAL CRIME
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/patacujne23/acab1312/18019
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVs4-UMRI5Jj4L1ExeFQD49InwPkfWYXBPA&usqp=CAU" group-title="Cine",HBO HD
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2 HD
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vRkdu-I7ew6YDGxKmmkRchv7bdazsuDc4Q&usqp=CAU" group-title="Cine",HBO PLUS
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://170.79.235.29:8000/play/019
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5e9HAJCC4f5CcOMbK3B6P0u1KrVyA6zk0VQ&usqp=CAU" group-title="Cine",HBO XTREME 
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-negeUQyQSSL7ZZiow1g8caNBQxuN5Z2cw&usqp=CAU" group-title="Cine",HBO FAMILY
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/patacujne23/acab1312/46581
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNGcefM0zgWlDgFDc8M9nroyNf6sRT7Vc4w&usqp=CAU" group-title="Cine",HBO MUNDI
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/patacujne23/acab1312/46551
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBv-eSThsO0eGoH7sP6T5Ssa1yiO9qTY0QAg&usqp=CAU" group-title="Cine",HBO POP
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/live/moraipxuje2/acab1312/17942.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAd7BRkvpK6TLcqYFRKE5q2NzL7sp7pZ_Mw&usqp=CAU" group-title="Cine",WARNER CHANEL
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2M_MfrvHogoZykmAlBFypXeEqkF80gUzdLw&usqp=CAU" group-title="Cine",PARAMOUNT HD
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-rY9lvIH5D9locDFjHMRwh3q1b69G3vHaA&usqp=CAU" group-title="Cine",STAR CHANEL
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://muka03.wanicelife.com:8880/live/EilaineCyrus/kwNjMz9Xbu/51383.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBUSyXrOIBjaqE-L52OPGEaQp5SieN6betA&usqp=CAU" group-title="Cine",FILM AND ARTS
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a00o/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-R-bLBqhhJ-uTXjJN-MD7R9q1C1SbZHR1A&usqp=CAU" group-title="Cine",A&E
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Cine",TCM
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY HD
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4A5yg6GpPEeqXwjRUIbguHTk6giHhGCVinA&usqp=CAU" group-title="Cine",TNT HD
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="Cine",SPACE HD
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/1200px-TNT_Serie_HD.svg.png" group-title="Cine",TNT SERIES
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.166.92.22:58001/play/a01m/index.m3u8
+
