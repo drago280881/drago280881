@@ -145,7 +145,7 @@ http://45.166.92.22:58001/play/a00n/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a016/index.m3u8
-#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Entretenimiento",NATIONAL GEOGRAPHIC
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a032/index.m3u8
