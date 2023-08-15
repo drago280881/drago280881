@@ -393,7 +393,7 @@ http://45.166.92.22:58001/play/a04a/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a013/index.m3u8
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="Cine",SPACE HD
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZyjTfO6KLR9b1N23MTLpY_E_9pvmr6YDVug&usqp=CAU" group-title="Cine",SPACE HD
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a02o/index.m3u8
