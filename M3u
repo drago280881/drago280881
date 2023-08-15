@@ -436,7 +436,7 @@ http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 #EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKN6RKDtZ3COOfKhHe5FJx23HnLjgFyutpJg&usqp=CAU" group-title="Deportes",ESPN
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/1900
+https://v3.playerlatino.live/stream/m3u8/34
 #EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1m8k12wJqsSycunIGbWZ1ChWFquidF7tY8w&usqp=CAU" group-title="Deportes",ESPN 2
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
@@ -509,3 +509,23 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/2080
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://tvpro.tech:8080/live/heabypol2/acab1312/39329.m3u8
+#EXTINF:-1, tvg-logo=" https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" group-title="Adultos",MIAMI TV
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslZTWniwjcf3Er0gbTcEgVLSkLPaVjLcBpQ&usqp=CAU" group-title="Adultos",MIAMI TV 2
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlRqqVf6jUmksy9ThsyB0hl-rrwitT99lLjg&usqp=CAU" group-title="Musica",UNO CR
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNo7u-3x8y9qzObqr_-xgdVYC2t5SxYjhgQ&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS CDMX
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1, tvg-logo="http://151.80.61.100:80/auth/UPj4YOo-a05KuAWGfeX44_qw3Yd4F2VuEH3agOQpX6btELsFsuBbwsiU5Cj6oNKmKuMOjfjsAA-m2DgSPMLGD48qJjImOdKdqqR3MioJiKeiRLUfDGpsPvB-U2Wm1uezpRTzXrd4xqqkqdXYMU7iFjYSwtHfmXPDDbgQSPiQn27HuiUx0TTCWSL_WLQCdmhsgJVeHXCVjJIPhcHP454afK6zrXQrc5dcuSVWt-xpk_E8eSWKYxTf3BWQdZoZT4eWFCGAHBGVzoyI8D-6rkykG5sO34dowb4zuJWnuJDHbYJvJcH0VgnYf5qcuzTYx2lwzkjL2Y8bVyvcQyXBG01N7jj5AqJfnqxlhaI6_gDLcv032Fn3rshKVPRi4yfZfkuteJnEpUvVPgVlZ1VPAnCL330pQvIjFpCZYOrQxL80vf4KZB3sdoOqko6SpqqUQ4rJZx3CAMQCQeqr89bxjXdQLb_tKH28CB36tYcYfQ3ctnxKgS3yENKvl-gBfkV0IHRRTl-QJaJfe5faFcYV-EjQ-97suRvAEwsDTa7Tv23FCJLjZB1hVEom1sXIobHBzwzV-AC-HlAEKaRi3FuouWaU87uitCBOU13gEfLUAOFffbc" group-title="Kids", DREAMWORKS CHANNEL
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://151.80.61.100:80/auth/UPj4YOo-a05KuAWGfeX44_qw3Yd4F2VuEH3agOQpX6btELsFsuBbwsiU5Cj6oNKmKuMOjfjsAA-m2DgSPMLGD48qJjImOdKdqqR3MioJiKeiRLUfDGpsPvB-U2Wm1uezpRTzXrd4xqqkqdXYMU7iFjYSwtHfmXPDDbgQSPiQn27HuiUx0TTCWSL_WLQCdmhsgJVeHXCVjJIPhcHP454afK6zrXQrc5dcuSVWt-xpk_E8eSWKYxTf3BWQdZoZT4eWFCGAHBGVzoyI8D-6rkykG5sO34dowb4zuJWnuJDHbYJvJcH0VgnYf5qcuzTYx2lwzkjL2Y8bVyvcQyXBG01N7jj5AqJfnqxlhaI6_gDLcv032Fn3rshKVPRi4yfZfkuteJnEpUvVPgVlZ1VPAnCL330pQvIjFpCZYOrQxL80vf4KZB3sdoOqko6SpqqUQ4rJZx3CAMQCQeqr89bxjXdQLb_tKH28CB36tYcYfQ3ctnxKgS3yENKvl-gBfkV0IHRRTl-QJaJfe5faFcYV-EjQ-97suRvAEwsDTa7Tv23FCJLjZB1hVEom1sXIobHBzwzV-AC-HlAEKaRi3FuouWaU87uitCBOU13gEfLUAOFffbc
