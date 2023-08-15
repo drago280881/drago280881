@@ -237,10 +237,10 @@ http://45.166.92.22:58001/play/a050/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://181.177.255.253:8000/play/a028/index.m3u8
-#EXTINF:-1, tvg-logo=" https://www.google.com/search?client=ms-android-motorola-rvo3&sca_esv=556867888&hl=es-419&sxsrf=AB5stBiFc1ka-dDCTr7RJRekUGBLl-vl0g:1692047369292&q=golden+edge&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjx047Th92AAxUlk2oFHYUsAFUQ0pQJegQICxAB&biw=509&bih=973&dpr=2.13#imgrc=KDWCiLXKAk8cOM" group-title="Cine",GOLDEN EDGE
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4U1f7CnRuFBdunhzRM3wVLBGhwOE5KlsVYw&usqp=CAU" group-title="Cine",GOLDEN EDGE
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101221.m3u8
+http://181.78.8.90:16123/play/ch47
 #EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pV6wgT9u40RbzF385KhTPWkr_AXNba3yIw&usqp=CAU" group-title="Cine",MULTIPREMIER
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
