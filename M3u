@@ -401,4 +401,67 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHda85H05bX9hCan7YoVRMtxLypJ0S3KBf8w&usqp=CAU" group-title="Deportes",AFIZZIONADOS
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://v3.playerlatino.live/stream/m3u8/878
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofAUkW0AI1sO0BN7GDizBxwtH2PSbjJsCeg&usqp=CAU" group-title="Deportes",TUDN USA
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/live/moraipxuje2/acab1312/39191.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofAUkW0AI1sO0BN7GDizBxwtH2PSbjJsCeg&usqp=CAU" group-title="Deportes",TUDN MX
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/live/moraipxuje2/acab1312/39190.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ikg6XkXgJo3t1KMI9IQEeOvtHUaQe9KDfw&usqp=CAU" group-title="Deportes",CLARO SPORT
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx3iJJ4eQuyKTvqFT7cFfBjpdXNteIj80Wg&usqp=CAU" group-title="Deportes",FOX SPORTS
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://mag.redmytv.com:80/ivantramonto/5D61D8/101205
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQIFkRAjdKP2NSWUFaF-5LJGJKJYs8HGL1A&usqp=CAU" group-title="Deportes",FOX SPORTS 2
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://mag.redmytv.com:80/ivantramonto/5D61D8/101206
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBf3BrQQxZAkWG-ixDAdc7yn2OypCtbImOmw&usqp=CAU" group-title="Deportes",FOX SPORTS 3
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tvpro.tech:8080/patacujne23/acab1312/46473
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoKJf2cMjcojPSaZ1NZtTeTLFzBF7lkACCg&usqp=CAU" group-title="Deportes",FOX SPORTS PREMIUM 
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKN6RKDtZ3COOfKhHe5FJx23HnLjgFyutpJg&usqp=CAU" group-title="Deportes",ESPN
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/7925.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1m8k12wJqsSycunIGbWZ1ChWFquidF7tY8w&usqp=CAU" group-title="Deportes",ESPN 2
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/7924.m3u8
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/7923.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeR8lzlhh9uinSrJXJweCTruOvHhESBrKagw&usqp=CAU" group-title="Deportes",BEIN SPORTS
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/144620.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLv9V4-Pd2j5x1zJN2RXdpepjqObDDtpxiA&usqp=CAU" group-title="Deportes",MOVISTAR LA LIGA
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/297303.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqD1vPIwKPmn2irnsbSPkEiVV09hQ_1x3ieQ&usqp=CAU" group-title="Deportes",SKY LA LIGA
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/145437.m3u8
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjU33eD_L_0CSGKURimhuQuH0P4KH8vBrVA&usqp=CAU" group-title="Deportes ",Directv Sports
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://muka03.wanicelife.com:8880/live/EilaineCyrus/kwNjMz9Xbu/49979.m3u8#EXTINF:-1, tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Deportes",DIRECTV SPORTS 2
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://muka03.wanicelife.com:8880/live/EilaineCyrus/kwNjMz9Xbu/51284.m3u8
 
