@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="Entretenimiento",AZTECA UNO
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTVLCOPT:caché de red=1000
+#EXTINF:-1, ,AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlj08etwYGcLg7VSgczl4hKvgUTBbBEpkBVA&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS 
 #EXTVLCOPT--http-reconectar=verdadero
@@ -18,7 +16,7 @@ http://170.79.235.29:8000/play/151
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Entretenimiento",IMAGEN
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/3767
+http://magmas.com:8000/sunlink/dFIdo0UaMM/3767
 #EXTINF:-1, tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11513-1329_import.png" group-title="Entretenimiento",FORO TV
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
