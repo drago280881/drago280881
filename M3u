@@ -289,7 +289,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/260518.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a02c/index.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvC9qAyM37vpcYt9KMVAqrF6o2_MyyaPkNw&usqp=CAU" group-title="Cine",CINECANAL
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvC9qAyM37vpcYt9KMVAqrF6o2_MyyaPkNw&usqp=CAU" group-title="Cine"audio-track="spa,rus,eng",CINECANAL
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a04b/index.m3u8
