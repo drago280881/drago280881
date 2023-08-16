@@ -284,7 +284,7 @@ http://181.78.75.11:9500/play/CINEPREMIUM/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNDgiqY1ZM_wMGS_xeu_JeQn1tJ8u3L0W9Q&usqp=CAU" group-title="Cine",AMC
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://45.166.92.22:58001/play/a00q/index.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/260518.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2aZlwuVS7iJTLSY9I0GDGYMkU-DqpglYJhQ&usqp=CAU" group-title="Cine",CINE LATINO 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
