@@ -292,7 +292,7 @@ http://45.166.92.22:58001/play/a02c/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvC9qAyM37vpcYt9KMVAqrF6o2_MyyaPkNw&usqp=CAU" group-title="Cine",CINECANAL
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://181.177.255.253:8000/play/a03h/index.m3u8
+http://45.166.92.22:58001/play/a04b/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRz91iUOfrHfYdFy7KIIFINrpbYjQ1mtiMw&usqp=CAU" group-title="Cine",FX HD
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
