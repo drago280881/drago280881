@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, ,AZTECA UNO
+#EXTINF:-1,AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlj08etwYGcLg7VSgczl4hKvgUTBbBEpkBVA&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS 
 #EXTVLCOPT--http-reconectar=verdadero
