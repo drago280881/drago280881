@@ -176,9 +176,6 @@ http://45.228.234.41:16000/play/a0am/index.m3u8
 #EXTINF:-1, EWTN
 #EXTGRP:Entretenimiento
 http://45.166.92.22:58001/play/a050/index.m3u8
-#EXTINF:-1, GOLDEN PLUS
-#EXTGRP:Cine
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/46885.m3u8
 #EXTINF:-1, GOLDEN EDGE
 #EXTGRP:Cine
 http://181.78.8.90:16123/play/ch47
@@ -395,6 +392,32 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1, DOS KIDS
 #EXTGRP:Kids
 http://170.79.235.29:8000/play/002
-
+#EXTINF:-1, CARTOON NETWORK HD
+#EXTGRP:Kids
+http://181.78.75.11:9500/play/a00l/index.m3u8
+#EXTINF:-1, RETRO CARTOON
+#EXTGRP:Kids
+http://181.78.75.11:9500/play/a00l/index.m3u8
+#EXTINF:-1, SEMILLITAS 
+#EXTGRP:Kids
+http://45.228.234.41:16000/play/a08u/index.m3u8
+#EXTINF:-1, MTV
+#EXTGRP:Musica
+http://181.78.75.11:9500/play/a01m/index.m3u8
+#EXTINF:-1, MTV LIVE
+#EXTGRP:Musica
+http://181.78.75.11:9500/play/a01t/index.m3u8
+#EXTINF:-1, HTV
+#EXTGRP:Musica
+http://181.78.75.11:9500/play/a01v/index.m3u8
+#EXTINF:-1, TELEHIT
+#EXTGRP:Musica
+http://181.78.75.11:9500/play/a030/index.m3u8
+#EXTINF:-1, GOLDEN PLUS
+#EXTGRP:Cine
+http://181.78.75.11:9500/play/a01d/index.m3u8
+#EXTINF:-1, SEMILLITAS 
+#EXTGRP:Kids
+http://45.228.234.41:16000/play/a08u/index.m3u8
 
 
