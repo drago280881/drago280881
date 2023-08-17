@@ -419,7 +419,7 @@ http://181.78.75.11:9500/play/a01d/index.m3u8
 #EXTINF:-1, SEMILLITAS 
 #EXTGRP:Kids
 http://45.228.234.41:16000/play/a08u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Destroyer. Una mujer herida - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Destroyer. Una mujer herida - 2018
+Ñ tvg-id="" tvg-name="Destroyer. Una mujer herida - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Destroyer. Una mujer herida - 2018
 http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/93813.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Book of Monsters (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yTwzpgMFteCVpNqFbNyDQyyLjv.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Book of Monsters (2019)
 http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/93929.mkv
@@ -593,6 +593,346 @@ http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/101275.mp4
 http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98415.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cold Blood Legacy - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a17PQiWS1kzILONsmhdyPDhaOZL.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Cold Blood Legacy - 2019
 http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkConpJqAQ15Z7hbfNgUoowEnTB.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Black and Blue (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asesinos anónimos - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llESeuE3PnMy6WpF2hZpSaRIc5a.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Asesinos anónimos - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor sueño - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gucnaxqpzEDycFmPwwqjiwvemA.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Doctor sueño - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",1917 (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jugando con fuego - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RBUCBhi1tqhYf1bGkmzOtIfHIG.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Jugando con fuego - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Countdown - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCIPxSmXcZUJ0ZEi8B9Emf8xj6a.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Countdown - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mujercitas - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2wBWFEQ9FE0RcjmWXz3vvSNPfT.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Mujercitas - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Huérfanos de Brooklyn - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2X86f3KRbdStQXk0f8pZovSRpal.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Huérfanos de Brooklyn - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abigail (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rNWxdsUYDsDxHrEc3OmXZVdKwJ.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Abigail (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La gran mentira - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhiZjKydWHNDPP4xqM9CmA3yBGR.jpg" group-title="Cine: Drama, Thriller, Romance❤️",La gran mentira - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hard Night Falling (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shi9Fdv2noZXOkGZLjqMBSfbGVW.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Hard Night Falling (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Richard Jewell - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rI1qPAtkFOzl5aiIwuwSOzn48S.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Richard Jewell - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manhattan sin salida - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSN9SysoRBMwJKNkfOlQlCw2YQO.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Manhattan sin salida - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/98496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del planeta de los simios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTwp3vdxcewkaLw41w0mVGRsHYw.jpg" group-title="⚡Todas las Sagas Épicas⚡",La guerra del planeta de los simios (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El origen del planeta de los simios (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyCXO8lTKs62V5A4IsdNLjvskWM.jpg" group-title="⚡Todas las Sagas Épicas⚡",El origen del planeta de los simios (2011)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El amanecer del planeta de los simios (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNu2N4a9nuGWgkeg3NzdRTDOz5N.jpg" group-title="⚡Todas las Sagas Épicas⚡",El amanecer del planeta de los simios (2014)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon: Mewtwo contraataca: Evolución (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioh4pSEaXWof5P9tLbkUivYpVlK.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Pokémon: Mewtwo contraataca: Evolución (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jay y Bob el silencioso: el reboot (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUZxdGtU6BDgvQQDScaawvm7EhI.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Jay y Bob el silencioso: el reboot (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DeSastre & Total. Agencia de detectives nº 1 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",DeSastre & Total. Agencia de detectives nº 1 (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roma (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uciEQzSbJWVD7fxWwGTAZyvcl3U.jpg" group-title="⭐️Documentales⭐️",Roma (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anastasia: Once Upon a Time (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Anastasia: Once Upon a Time (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 4 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAWBfTDAmfpvQGMVFuzuVl49N1P.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Ip Man 4 - 2019
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horse Girl (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNQ7st9dFXUXENMcsAuVxcrIBfA.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Horse Girl (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/100464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guns Akimbo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kNnf7BwRCEm4bcFkdiE0T4U25s.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Guns Akimbo (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/101259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spenser: confidencial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7lkcv6meB7ueTz3iFFhsmcnEey.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Spenser: confidencial (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/101260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucy (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Lucy (2014)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/101410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terra Willy: Planeta desconocido (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDZZl36lkxRqrLfpQRsEr2MP5Bq.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Terra Willy: Planeta desconocido (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/101413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Isi & Ossi (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7siFsEYnwCQfAezhupnjogPMoM.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Isi & Ossi (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/101957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yX5SoQdABwVAiddkkAm1T58DAYJ.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Coco (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 2 (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zI0N9blJ9DwuV2xgl3TdGFLtn0.jpg" group-title="⚡Todas las Sagas Épicas⚡",Toy Story 2 (1999)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 3 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cpGytCB0eqvRks4FAlJoUJiFPG.jpg" group-title="⚡Todas las Sagas Épicas⚡",Toy Story 3 (2010)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GdMDcacJra4ZmDaBIRASIpzjmU.jpg" group-title="⚡Todas las Sagas Épicas⚡",Toy Story (1995)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story, el tiempo perdido (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JaC1JcuRgk01HcKuWa1PsmeHhG.jpg" group-title="⚡Todas las Sagas Épicas⚡",Toy Story, el tiempo perdido (2014)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La viuda (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTCbzxDozmU4LHFA3L07sdpFpqd.jpg" group-title="Cine: Drama, Thriller, Romance❤️",La viuda (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boyka: Invicto IV (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Boyka: Invicto IV (2016)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freaks (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdNqDvUCXy2K0ONytVgMY0YU3Su.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Freaks (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Danger close: la batalla de Long Tan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxNpz0oi2LuU82VQ4p2QtKeqgF3.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Danger close: la batalla de Long Tan (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La trinchera infinita (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l28g28lT2yv1eIX0XNqNP4osPw.jpg" group-title="Cine: Drama, Thriller, Romance❤️",La trinchera infinita (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ventajas de viajar en tren (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6C8uJnxoBZVYY7iueExVL423RLI.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Ventajas de viajar en tren (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw VIII (Jigsaw) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaHuEyGPSEVS731p6jsRCBdEXre.jpg" group-title="⚡Todas las Sagas Épicas⚡",Saw VIII (Jigsaw) (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg" group-title="⚡Todas las Sagas Épicas⚡",Saw (2004)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw II (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" group-title="⚡Todas las Sagas Épicas⚡",Saw II (2005)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw III (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O3WHiMsROucozbDrJwljaTZh5C.jpg" group-title="⚡Todas las Sagas Épicas⚡",Saw III (2006)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw IV (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8YM09nbc5YkEEqNJV6vNr5mzUC.jpg" group-title="⚡Todas las Sagas Épicas⚡",Saw IV (2007)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw VII (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJzINVqNpsb3W7DA1gmToWbjmrL.jpg" group-title="⚡Todas las Sagas Épicas⚡",Saw VII (2010)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw V (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKl79KqLXg60KFyKsLe4wSSjQ08.jpg" group-title="⚡Todas las Sagas Épicas⚡",Saw V (2008)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw VI (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbj6PhEYIT5IVtzy1TSAVX8flAM.jpg" group-title="⚡Todas las Sagas Épicas⚡",Saw VI (2009)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locos de Amor 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSisF2tArqipuEcEw714mn64fpe.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Locos de Amor 2 (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andrea Bocelli - Vivere Vivo en la Toscana (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVqT7AihTODVJhKRfhyoPaMAEtq.jpg" group-title="♩ ♪ ♫ ♬Conciertos ¡en Vivo!♩ ♪ ♫ ♬",Andrea Bocelli - Vivere Vivo en la Toscana (2009)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bee Gees: One Night Only (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLSeV2ZjgsEOi8vcb0z4GESBbKx.jpg" group-title="♩ ♪ ♫ ♬Conciertos ¡en Vivo!♩ ♪ ♫ ♬",Bee Gees: One Night Only (1997)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pet Shop Boys: Pandemonium Tour (2009)" tvg-logo="https://www.petshopboys.co.uk/media/article-images/1600/bd52a661301f9de7621496164e2860ae.jpg" group-title="♩ ♪ ♫ ♬Conciertos ¡en Vivo!♩ ♪ ♫ ♬",Pet Shop Boys: Pandemonium Tour (2009)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Queen - Live Wembley Stadium FRIDAY 1986 " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EYyrHWH7L._SY445_.jpg" group-title="♩ ♪ ♫ ♬Conciertos ¡en Vivo!♩ ♪ ♫ ♬",Queen - Live Wembley Stadium FRIDAY 1986 
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="First Man (El primer hombre) (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLXDrsgBqdO0xJHoRlBBMMortWL.jpg" group-title="Cine: Drama, Thriller, Romance❤️",First Man (El primer hombre) (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loca por el trabajo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPS4ju4Po7n7RIpR4yRMSw3k8oG.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Loca por el trabajo (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mula (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7tJH9dXbHUHFF9ziACg3ELc2TC.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Mula (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el último hombre (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5ZCVgxlFmlpFnR9DWVUkOVw4hW.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Hasta el último hombre (2016)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La milla verde (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EFS40uFzv5ZVLSpu3xqYqnou67.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",La milla verde (1999)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hot Dog (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fK3qdOmFkifVna0hZ3Sjoftal9g.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Hot Dog (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wunderland (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WRTtEKVKkCKBJBVGQart22fXap.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Wunderland (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunt 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUTbNCxYH5L4AddZ67O0O1jk16n.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Monster Hunt 2 (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="@buelos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aew0c5U78cDq2o2dnFsMGFaD6kN.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",@buelos (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Día de lluvia en Nueva York (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya9ojfuWylP4P6iiaIaxz67Chu0.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Día de lluvia en Nueva York (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jaulas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1jE9vywpdOiVKPNKMLfDqsqY2I.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Jaulas (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102715.avi
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea de los Giles (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAtpMUO7oKUi1lJIa7vWQCAVJIz.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",La Odisea de los Giles (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Larga vida y prosperidad (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkl9yRjmSIdClE6AkvqUPdjCkIJ.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Larga vida y prosperidad (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un asunto de familia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQh7k7HJ7Avpyx9WF1KhCq9r6WI.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Un asunto de familia (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dirt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg" group-title="⭐️Documentales⭐️",The Dirt (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hilo invisible (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVjtYgbhErZcF6l8fGxlgYH1KPl.jpg" group-title="Cine: Drama, Thriller, Romance❤️",El hilo invisible (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La carga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3E0RlV3UuJfIhhonjLrbfn6Neb.jpg" group-title="Cine: Drama, Thriller, Romance❤️",La carga (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yucatán (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6z3f3I2YLpaipyYGItOf7c7kqRK.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Yucatán (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UglyDolls: Extraordinariamente Feos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpSUclx8IJ6yrDxG54JSP03JmPq.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",UglyDolls: Extraordinariamente Feos (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El pan de la guerra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTjohNT1lxSe4nHtQaDuIWdzQc5.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",El pan de la guerra (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jonas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEHLClJkxhX1Zhr6AYxr68jSYzH.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Jonas (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La favorita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mirzwvOh7s5HN0vC7b7H6WMkO6X.jpg" group-title="Cine: Drama, Thriller, Romance❤️",La favorita (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Número desconocido (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1051biKSE5MriLrfHCRuVZHS2Qc.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Número desconocido (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ocupación (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZAKMXiWAMusygBQYIFBW9hEb3u.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Ocupación (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pensión completa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huRAqskIWRQzrlB3ytgCeijv9Ck.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Pensión completa (2015)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buscando a Dory (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Buscando a Dory (2016)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buscando a Nemo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhak722pNGxQIXSEfeWIUqBrO5.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Buscando a Nemo (2003)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 2: La venganza de Freddy (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D837ivB8EHQMRTlvUBe7ahbUCP.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Pesadilla en Elm Street 2: La venganza de Freddy (1985)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La semilla de Chucky (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIUXr9UXu9s06l7GWxdV0DDSwRp.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",La semilla de Chucky (2004)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La noche de Halloween (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuXoYbXLUYt1KXxsCnn0zF09rGY.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",La noche de Halloween (1978)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La noche de Halloween (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v95lURdIFz4A6nqD7pcwv4IWj8H.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",La noche de Halloween (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Francesita (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jTvoBjEp7OdVHxTW2HaRsjxmpK.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",La Francesita (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La última noticia (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lwRzPagErNZbZcrrDjsiRSeJu6.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",La última noticia (2015)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Hora Final (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9AI26FzxmyVGOx8UFNZ9UTMGlp.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",La Hora Final (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locos de amor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6af6ISVZbLvvbEOAsnpRMsHo1G.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Locos de amor (2016)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los que aman, odian (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWw45yazR3UBxwrGE0NmtpXa2kY.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Los que aman, odian (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Me casé con un boludo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWo38m3XwcbOeArt2UOixPtkoB9.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Me casé con un boludo (2016)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Talento de barrio (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TzFvby9RvtboMGAnykr6d7dBMY.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Talento de barrio (2008)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A los 40 (2014)" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjTn5ej3eawDHbtAO7XddZnEcBLVjFYLG5dDgxXfDaqOmb3V4F" group-title="♥️♥️Cine: Latinoamericano♥️♥️",A los 40 (2014)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abducted (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE3Dg5k8I4YYejbgha2ZuYIKL3Y.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Abducted (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCPwduyyqCrIpSk1kA0p8lwjveB.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Annabelle (2014)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Durante la tormenta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yndgWGFOVAxzfu20KU4jKFZaxhu.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Durante la tormenta (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Combate en el cielo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw0tphnqFx70ElN7TYmsKM8qD2r.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Combate en el cielo (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vida privada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0LxunoOD30s1d9fgwFQ0JTUCva.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Vida privada (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paciente cero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onTStFE5QdmfRWuaB7qnFQSJ6wW.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Paciente cero (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ideal Home (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG1LGKXuxhzgmheGxZqDYekCzCr.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Ideal Home (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Peter Rabbit (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigos en apuros (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgh4PBtTXHSjzd7Axly6Mz6tu9.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Amigos en apuros (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papá Youtuber (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWiVgXu4XbFlDIfPmsnRPgY53sz.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Papá Youtuber (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rapto (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3X9s3839ElhJMjk2TOfkEqjIeZ.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Rapto (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Recontraloca (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9u57brihgYCuezkyJ1SAyUowbG.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Recontraloca (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La marca del demonio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RcauukLfwBtB7bAKzFhxAnlSKb.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",La marca del demonio (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/102934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon: Reenfundados (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dql1WvlOdEgzQ0Ub05NqHmW7D4y.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Altered Carbon: Reenfundados (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cincuenta sombras liberadas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Cincuenta sombras liberadas (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El malvado zorro feroz (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqDDSRH1tr8r7ctzf5XSrkLIn2W.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",El malvado zorro feroz (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Galveston (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3hDPc70JEWbrLruk6sni1OcODe.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Galveston (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Leyenda de Redbad (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBoi6jguamk1eEEkGo5JEnV2D0w.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",La Leyenda de Redbad (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las guardianas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/236NIBjTt0nA3N0pKfUgihRkcyd.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Las guardianas (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taxi 5 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Taxi 5 (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cheerleader Escort (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvFVsIO73JmVTPlFCT2eeKHH72k.jpg" group-title="Cine: Drama, Thriller, Romance❤️",The Cheerleader Escort (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Whitney (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1c6dTycYBMZs2T1wKA6bknLLa6.jpg" group-title="⭐️Documentales⭐️",Whitney (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus, cómo comenzó todo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7RUGlfQt8ZQsyhYEtwOnuykYSw.jpg" group-title="⭐️Documentales⭐️",Coronavirus, cómo comenzó todo (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mascotas 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqGsG2uNV9JGgrfODbTafPUukci.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Mascotas 2 (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crip Camp (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iALSypN3MhC6kBVwc9VpuJUlm1j.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Crip Camp (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Rompe, Ralph el demoledor! (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTpE4JQ2C09NicqvDhwi70IRz62.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",¡Rompe, Ralph el demoledor! (2012)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit: Un viaje inesperado (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg" group-title="⚡Todas las Sagas Épicas⚡",El Hobbit: Un viaje inesperado (2012)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit: La batalla de los cinco ejércitos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="⚡Todas las Sagas Épicas⚡",El Hobbit: La batalla de los cinco ejércitos (2014)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hobbit: La desolación de Smaug (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg" group-title="⚡Todas las Sagas Épicas⚡",El Hobbit: La desolación de Smaug (2013)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagro en la celda 7 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scxBIHaT1ZiPDPJu3vKd9Yn5gBA.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Milagro en la celda 7 (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdwpe2rk2xJ0MwO64ouVTNOyTzD.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Bloodshot (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La virgen de los sicarios (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6P4IS67G01aNWGmIEgemTTS9P9.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",La virgen de los sicarios (2000)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La boca del lobo (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90EH7sLfhCDvFxxsrwA5sezGquB.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",La boca del lobo (1988)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underwater (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlHL2BH176JApGiLnNQLQgdjMFd.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Underwater (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perú: Tesoro escondido (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz21T1D5DFiTc9t4oKKdlE82Szm.jpg" group-title="⭐️Documentales⭐️",Perú: Tesoro escondido (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/103841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onward (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jiwsh6i9DeguL4iRgQkpkP7m11.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Onward (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/104109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Coffee & Kareem (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/104501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El declive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UYMBvZzMZOWfwPaTZsqIuMrmTd.jpg" group-title="Cine: Drama, Thriller, Romance❤️",El declive (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/104529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En brazos de un asesino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqRUOtbDunNq7gTux3zXz25Krwp.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",En brazos de un asesino (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/104532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquí y ahora (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1C9mCI9kRdB1THBFkwOg2uvzZRi.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Aquí y ahora (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/104533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gretel & Hansel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LB4oRyWWwv08C2xxmbx1wTj7CU.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Gretel & Hansel (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/104555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La oveja Shaun, la película Granjaguedón (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZMSXJGwlL14JJRwDYkXEWmOnEC.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",La oveja Shaun, la película Granjaguedón (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/104558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrápame si puedes (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxX5KGDO4lf2yyBJn2IxBx3F4cO.jpg" group-title="Cine: Crimen, Guerra, Artes Marciales ⚔️",Atrápame si puedes (2002)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antes que sea tarde (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="⭐️Documentales⭐️",Antes que sea tarde (2016)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elephant (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1a4VU9z2hxEvugHMK7VsobB9xTX.jpg" group-title="⭐️Documentales⭐️",Elephant (2003)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pachamama (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MP51jJ3ksNy0zXqkuhF8mgOPMJ.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Pachamama (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Django: La otra cara (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcuHdnVtAOsbvE93bN9MhiBVF0J.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Django: La otra cara (2002)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Niñas araña (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUzaHaG5SBRgmNkxoXO4NtZ0rmJ.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Niñas araña (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dos buenos tipos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Dos buenos tipos (2016)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween, el origen (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvb0mlWQA2dnhbUvD0Jsy4tV7kK.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Halloween, el origen (2007)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween II (H2) (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BQHbsPjKVH6yocHdJ6JQGNpifS.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Halloween II (H2) (2009)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 2: Sanguinario (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8hxlFY54QJPDKktBvePR7QhJWE.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",Halloween 2: Sanguinario (1981)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Osos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prsNdzokTWRRgT1NmwR9sqzQPvX.jpg" group-title="⭐️Documentales⭐️",Osos (2014)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El reino de los monos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kaKWGqLK8Ymmniz8pMYtd4Pyi0.jpg" group-title="⭐️Documentales⭐️",El reino de los monos (2015)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mientras Estés Conmigo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD7JLFdRzfr0Pa7AZetnNepYDeM.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Mientras Estés Conmigo (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rómulo y Julita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAKrdfRHYwL4I2qIE1oBKhtNDi1.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Rómulo y Julita (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dredd (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMQPCZ5MlBAyjXAjU8FVGz6yZnv.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Dredd (2012)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tadeo Jones 2: El secreto del rey Midas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsaGcfQcGuRmSHfvQEbjj4gR9jP.jpg" group-title="❤️Cine Infantil, para los peques! ⓐ ⓑ ⓒ",Tadeo Jones 2: El secreto del rey Midas (2017)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Descendientes 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYlUNAvMczvXaDzbEaGIkvKivbg.jpg" group-title="Cine Familia: Comedia, Fantasía, Música⚡️",Los Descendientes 3 (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg" group-title=" ☢️DC Comics: En la gran pantalla",¡Shazam! (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangre por sangre (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykkGS21fSaN7jnErKDQr7uXS6jw.jpg" group-title="♥️♥️Cine: Latinoamericano♥️♥️",Sangre por sangre (1993)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dangerous Lies (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0g9tzgZKKmNEtwcjS3aF4kduRi.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Dangerous Lies (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasy Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0ZX1ymtnZ4ATsQJjXTPaG9RdWD.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Fantasy Island (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ricos de amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8kRdW12mhOakR9WqVnarQbqGNH.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",Ricos de amor (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fiebre del ladrillo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW06KTvAqAZXaVQOQGApjDdhkSW.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Fiebre del ladrillo (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sergio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tABtj9BwYVDCM69h7AK38MDgw64.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Sergio (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Photograph (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdqZqIcWt0Ne2Io2OA9iWqqMuCA.jpg" group-title="Cine: Drama, Thriller, Romance❤️",The Photograph (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La noche de Halloween (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxKZjgIf2H6JBFNIVEXgLbysqRF.jpg" group-title="Cine: Terror, Misterio y Suspenso⚡️",La noche de Halloween (2018)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wild Rose (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTmP1q4EIdeJWtVjMNX9O0CGoY9.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Wild Rose (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Midsommar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/km0ta4N96yjoZPVy5A3gbcE3Ne8.jpg" group-title="Cine: Drama, Thriller, Romance❤️",Midsommar (2019)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/107405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Atrapasueños (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",El Atrapasueños (2020)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300: El origen de un imperio (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg" group-title="Cine: Acción, Ciencia Ficción y Aventura☢️",300: El origen de un imperio (2014)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Leyenda De ShenLong" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81zKwWGZPFL._SL1500_.jpg" group-title="⚔️Dragon Ball⚔️",La Leyenda De ShenLong
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: La Bella Durmiente en el Castillo del Mal (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldP1oqszTTOMKHVGxfcEXB6ZPgS.jpg" group-title="⚔️Dragon Ball⚔️",Dragon Ball: La Bella Durmiente en el Castillo del Mal (1987)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Aventura mística (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24AnQPAeYVGFwUzHt216X7yB27M.jpg" group-title="⚔️Dragon Ball⚔️",Dragon Ball: Aventura mística (1988)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: El camino hacia el más fuerte (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6RJmVl92mynnbW8s26S0JzZktx.jpg" group-title="⚔️Dragon Ball⚔️",Dragon Ball: El camino hacia el más fuerte (1996)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Garlic Junior Inmortal (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHxHxbysTyZLS6rIK9JF7CuWWW.jpg" group-title="⚔️Dragon Ball⚔️",Dragon Ball Z: Garlic Junior Inmortal (1989)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El más fuerte del mundo (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/josemuzYrnyaHsWVsVpcdFLndCq.jpg" group-title="⚔️Dragon Ball⚔️",Dragon Ball Z: El más fuerte del mundo (1990)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Batalla Mas Grande Del Mundo" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418MTZFQ2KL._AC_SY445_.jpg" group-title="⚔️Dragon Ball⚔️",La Batalla Mas Grande Del Mundo
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/108174.mp4
 
 
 
