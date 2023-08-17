@@ -395,9 +395,9 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1, MULTIMEDIOS CDMX
 #EXTGRP:Entretenimiento
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1, DREAMWORKS CHANNEL 
+#EXTINF:-1, DOS KIDS
 #EXTGRP:Kids
-http://plusxtream.online:80/live/pena12345/ZcZyGEvnKW/197910.m3u8
+http://170.79.235.29:8000/play/002
 
 
 
