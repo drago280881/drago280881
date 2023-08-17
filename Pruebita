@@ -459,7 +459,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTVLCOPT:caché de red=1000
 http://plusxtream.online:80/live/pena12345/ZcZyGEvnKW/197910.m3u8
 #EXTINF:-1,Prueba  
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNo7u-3x8y9qzObqr_-xgdVYC2t5SxYjhgQ&usqp=CAU"
+#EXTVLCOPT:tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNo7u-3x8y9qzObqr_-xgdVYC2t5SxYjhgQ&usqp=CAU"
 #EXTGRP:Entretenimiento
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
