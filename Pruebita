@@ -1,4 +1,4 @@
-Uio#EXTM3U
+#EXTM3U
 #EXTINF:-1,AZTECA UNO
 #EXTGRP:Entretenimiento
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -352,7 +352,7 @@ http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/83563.m3u8
 http://170.79.235.29:8000/play/112
 #EXTINF:-1, DISNEY CHANNEL
 #EXTGRP:Kids
-http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/1377
+http://181.78.75.11:9500/play/a036/index.m3u8
 #EXTINF:-1, DISCOVERY KIDS
 #EXTGRP:Kids
 http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/26887
@@ -397,7 +397,7 @@ http://170.79.235.29:8000/play/002
 http://181.78.75.11:9500/play/a00l/index.m3u8
 #EXTINF:-1, RETRO CARTOON
 #EXTGRP:Kids
-http://181.78.75.11:9500/play/a00l/index.m3u8
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1, SEMILLITAS 
 #EXTGRP:Kids
 http://45.228.234.41:16000/play/a08u/index.m3u8
