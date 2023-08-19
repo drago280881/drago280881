@@ -527,4 +527,7 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101313.m3u8
-
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",prueba
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://live.telelatinohd.com:8080/MjAxLjE0MS4xMTEuOQ==/205_.m3u8?token=SeV6H9UV_ZFpcJJ6mHjkOA&expires=1692475662
