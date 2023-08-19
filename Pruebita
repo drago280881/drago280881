@@ -394,7 +394,7 @@ http://45.166.92.22:58001/play/a01m/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHda85H05bX9hCan7YoVRMtxLypJ0S3KBf8w&usqp=CAU" group-title="Deportes",AFIZZIONADOS
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-https://v3.playerlatino.live/stream/m3u8/878
+http://plusxtream.online:80/play/OGjrSDzZE1SEmjgehTROHX2MVAatwvtJmeElAvWIv_lNqAsygbV9_folOZgzYvYH/ts
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofAUkW0AI1sO0BN7GDizBxwtH2PSbjJsCeg&usqp=CAU" group-title="Deportes",TUDN USA
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
@@ -527,7 +527,7 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/51308
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",prueba
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.pngn_America_%282018%29.png" group-title="Deportes",DAZN LA LIGA 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-https://live.telelatinohd.com:8080/MjAxLjE0MS4xMTEuOQ==/205_.m3u8?token=SeV6H9UV_ZFpcJJ6mHjkOA&expires=1692475662
+http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/29303
