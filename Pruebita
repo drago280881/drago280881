@@ -531,3 +531,7 @@ http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/51308
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/29303
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0arTKuzOUYfgvg1E9aaaRz2vfHvysBcp0w&usqp=CAU" group-title="Deportes",DAZN LA LIGA 
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/180061
