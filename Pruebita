@@ -454,11 +454,11 @@ http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/145437.m3u8
 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes",Directv Sports
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/83564.m3u8
+http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101311.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="Deportes",DIRECTV SPORTS 2
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/83563.m3u8
+http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101312.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Cine",CINEMAX
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
@@ -522,4 +522,13 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="Kids",DREAMWORKS CHANNEL 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://192.142.79.189/auth/A3nd3X3KAk8VkH_Kkk-ylN2yNcnm3Hnxru5nlhba1M_v6QNSEM69fuDdpbmzD0mTPVJTTdv_piMhQki1sqCeVpGVcL4lindobrLpQzCyD2GvJu4lUeM-eVLmMzB_zBfleNveHfBJ_OW2uu8ZKiVF98KQf0E9Fys7rGDKs0ztvh4DTijSXw2aWKgP8P2llKPh-mq_TDvt0iHbzpjv7yRtIVaqGVTfLSrBuzjPbz78fL4Tl4mMexsFDMnBorJ0XM5518Qmmrg6zhh5yWALQXeS15XWMqUTVesSsD0FbKGiXlrkAEAaAF1dCBP_7O_rpb0NrgqvIu3xXZadnbkMeCJKm_OdWPc01NGBP4zJjUMot-smeEHcYUcqRBpwD5_HVApjN-mGc6gS5JTpl_MKgsq65mclnRlXjttcqP64oOZFbb5UReYo608lDCrXriabS9me166QqYwQhttp://192.142.79.189/auth/A3nd3X3KAk8VkH_Kkk-ylN2yNcnm3Hnxru5nlhba1M_v6QNSEM69fuDdpbmzD0mTPVJTTdv_piMhQki1sqCeVpGVcL4lindobrLpQzCyD2F6giRAC_JqmbT9FGwAeigMnhJJYG0BqzR5GBHoYyepJpmQ0LWqVrcCn48TDIn34s0ReUNXk8241TyJinDnI8Niy-ZuoNMM1HbaftwfSup9L3bPX65xvgnaLVHwCAsViw7SQ6v8RymY8aQJVc5_lDEHk8G87YQRA26K6QU6DVI2wcqAVoMdG0jYdcCvqc5MlmqEK0ImsDNwMCHFO5RZxzNhGMMMgsc6Q89hJfsefFFYaGx-ZxmKqhAuzROF3MfPPXx5lz4KmyByMd2RSTrG_bMX4CpIGT7j5YNWtMct0KK214aFA8J0N_H_uZZXBT4Tlg1WA7DmQub2_rWwZkIL3nOkwVINAWEGaftxAlWSMTAypERNfyzzS4MhbRfnLw2jZMdOUG-Nzsay0QBsbBbMwcItA2GdBAVUweG-TDlPCjslIRtbyqR0-qiKbFxG50YT5ZzfU3DObfgJPPUpGIuRKP43A7dWW7ZJ55iNydCw2cF7iFyry5zcn7Pkcf0yy_u3tlo
+http://mag.redmytv.com:80/live/ivantramonto/5D61D8/36480.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRfNQcdB3WzGBEtjtE4EPZBv_2x0zuk3WSg&usqp=CAU" group-title="Kids",RETRO CARTOON
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Kids",RETRO CARTOON
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101313.m3u8
+
