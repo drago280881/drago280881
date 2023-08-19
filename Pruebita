@@ -44,7 +44,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/163347
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Entretenimiento",MVS TELEVISION
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-https://www.dailymotion.com/cdn/live/video/x7urqme.m3u8?sec=wka0WksqMgYggSHtzuaXE0cTdKhcDO3f746vva-Mlf8I5xoX_J5V68oL9M04kls7&dmTs=112164&dmV1st=9116a7e5-5ded-4505-a42a-30769e4262a6
+https://stream-01.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqtHCIJjf1ffyD_-0IFpj--xVZU3cOYYjFRr0d3ue4Kho)/dm/3/x7urqme/d/live-3.m3u8#cell=lsv4
 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="Entretenimiento",A MÁS +
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
