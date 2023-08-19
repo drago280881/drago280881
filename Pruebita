@@ -167,10 +167,10 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/O3SK7F6PpB_nSQDsO5-O9OOdd-MywuTbKNAiawO5pDMtcI8S7iOK5qNPeCtdTgLurmo=w600-h300-pc0xffffff-pd" group-title="Entretenimiento",CARACOL
+#EXTINF:-1, tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Entretenimiento",CARACOL
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://186.190.224.39:8000/play/a019/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/391
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7eC34t2RRjZbNoidD591q-DTAGAllqM_0Q&usqp=CAU" group-title="Entretenimiento",DISCOVERY CHANEL
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
@@ -207,7 +207,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/148738
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a00m/index.m3u8 
-#EXTINF:-1, tvg-logo=” https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20220215204912&path-prefix=es" group-title="Entretenimiento",HISTORY 2
+#EXTINF:-1, tvg-logo=” https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWwed-b7imNeBfEyrIVUBA5e3I3ZZIonjd61Y7aoZs_BABRZSneaXVZHL&s=10" group-title="Entretenimiento",HISTORY 2
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a04x/index.m3u8
