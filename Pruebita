@@ -535,3 +535,11 @@ http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/29303
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/180061
+#EXTINF:-1, tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/MTV-logo.png" group-title="Musica",MTV Latinoamerica
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/49285.ts
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJg_gMcRiNAIoZ71QeWuLEUmtsXomtB79YZQ&usqp=CAU" group-title="Musica",MTV Hits
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/363999.ts
