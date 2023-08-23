@@ -375,7 +375,7 @@ http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a03l/index.m3u8
-#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY CHANNEL
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a04a/index.m3u8
