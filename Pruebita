@@ -518,7 +518,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="Kids",DREAMWORKS CHANNEL 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://mag.redmytv.com:80/live/ivantramonto/5D61D8/36480.m3u8
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/281787
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRfNQcdB3WzGBEtjtE4EPZBv_2x0zuk3WSg&usqp=CAU" group-title="Kids",RETRO CARTOON
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
