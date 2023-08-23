@@ -131,7 +131,7 @@ http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a027/index.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgqiakEhsLWoMSesGl3lgJ92pna2m7yE48Q&usqp=CAU" group-title="Entretenimiento",E! ENTERTAINMENT
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgqiakEhsLWoMSesGl3lgJ92pna2m7yE48Q&usqp=CAU" group-title="Entretenimiento",E! LATINOAMERICA 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a00n/index.m3u8 
@@ -435,7 +435,7 @@ http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/7924.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/7923.m3u8
-#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeR8lzlhh9uinSrJXJweCTruOvHhESBrKagw&usqp=CAU" group-title="Deportes",BEIN SPORTS
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeR8lzlhh9uinSrJXJweCTruOvHhESBrKagw&usqp=CAU" group-title="Deportes",beIN Sports En Español
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/115774
