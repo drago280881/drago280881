@@ -29,7 +29,7 @@ http://line.pro-iptv.cc:80/ivantramonto/5D61D8/101182
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMaguNHLB45_6LT0W-Xau8L7pAXpSXGZjnw&usqp=CAU" group-title="Entretenimiento",SIETE
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMaguNHLB45_6LT0W-Xau8L7pAXpSXGZjnw&usqp=CAU" group-title="Entretenimiento",Canal 7 TV Azteca
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -391,7 +391,7 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a01m/index.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHda85H05bX9hCan7YoVRMtxLypJ0S3KBf8w&usqp=CAU" group-title="Deportes",AFIZZIONADOS
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHda85H05bX9hCan7YoVRMtxLypJ0S3KBf8w&usqp=CAU" group-title="Deportes ",IZZI AFIZZIONADOS
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://plusxtream.online:80/play/OGjrSDzZE1SEmjgehTROHX2MVAatwvtJmeElAvWIv_lNqAsygbV9_folOZgzYvYH/ts
@@ -411,11 +411,11 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://mag.redmytv.com:80/ivantramonto/5D61D8/101205
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQIFkRAjdKP2NSWUFaF-5LJGJKJYs8HGL1A&usqp=CAU" group-title="Deportes",FOX SPORTS 2
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQIFkRAjdKP2NSWUFaF-5LJGJKJYs8HGL1A&usqp=CAU" group-title="Deportes",FOX SPORTS 2 LATINOAMERICA 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://mag.redmytv.com:80/ivantramonto/5D61D8/101206
-#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBf3BrQQxZAkWG-ixDAdc7yn2OypCtbImOmw&usqp=CAU" group-title="Deportes",FOX SPORTS 3
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBf3BrQQxZAkWG-ixDAdc7yn2OypCtbImOmw&usqp=CAU" group-title="Deportes",FOX SPORTS 3 LATINOAMERICA 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://tvpro.tech:8080/patacujne23/acab1312/46473
@@ -431,7 +431,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48983.ts
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/7924.m3u8
-#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 LATINOAMERICA
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/7923.m3u8
