@@ -403,11 +403,11 @@ http://tvpro.tech:8080/live/moraipxuje2/acab1312/39191.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://tvpro.tech:8080/live/moraipxuje2/acab1312/39190.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ikg6XkXgJo3t1KMI9IQEeOvtHUaQe9KDfw&usqp=CAU" group-title="Deportes",CLARO SPORT
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ikg6XkXgJo3t1KMI9IQEeOvtHUaQe9KDfw&usqp=CAU" group-title="Deportes",Claro Sports 1
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx3iJJ4eQuyKTvqFT7cFfBjpdXNteIj80Wg&usqp=CAU" group-title="Deportes",FOX SPORTS
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx3iJJ4eQuyKTvqFT7cFfBjpdXNteIj80Wg&usqp=CAU" group-title="Deportes",FOX SPORTS LATINOAMERICA
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://mag.redmytv.com:80/ivantramonto/5D61D8/101205
