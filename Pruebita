@@ -5,11 +5,11 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS -2 HORAS
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS -2 HRS
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/162200
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaVy8hZC5QRxzkGguVy2f6LQAMinxapPLgQ&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS LATINO AMERICA 
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaVy8hZC5QRxzkGguVy2f6LQAMinxapPLgQ&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS INTERNACIONAL 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://170.79.235.29:8000/play/151
@@ -21,7 +21,7 @@ https://v3.playerlatino.live/stream/m3u8/341
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="Entretenimiento",CANAL 5
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="Entretenimiento",CANAL CINCO
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://line.pro-iptv.cc:80/ivantramonto/5D61D8/101182
@@ -29,23 +29,23 @@ http://line.pro-iptv.cc:80/ivantramonto/5D61D8/101182
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMaguNHLB45_6LT0W-Xau8L7pAXpSXGZjnw&usqp=CAU" group-title="Entretenimiento",AZTECA 7
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMaguNHLB45_6LT0W-Xau8L7pAXpSXGZjnw&usqp=CAU" group-title="Entretenimiento",AZTECA SIETE
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoonJapyw6FjCzN6EhLZw8Ay-RtyqRL5Jng&usqp=CAU" group-title="Entretenimiento",AZTECA CORAZÓN ♥ 
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoonJapyw6FjCzN6EhLZw8Ay-RtyqRL5Jng&usqp=CAU" group-title="Entretenimiento",AZTECA CORAZÓN 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000 
 http://line.pro-iptv.cc:80/ivantramonto/5D61D8/101168
-#EXTINF:-1, tvg-logo=" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/El-Nueve-Mexico-en-vivo-Online-Teleame-Mexico.png?fit=1920%2C1080&ssl=1" group-title="Entretenimiento",EL NUEVE 
+#EXTINF:-1, tvg-logo=" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/10/El-Nueve-Mexico-en-vivo-Online-Teleame-Mexico.png?fit=1920%2C1080&ssl=1" group-title="Entretenimiento",CANAL NUEVE 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/163347 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Entretenimiento",MVS TELEVISION
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Entretenimiento",MVS
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="Entretenimiento",A MÁS +
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="Entretenimiento",A+
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Entretenimiento",UNIVERSO
@@ -56,7 +56,7 @@ http://tvpro.tech:8080/patacujne23/acab1312/55673
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://estrella-games-oando.amagi.tv/playlist.m3u8 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjxNLdNuKjJbzRko3VaOHs_GuVCl_NsgpsA&usqp=CAU" group-title="Entretenimiento",CANAL 11
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjxNLdNuKjJbzRko3VaOHs_GuVCl_NsgpsA&usqp=CAU" group-title="Entretenimiento",CANAL ONCE
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1200px-Logo_Canal_14_M%C3%A9xico.svg.png" group-title="Entretenimiento",CANAL 14
@@ -67,7 +67,7 @@ https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpJ8f53Xvv8BCRhbzjOB6bCfJ6N9paLZk-Q&usqp=CAU" group-title="Entretenimiento",BUAP 18.1
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpJ8f53Xvv8BCRhbzjOB6bCfJ6N9paLZk-Q&usqp=CAU" group-title="Entretenimiento",BUAP
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://tvenvivo.buap.mx/livestream/stream.m3u8
@@ -75,7 +75,7 @@ https://tvenvivo.buap.mx/livestream/stream.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDIzIDI6Mjg6NTggUE0maGFzaF92YWx1ZT16cStjdy9
-#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="Entretenimiento",MEXIQUENSE TV
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="Entretenimiento",MEXIQUENSE
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -115,11 +115,11 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7eC34t2RRjZbNoidD591q-DTAGAllqM_0Q&usqp=CAU" group-title="Entretenimiento",DISCOVERY CHANEL
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7eC34t2RRjZbNoidD591q-DTAGAllqM_0Q&usqp=CAU" group-title="Entretenimiento",DISCOVERY CHANNEL
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="Entretenimiento",DISCOVERY THEATHER HD 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="Entretenimiento",DISCOVERY THEATER
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a014/index.m3u8
@@ -287,7 +287,7 @@ http://45.166.92.22:58001/play/a04b/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://170.79.235.29:8000/play/093
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="Cine",SONY MOVIE
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="Cine",SONY MOVIES
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a00u/index.m3u8
@@ -299,7 +299,7 @@ http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://170.79.235.29:8000/play/098
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyJtXyxqMFNR-rAvAPTD1HXn-KGaXVhtfeg&usqp=CAU" group-title="Cine",UNIVERSAL
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyJtXyxqMFNR-rAvAPTD1HXn-KGaXVhtfeg&usqp=CAU" group-title="Cine",UNIVERSAL TV
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.228.234.41:16000/play/a0br/index.m3u8
@@ -447,11 +447,11 @@ http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/29308
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/145437.m3u8
-#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes",Directv Sports
+#EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes",DIRECTVSPORTS
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/49979
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="Deportes",DIRECTV SPORTS 2
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="Deportes",DIRECTVSPORTS 2
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101312.m3u8
@@ -511,7 +511,7 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNo7u-3x8y9qzObqr_-xgdVYC2t5SxYjhgQ&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS CDMX
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNo7u-3x8y9qzObqr_-xgdVYC2t5SxYjhgQ&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
