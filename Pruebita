@@ -430,11 +430,11 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48983.ts
 #EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1m8k12wJqsSycunIGbWZ1ChWFquidF7tY8w&usqp=CAU" group-title="Deportes",ESPN 2
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/7924.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48967.ts
 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 LATINOAMERICA
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://kb001.xyz:80/live/y8YEcrKW8C87655/W5o7ypJ9fj/7923.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48987.ts
 #EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeR8lzlhh9uinSrJXJweCTruOvHhESBrKagw&usqp=CAU" group-title="Deportes",beIN Sports En Español
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
@@ -442,7 +442,7 @@ http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/115774
 #EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLv9V4-Pd2j5x1zJN2RXdpepjqObDDtpxiA&usqp=CAU" group-title="Deportes",MOVISTAR LA LIGA
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/29308
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/87713.ts
 #EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqD1vPIwKPmn2irnsbSPkEiVV09hQ_1x3ieQ&usqp=CAU" group-title="Deportes",SKY LA LIGA
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
@@ -547,3 +547,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/363999.ts
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136177.ts
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6AoJnsdOFqFrnnRw4N8LjWOl5W8UfAjLuNA&usqp=CAU" group-title="Cine",Lifetime Latinoamerica
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/187271.ts
