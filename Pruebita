@@ -367,7 +367,7 @@ http://muka03.wanicelife.com:8880/live/EilaineCyrus/kwNjMz9Xbu/51383.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a00o/index.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-R-bLBqhhJ-uTXjJN-MD7R9q1C1SbZHR1A&usqp=CAU" group-title="Cine",AEMX
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-R-bLBqhhJ-uTXjJN-MD7R9q1C1SbZHR1A&usqp=CAU" group-title="Cine",A&E
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://38.43.140.97:8000/play/a03l/index.m3u8
