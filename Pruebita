@@ -443,7 +443,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48958.ts
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/87713.ts
-#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqD1vPIwKPmn2irnsbSPkEiVV09hQ_1x3ieQ&usqp=CAU" group-title="Deportes",SKY LA LIGA
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqD1vPIwKPmn2irnsbSPkEiVV09hQ_1x3ieQ&usqp=CAU" group-title="Deportes",La Liga Sky Sports Mexico
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/145437.m3u8
