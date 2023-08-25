@@ -483,7 +483,7 @@ http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/51430
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPD3yVqwe2SZFn84hoIwLJWu7zQqMEbnkLLw&usqp=CAU" group-title="Musica", REGGEATON TV
+#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9FXmY3MRKgU71d4J2kU7bnc5Whn7DNFEJg&usqp=CAU" group-title="Musica",MI MUSICA REGGAETON
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://181.78.75.11:9500/play/MUSICAREGGAETON/index.m3u8
