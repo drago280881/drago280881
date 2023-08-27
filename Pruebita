@@ -154,7 +154,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/148738
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLY-F16N3ZEMWoUxBDU_wYcDasmIs3cPcnA&usqp=CAU" group-title="Kids",CARTOONITO
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/141634.ts
+http://190.61.55.186:1010/play/714/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1280px-Galavision_Logo_2013.svg.pngU" group-title="Entretenimiento",GALAVISION 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
