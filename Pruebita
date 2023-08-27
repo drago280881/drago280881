@@ -479,6 +479,10 @@ http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/1380
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/1388
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqb54AMuBLVzYnDu4HK0nsbUkPGi6Io_HMA&usqp=CAU" group-title="Kids",NICK TEEN
+#EXTVLCOPT--http-reconectar=verdadero
+#EXTVLCOPT:caché de red=1000
+http://45.228.234.41:16000/play/a09h/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RWKyDJQI0RwOGjAttQlrzTKB5LwJ4wJ7MA&usqp=CAU" group-title="Kids",TOONCAST
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
