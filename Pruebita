@@ -398,7 +398,7 @@ http://45.166.92.22:58001/play/a01m/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHda85H05bX9hCan7YoVRMtxLypJ0S3KBf8w&usqp=CAU" group-title="Deportes ",IZZI AFIZZIONADOS
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://plusxtream.online:80/play/OGjrSDzZE1SEmjgehTROHX2MVAatwvtJmeElAvWIv_lNqAsygbV9_folOZgzYvYH/ts
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48976.ts
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofAUkW0AI1sO0BN7GDizBxwtH2PSbjJsCeg&usqp=CAU" group-title="Deportes",TUDNC
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
@@ -502,7 +502,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/3548
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYbc8G5cnIzDF0dYzAPmfLIS_XPLtBi6OOw&usqp=CAU" group-title="Musica",BANDAMAX
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/2080
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/85298.ts
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWd22n9CVDVEM-TXKqizd-EYJaVe-dihcXg&usqp=CAU" group-title="Kids", CARTOON NETWORK
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
