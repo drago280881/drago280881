@@ -45,7 +45,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/163347
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1, tvg-logo="https://cmll.com/wp-content/uploads/2021/01/01-H_Television-Fondo_Claro_A-1-1.png" group-title="Musica", EXA TV
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-shQa9smN5bpo_0SP6MtXZACdddlMaLJjg&usqp=CAU" group-title="Musica", EXA TV
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.228.234.41:16000/play/a0b7/index.m3u8
@@ -131,7 +131,7 @@ http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a026/index.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFD2187FoBzU0v89T0XcEEQU9joVdYWUFgw&usqp=CAU" group-title="Entretenimiento",Discovery Home &amp; Health LatinoAmerica HD
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwdX64hoSCc-OJS3EigmjeUsnahZi7UuEA-QDYWh0seLQzPqm0dL8KfM&s=10" group-title="Cine",Movistar Accion HD
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 http://45.166.92.22:58001/play/a027/index.m3u8
