@@ -45,10 +45,10 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/163347
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1, tvg-logo="https://cmll.com/wp-content/uploads/2021/01/01-H_Television-Fondo_Claro_A-1-1.png" group-title="Entretenimiento",EL HERALDO
+#EXTINF:-1, tvg-logo="https://cmll.com/wp-content/uploads/2021/01/01-H_Television-Fondo_Claro_A-1-1.png" group-title="Musica", EXA TV
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-https://ingest4-4173.boxcast.com/abject-account/bqzmkkkpz9l50qyn27g9/1080p-byteranges-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTQxNzMuYm94Y2FzdC5jb20vYWJqZWN0LWFjY291bnQvYnF6bWtra3B6OWw1MHF5bjI3ZzkvMTA4MHAtYnl0ZXJhbmdlcy1leHQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MzAzOTU4Nn19fV19&Signature=KFeU6faNp3UwV~FtQXQAO5teaOuOyIhqr~QL5KnJN-Nb6SkaysUwyqfQtmY5ZF22D2Em1cTXavzioR47ML6z3RqnttLu6NGtC-K8giPX~pYsuscQxL8gE31V9i3RLlxgqwRldkb8cYQG9kkgt7IQPp7NfnDhOg3qrfyyho65q7PhG6-Xj5dARmlG6xzVc0fEMKywcJnZ3gnE3DUguVBHP-qHONHdXtbffsvJQRv9Z-Fe6UNI~2oZ4FcqDjKYLHMDzsTpdNPDeUpLL3CnKK0ENpbeFjCLq0urDj~Jz1tcZjC-rumFcVaJ~oJsWvvb3PQWp3-U6rrsFlLk18EffkroFg__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZC
+http://45.228.234.41:16000/play/a0b7/index.m3u8
 #EXTINF:-1, tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="Entretenimiento",A+
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
