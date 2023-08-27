@@ -134,7 +134,7 @@ http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwdX64hoSCc-OJS3EigmjeUsnahZi7UuEA-QDYWh0seLQzPqm0dL8KfM&s=10" group-title="Cine",Movistar Accion HD
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://45.166.92.22:58001/play/a027/index.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/139279.ts
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgqiakEhsLWoMSesGl3lgJ92pna2m7yE48Q&usqp=CAU" group-title="Entretenimiento",E! LATINOAMERICA 
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
