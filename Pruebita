@@ -235,6 +235,8 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/135642
 http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101312.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Cine",CINEMAX
 http://170.79.235.29:8000/play/112
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_OGkRy8pRAn5tUY0r4GMEXlV6Lv2Pwf-jw&usqp=CAU" group-title="Kids",DOS KIDS
+http://170.79.235.29:8000/play/002
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/disney/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20210819102952&path-prefix=es" group-title="Kids",DISNEY CHANNEL
 http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/1377
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt30h0GbPvcW5Tdidhobj2smcHPuhT-D85iA&usqp=CAU" group-title="Kids",DISCOVERY KIDS
