@@ -488,7 +488,7 @@ http://45.228.234.41:16000/play/a09h/index.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RWKyDJQI0RwOGjAttQlrzTKB5LwJ4wJ7MA&usqp=CAU" group-title="Kids",TOONCAST
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
-http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/51430
+http://177.53.153.21:8001/play/a085/index.m3u8
 #EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3W2vQQEbkyx6G2_nMSQGlgyQvZvdsC5Q0w&usqp=CAU" group-title="Musica",CONECTA TV
 #EXTVLCOPT--http-reconectar=verdadero
 #EXTVLCOPT:caché de red=1000
