@@ -4,27 +4,17 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/129048
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/404/240/png-transparent-tv-logo-azteca-uno-tv-azteca-az-mundo-television-las-estrellas-text.png" group-title="❱❱⭐️¡VIVA México!⭐️❰❰",MX || UnoTV UHD®
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/130034
 
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="Entretenimiento", AZTECA UNO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhOswkmPtZmuo170g0uQJNpBzF5QTSNgoDw&usqp=CAU" group-title="Entretenimiento", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlj08etwYGcLg7VSgczl4hKvgUTBbBEpkBVA&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS 
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTVLCOPT:caché de red=1000
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlj08etwYGcLg7VSgczl4hKvgUTBbBEpkBVA&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS 
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1, tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS -2 HRS
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTVLCOPT:caché de red=1000
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS -2 HRS
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/162200
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaVy8hZC5QRxzkGguVy2f6LQAMinxapPLgQ&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS INTERNACIONAL 
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTVLCOPT:caché de red=1000
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaVy8hZC5QRxzkGguVy2f6LQAMinxapPLgQ&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS INTERNACIONAL 
 http://170.79.235.29:8000/play/151
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Entretenimiento",IMAGEN
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTVLCOPT:caché de red=1000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Entretenimiento",IMAGEN
 http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/51362
-#EXTINF:-1, tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11513-1329_import.png" group-title="Entretenimiento",FORO TV
-#EXTVLCOPT--http-reconectar=verdadero
-#EXTVLCOPT:caché de red=1000
+#EXTINF:-1 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11513-1329_import.png" group-title="Entretenimiento",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="Entretenimiento",CANAL 5
 #EXTVLCOPT--http-reconectar=verdadero
