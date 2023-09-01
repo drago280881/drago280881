@@ -146,7 +146,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/260518.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2aZlwuVS7iJTLSY9I0GDGYMkU-DqpglYJhQ&usqp=CAU" group-title="Cine",CINE LATINO 
 http://45.166.92.22:58001/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvC9qAyM37vpcYt9KMVAqrF6o2_MyyaPkNw&usqp=CAU" group-title="Cine" audio-track="spa",CINECANAL
-http://45.166.92.22:58001/play/a04b/index.m3u8
+http://181.78.75.11:9500/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRz91iUOfrHfYdFy7KIIFINrpbYjQ1mtiMw&usqp=CAU" group-title="Cine",FX
 http://170.79.235.29:8000/play/093
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SonyMoviesLA.png" group-title="Cine",SONY MOVIES
@@ -178,13 +178,13 @@ http://170.79.235.29:8000/play/020
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-negeUQyQSSL7ZZiow1g8caNBQxuN5Z2cw&usqp=CAU" group-title="Cine",HBO FAMILY
 http://170.79.235.29:8000/play/018
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNGcefM0zgWlDgFDc8M9nroyNf6sRT7Vc4w&usqp=CAU" group-title="Cine",HBO MUNDI
-http://tvpro.tech:8080/patacujne23/acab1312/46551
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121633.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBv-eSThsO0eGoH7sP6T5Ssa1yiO9qTY0QAg&usqp=CAU" group-title="Cine",HBO POP
-http://tvpro.tech:8080/live/moraipxuje2/acab1312/17942.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121638.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAd7BRkvpK6TLcqYFRKE5q2NzL7sp7pZ_Mw&usqp=CAU" group-title="Cine",WARNER CHANNEL
 http://170.79.235.29:8000/play/081
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2M_MfrvHogoZykmAlBFypXeEqkF80gUzdLw&usqp=CAU" group-title="Cine",PARAMOUNT NETWORK 
-http://45.166.92.22:58001/play/a01l/index.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121642.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-rY9lvIH5D9locDFjHMRwh3q1b69G3vHaA&usqp=CAU" group-title="Cine",STAR CHANNEL
 http://170.79.235.29:8000/play/083
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBUSyXrOIBjaqE-L52OPGEaQp5SieN6betA&usqp=CAU" group-title="Cine",FILM AND ARTS
@@ -196,11 +196,11 @@ http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY
 http://170.79.235.29:8000/play/085
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4A5yg6GpPEeqXwjRUIbguHTk6giHhGCVinA&usqp=CAU" group-title="Cine",TNT HD
-http://45.166.92.22:58001/play/a013/index.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324320.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZyjTfO6KLR9b1N23MTLpY_E_9pvmr6YDVug&usqp=CAU" group-title="Cine",SPACE
 http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/1200px-TNT_Serie_HD.svg.png" group-title="Cine",TNT SERIES
-http://45.166.92.22:58001/play/a01m/index.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121701.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyT07xLEaXrmVor616TjxtveGUs6UYJoPGg&usqp=CAU" group-title="Cine",TV MAX
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHda85H05bX9hCan7YoVRMtxLypJ0S3KBf8w&usqp=CAU" group-title="Deportes ",IZZI AFIZZIONADOS
