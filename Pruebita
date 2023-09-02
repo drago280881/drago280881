@@ -41,6 +41,8 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlElpXexRw3NNuoF9NgGdSekdbIPlwSaINYQ&usqp=CAU" group-title="Entretenimiento", CANAL 22 CONACULTA
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDIzIDI6Mjg6NTggUE0maGFzaF92YWx1ZT16cStjdy9
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgsddN0LzYakLS_MF_aWdDaDWSlUGXqf2Hw&usqp=CAU" group-title="Entretenimiento", NUESTRO CINE
+https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/chunklist_w533335016_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjMgMTA6MDM6MjcgUE0maGFzaF92YWx1ZT0zZjJkZkpwTUkrcldjaW9hQVZxOVZBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="Entretenimiento",TV MEXIQUENSE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://tvazteca.brightspotcdn.com/58/74/8f13538947b7a5e8a0c8989612e1/adn-40-512x512-color-02.png" group-title="Entretenimiento",ADN 40
