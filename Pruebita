@@ -28,7 +28,7 @@ http://167.250.222.35:16000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="Entretenimiento",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Entretenimiento",UNIVERSO
-http://tvpro.tech:8080/patacujne23/acab1312/55673 
+http://38.91.106.249:25461/live/ThaSpswum6TA/kPjxAbzt48zG/101376.ts?token=TRNYU0BaEVkUCwcEVFAAClZQWwhTVAdSV1wDUVVaVQNSCQJRVgILUwYbT0NDERBcBVhnWQUXDFcFVAVTVE5ERUVUQm1aVhFZFA1QWQRVQBVGQVFdBBcMVwNcBVxaV18FDh0SQlpWEVkUClBZBkdOGwFNTFUTW1cKagFTEgsBAxIMX0VeXx4RDFhmBwRdBAxdRg8aAEMZFA9GFRReQCEHUlpURltAW28WBgkFUl5JQmpKdBYQBVAWJRszGEZOQARZQkNRRlYQCUECDlBREklAWgtAVkQTTBRcFyhuRk5AA0hCVF5BWl1dQQwbFxISSUBQF2pKVRJBRANUCFMWQFhEARQdEl9SSmwAWVcNBFMRC1YKRhoKQwcDVhdJFAkNDA9EWUNvQlpWEVkUD1RZBkcf 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RNHPuoRxZfDWv5pHNDDye-L0tjMUfr8oGw&usqp=CAU" group-title="Entretenimiento",ESTRELLAS GAMES
 https://estrella-games-oando.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjxNLdNuKjJbzRko3VaOHs_GuVCl_NsgpsA&usqp=CAU" group-title="Entretenimiento",CANAL ONCE
@@ -52,7 +52,7 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU" group-title="Entretenimiento",DISTRITO COMEDIA
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/85773.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entretenimiento",COMEDY CENTRAL
-http://190.61.55.186:1010/play/a023/index.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/63840.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnH5-OcuySwjr_MtJ_UlHLsmyBzlMUaJ6gww&usqp=CAU" group-title="Entretenimiento",UNICABLE 
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136179.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tHv9j9c186iR2dgL0E2WBC3-ihel4zQCuOvIg4oZUdKuWAxdT3PJYkV-&s=10" group-title="Entretenimiento",GALAVISION 
@@ -88,7 +88,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLpgsoiNTUV_x6N2AUGW5zFxl-w1s7gQRkuQ&usqp=CAU" group-title="Musica",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Entretenimiento",CARACOL
-http://38.43.140.97:8000/play/a00d/index.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/203108.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriHcvymBdWnOJNkw8cTU2Vf4wr0-rozts3w&usqp=CAU" group-title="Musica",TELEHIT
 http://38.43.140.97:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",BITME
@@ -98,9 +98,9 @@ http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFD2187FoBzU0v89T0XcEEQU9joVdYWUFgw&usqp=CAU" group-title="Entretenimiento",DISCOVERY HOME HEALT
 http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgqiakEhsLWoMSesGl3lgJ92pna2m7yE48Q&usqp=CAU" group-title="Entretenimiento",E! LATINOAMERICA
-http://45.166.92.22:58001/play/a00n/index.m3u8 
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/377903.ts 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ghc5zTbH6cVjyQN80j8SH96WMbfKd4Ur6w&usqp=CAU" group-title="Entretenimiento",¡HOLA! TV
-http://45.166.92.22:58001/play/a016/index.m3u8
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/120690.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Entretenimiento",NATIONAL GEOGRAPHIC
 http://45.166.92.22:58001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_1yBKTOATxYp37F7Me1D_8bUeGHsBrxbGw&usqp=CAU" group-title="Entretenimiento",UNIVISION PR
@@ -113,14 +113,14 @@ http://45.166.92.22:58001/play/a04x/index.m3u8
 http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Entretenimiento",TLC
 http://45.166.92.22:58001/play/a04o/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICa-bZnQhHv_rTub2qm6TXReRR6WW1xP28A&usqp=CAU" group-title="Entretenimiento",SEMBRADOR
-http://45.228.234.41:16000/play/a0am/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICa-bZnQhHv_rTub2qm6TXReRR6WW1xP28A&usqp=CAU" group-title="Entretenimiento",TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL-NtUvtXatynECZzoPzO002wWdxBmhwNqg&usqp=CAU group-title="Entretenimiento",EWTN ESPAÑOL
-http://45.166.92.22:58001/play/a050/index.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4j-IhmB4v64QdAGkDzkS-YUkt_oW-KiHQg&usqp=CAU" group-title="Cine",GOLDEN PLUS
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/46885.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4U1f7CnRuFBdunhzRM3wVLBGhwOE5KlsVYw&usqp=CAU" group-title="Cine",GOLDEN EDGE
-http://181.78.8.90:16123/play/ch47
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9076
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pV6wgT9u40RbzF385KhTPWkr_AXNba3yIw&usqp=CAU" group-title="Cine",MULTIPREMIER
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/70
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVucp6BFVV2kTAlUJhOzKOXumOp0VhKpfUKA&usqp=CAU" group-title="Cine",AXN
