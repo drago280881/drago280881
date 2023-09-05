@@ -29,7 +29,7 @@ http://167.250.222.35:16000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="Entretenimiento",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Entretenimiento",UNIVERSO
-http://38.91.106.249:25461/live/ThaSpswum6TA/kPjxAbzt48zG/101376.ts?token=TRNYU0BaEVkUCwcEVFAAClZQWwhTVAdSV1wDUVVaVQNSCQJRVgILUwYbT0NDERBcBVhnWQUXDFcFVAVTVE5ERUVUQm1aVhFZFA1QWQRVQBVGQVFdBBcMVwNcBVxaV18FDh0SQlpWEVkUClBZBkdOGwFNTFUTW1cKagFTEgsBAxIMX0VeXx4RDFhmBwRdBAxdRg8aAEMZFA9GFRReQCEHUlpURltAW28WBgkFUl5JQmpKdBYQBVAWJRszGEZOQARZQkNRRlYQCUECDlBREklAWgtAVkQTTBRcFyhuRk5AA0hCVF5BWl1dQQwbFxISSUBQF2pKVRJBRANUCFMWQFhEARQdEl9SSmwAWVcNBFMRC1YKRhoKQwcDVhdJFAkNDA9EWUNvQlpWEVkUD1RZBkcf 
+ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/101376.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RNHPuoRxZfDWv5pHNDDye-L0tjMUfr8oGw&usqp=CAU" group-title="Entretenimiento",ESTRELLAS GAMES
 https://estrella-games-oando.amagi.tv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjxNLdNuKjJbzRko3VaOHs_GuVCl_NsgpsA&usqp=CAU" group-title="Entretenimiento",CANAL ONCE
