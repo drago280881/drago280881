@@ -167,9 +167,9 @@ http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="Cine",UNIVERSAL CRIME
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136174.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVs4-UMRI5Jj4L1ExeFQD49InwPkfWYXBPA&usqp=CAU" group-title="Cine",HBO LATINOAMERICA 
-http://38.91.106.249:25461/live/ThaSpswum6TA/kPjxAbzt48zG/139414.ts?token=TRNYU0BaEVkUCFsABVFbXFUHXgNVVwFfDANVVFBRBAZQBANUBwMDAAQbT0NDERBcBVhnWQUXDFcGXAJVVk5ERUVUQm1aVhFZFA1QWQRVQBVGQVFdBBcMVwNcAlVRV1UDDx0SQlpWEVkUClVRA1JAFUZQQEQER1gHWTpSARQLBVUUC15HX14fQVlXPAVVCANXABcCElEXGkRcFkZGWEAlUVRdVURaQVo/QwlTBwMLThk3G3keQVFTRnZLYEpATkRSX0VCU0dXEVkUDVZQCEdOGwdaTV4VR09ED0d7PEBORFVORVVcQFtcDRQDQRVDR04bDUZnQgRGQhRQBFsBEEBcEgcTHBBeU0s8VVYND1UGFlALW0sSWxcEUwVHGkYPDQhZQl5CbUNbV0EMG1FWCVZTGxk=
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/139414.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2 LATINOAMERICA 
-http://200.24.204.242:6020/play/a08u/index.m3u8
+http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/2806.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vRkdu-I7ew6YDGxKmmkRchv7bdazsuDc4Q&usqp=CAU" group-title="Cine",HBO PLUS
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121629.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5e9HAJCC4f5CcOMbK3B6P0u1KrVyA6zk0VQ&usqp=CAU" group-title="Cine",HBO XTREME 
@@ -193,7 +193,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/118599.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Cine",TCM
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY
-http://38.91.106.249:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121644.ts?token=TRNYU0BaEVkUC1dUB1RVCAYFWQVVAwAEAAYOAQYDVgJQB1ZRBgAKV1AbT0NDERBcBVhnWQUXDFcHVABQVk5ERUVUQm1aVhFZFA1QWQRVQBVGQVFdBBcMVwNcBVxXU1UGBB0SQlpWEVkUC1pTAkdOGwFNTFUTW1cKagFTEgsBAxIMX0VeXx4RDFhmBwRdBAxdRg8aAEMZFA9GFRReQCEHUlpURltAW28WBgkFUl5JQmpKdBYQBVAWJRszGEZOQARZQkNRRlYQCUEHDFdWEklAWgtAVkQTTBRcFyhuRk5AA0hCVF5BWl1dQQwbFxISSUBQF2pKVRJBRANUCFMWQFhEARQdEl9SSmwAWVcNBFMRC1YKRhoKQwcDVhdJFAkNDA9EWUNvQlpWEVkUAFBVAEcf
+http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/3007.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4A5yg6GpPEeqXwjRUIbguHTk6giHhGCVinA&usqp=CAU" group-title="Cine",TNT HD
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324320.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZyjTfO6KLR9b1N23MTLpY_E_9pvmr6YDVug&usqp=CAU" group-title="Cine",SPACE
