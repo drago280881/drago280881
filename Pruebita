@@ -12,7 +12,7 @@ http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11513-1329_import.png" group-title="Entretenimiento",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="Entretenimiento",CANAL 5
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3719.m3u8
+https://live.telelatinohd.com:8080/MjAxLjE0MS4xMTEuOQ==/204_.m3u8?token=tpFhuetomvyuzzYGDtMGrg&expires=1694155739
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5agugLevugmY8GGw8K94y7loAR6-HavuUw&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS LAGUNA 
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
@@ -115,13 +115,13 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL-NtUvtXatynECZzoPzO002wWdxBmhwNqg&usqp=CAU group-title="Entretenimiento",EWTN ESPAÑOL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4j-IhmB4v64QdAGkDzkS-YUkt_oW-KiHQg&usqp=CAU" group-title="Cine",GOLDEN PLUS
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/46885.m3u8
+http://38.43.140.97:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4U1f7CnRuFBdunhzRM3wVLBGhwOE5KlsVYw&usqp=CAU" group-title="Cine",GOLDEN EDGE
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/3762.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pV6wgT9u40RbzF385KhTPWkr_AXNba3yIw&usqp=CAU" group-title="Cine",MULTIPREMIER
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/70
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVucp6BFVV2kTAlUJhOzKOXumOp0VhKpfUKA&usqp=CAU" group-title="Cine",AXN
-http://45.166.92.22:58001/play/a02n/index.m3u8
+http://38.43.140.97:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJnMgXYTaITGfW16XAI5HDRykKfYX5QwiNqQ&usqp=CAU" group-title="Cine",DE PELICULA
 http://mag.redmytv.com:80/ivantramonto/5D61D8/409264
 #EXTINF:-1 tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX CLASIC
@@ -167,7 +167,7 @@ http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="Cine",UNIVERSAL CRIME
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136174.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVs4-UMRI5Jj4L1ExeFQD49InwPkfWYXBPA&usqp=CAU" group-title="Cine",HBO 
-http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/49.ts
+http://38.43.140.97:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2 
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/50.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vRkdu-I7ew6YDGxKmmkRchv7bdazsuDc4Q&usqp=CAU" group-title="Cine",HBO PLUS
@@ -241,7 +241,7 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/3027
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/disney/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20210819102952&path-prefix=es" group-title="Kids",DISNEY CHANNEL
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/166504.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt30h0GbPvcW5Tdidhobj2smcHPuhT-D85iA&usqp=CAU" group-title="Kids",DISCOVERY KIDS
-http://45.166.92.22:58001/play/a04y/index.m3u8
+http://38.43.140.97:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WRlqjjNawyik_IKVS5EVZnylzwlXoCXGyA&usqp=CAU" group-title="Kids",DISNEY JUNIOR
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9042
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/thumbnail/width/360/height/360?cb=20220912114022" group-title="Kids",BABYFIRST
@@ -263,7 +263,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/3548
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYbc8G5cnIzDF0dYzAPmfLIS_XPLtBi6OOw&usqp=CAU" group-title="Musica",BANDAMAX
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/85298.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWd22n9CVDVEM-TXKqizd-EYJaVe-dihcXg&usqp=CAU" group-title="Kids", CARTOON NETWORK
-http://181.177.255.253:8000/play/a03p/index.m3u8
+http://38.43.140.97:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo=" https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" group-title="Adultos",MIAMI TV
 https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslZTWniwjcf3Er0gbTcEgVLSkLPaVjLcBpQ&usqp=CAU" group-title="Adultos",MIAMI TV 2
