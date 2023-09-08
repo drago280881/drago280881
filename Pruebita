@@ -167,7 +167,7 @@ http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="Cine",UNIVERSAL CRIME
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136174.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVs4-UMRI5Jj4L1ExeFQD49InwPkfWYXBPA&usqp=CAU" group-title="Cine",HBO LATINOAMERICA 
-http://200.24.204.242:6020/play/a0br/index.m3u8
+http://38.91.106.249:25461/live/ThaSpswum6TA/kPjxAbzt48zG/139414.ts?token=TRNYU0BaEVkUCFsABVFbXFUHXgNVVwFfDANVVFBRBAZQBANUBwMDAAQbT0NDERBcBVhnWQUXDFcGXAJVVk5ERUVUQm1aVhFZFA1QWQRVQBVGQVFdBBcMVwNcAlVRV1UDDx0SQlpWEVkUClVRA1JAFUZQQEQER1gHWTpSARQLBVUUC15HX14fQVlXPAVVCANXABcCElEXGkRcFkZGWEAlUVRdVURaQVo/QwlTBwMLThk3G3keQVFTRnZLYEpATkRSX0VCU0dXEVkUDVZQCEdOGwdaTV4VR09ED0d7PEBORFVORVVcQFtcDRQDQRVDR04bDUZnQgRGQhRQBFsBEEBcEgcTHBBeU0s8VVYND1UGFlALW0sSWxcEUwVHGkYPDQhZQl5CbUNbV0EMG1FWCVZTGxk=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2 LATINOAMERICA 
 http://200.24.204.242:6020/play/a08u/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vRkdu-I7ew6YDGxKmmkRchv7bdazsuDc4Q&usqp=CAU" group-title="Cine",HBO PLUS
