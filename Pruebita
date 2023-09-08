@@ -14,7 +14,7 @@ http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11513-1329_import.png" group-title="Entretenimiento",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="Entretenimiento",CANAL 5
-https://live.telelatinohd.com:8080/MjAxLjE0MS4xMTEuOQ==/204_.m3u8?token=tpFhuetomvyuzzYGDtMGrg&expires=1694155739
+http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5agugLevugmY8GGw8K94y7loAR6-HavuUw&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS LAGUNA 
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
@@ -293,7 +293,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136177.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6AoJnsdOFqFrnnRw4N8LjWOl5W8UfAjLuNA&usqp=CAU" group-title="Cine",Lifetime Latinoamerica
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/187271.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Cine",SYFY
-http://170.79.235.29:8000/play/101
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30377.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUzNzAxYmItZGIxMS00YjYxLWI3NDItNDRmMzhjM2NiZTc0XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg " group-title="series",GLORIA TREVI S01 E01
 https://pc-27.peliscdnmx.pro:443/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c3090d406c4e1b50431718d177dc89ab/EP.1.2.v0.1692984742.360.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="Gloria trevi S01 E02"tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUzNzAxYmItZGIxMS00YjYxLWI3NDItNDRmMzhjM2NiZTc0XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg" group-title="series",GLORIA TREVI S01 E02
