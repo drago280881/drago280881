@@ -8,7 +8,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/162200
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCGgLMiPGPU8AOWGtSbhc_dNQQGFD2oJubw&usqp=CAU" group-title="Entretenimiento",TELEFORMULA 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30379.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40CtFK-5Qkzj7A-Dq6nh2Kqr_35zdxCnHjw&usqp=CAU" group-title="Entretenimiento",EXCELSIOR TV
-https://www.youtube.com/watch?v=Jmjj-ZiIwwg
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694204672/ei/oC77ZPOEJaualu8PjaSZ6AU/ip/201.141.111.9/id/Jmjj-ZiIwwg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1GbrPIwBLFizL6775RhFjn76ToCzcObjSOzQQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGZYcrgGJRghDsqN_6Td7zMUH-OQBrc2WlTJpQ7LDdRsCIQDZlIe4-2g5X5Y7I8fwH_9VVBS0HkYJEsQQse7VEtpdpw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Entretenimiento",IMAGEN
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11513-1329_import.png" group-title="Entretenimiento",FORO TV
