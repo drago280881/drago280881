@@ -166,15 +166,15 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136175.ts
 http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="Cine",UNIVERSAL CRIME
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136174.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVs4-UMRI5Jj4L1ExeFQD49InwPkfWYXBPA&usqp=CAU" group-title="Cine",HBO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVs4-UMRI5Jj4L1ExeFQD49InwPkfWYXBPA&usqp=CAU" group-title="Cine",HBO LATINOAMERICA 
 http://200.24.204.242:6020/play/a0br/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2 LATINOAMERICA 
 http://200.24.204.242:6020/play/a08u/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vRkdu-I7ew6YDGxKmmkRchv7bdazsuDc4Q&usqp=CAU" group-title="Cine",HBO PLUS
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121629.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5e9HAJCC4f5CcOMbK3B6P0u1KrVyA6zk0VQ&usqp=CAU" group-title="Cine",HBO XTREME 
-http://38.91.106.249:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121640.ts?token=TRNYU0BaEVkUW1dUVgBaD1wCDQhRAFIFBlIDB1JVAgIFBVMCAQBVVAcbT0NDERBcBVhnWQUXDFcHVABQUk5ERUVUQm1aVhFZFA1QWQRVQBVGQVFdBBcMVwNcBVxXUl8JDx0SQlpWEVkUAVtXAkdOGwFNTFUTW1cKagFTEgsBAxIMX0VeXx4RDFhmBwRdBAxdRg8aAEMZFA9GFRReQCEHUlpURltAW28WBgkFUl5JQmpKdBYQBVAWJRszGEZOQARZQkNRRlYQCUECDFZQEklAWgtAVkQTTBRcFyhuRk5AA0hCVF5BWl1dQQwbFxISSUBQF2pKVRJBRANUCFMWQFhEARQdEl9SSmwAWVcNBFMRC1YKRhoKQwcDVhdJFAkNDA9EWUNvQlpWEVkUC1pUB1JARA==
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-negeUQyQSSL7ZZiow1g8caNBQxuN5Z2cw&usqp=CAU" group-title="Cine",HBO FAMILY
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-negeUQyQSSL7ZZiow1g8caNBQxuN5Z2cw&usqp=CAU" group-title="Cine",HBO FAMILY LATINOAMERICA 
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121630.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNGcefM0zgWlDgFDc8M9nroyNf6sRT7Vc4w&usqp=CAU" group-title="Cine",HBO MUNDI
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121633.ts
