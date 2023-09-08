@@ -5,8 +5,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS -2 HRS
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/162200
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaVy8hZC5QRxzkGguVy2f6LQAMinxapPLgQ&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS INTERNACIONAL
-http://170.79.235.29:8000/play/151
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaVy8hZC5QRxzkGguVy2f6LQAMinxapPLgQ&usqp=CAU" group-title="Entretenimiento",EXCELSIOR TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694165819/ei/25b6ZOv9EPWag8UPqNq4qAE/ip/13.228.225.19/id/Jmjj-ZiIwwg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2Ec6qIEQ0bAYYF_rlCatFGGgqbMjw-zqvd1ZQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALP8RCShzsPlMtiya-xAismJtlGRUFqd-yLbb22M6_5IAiEA-57FG0wdCZ0USc4BUbNn9LT559Op0NlnUFuZjYP3G4Q%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Entretenimiento",IMAGEN
 http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11513-1329_import.png" group-title="Entretenimiento",FORO TV
