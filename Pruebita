@@ -468,4 +468,6 @@ https://pc-33.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 13
 https://0r0muqzr7.sw-cdnstream.com/hls2/01/00993/wisoegkcp9tr_o/master.m3u8?t=Uq9S0kLcjlbId2P1E3KLnZAwBl2IQV7LVjHuCWTexA4&s=1694233228&e=129600&f=4968306&srv=kekjtzyzmgwi&i=0.4&sp=500&p1=kekjtzyzmgwi&p2=kekjtzyzmgwi&asn=28548
 
+#EXTINF:-1 tvg-name="Cobra Kai S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIVdjOLrpUWt8RZyTDvxt19Y68u.jpg" group-title="SERIES NETFLIX",Cobra Kai S01E01
+http://tvpro.tech:8080/series/acassd22/acab1312/15018.mp4
 
