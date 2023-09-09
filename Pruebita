@@ -15,7 +15,6 @@ http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="Entretenimiento",CANAL 5
 http://svtv.xyz:8080/sandra30abril/CQNFV/172
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5agugLevugmY8GGw8K94y7loAR6-HavuUw&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS LAGUNA 
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMaguNHLB45_6LT0W-Xau8L7pAXpSXGZjnw&usqp=CAU" group-title="Entretenimiento",AZTECA 7
@@ -296,6 +295,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136177.ts
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/187271.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Cine",SYFY
 http://tvpro.tech:8080/acassd22/acab1312/46540
+
 #EXTINF:-1 tvg-name="久石譲 in 武道館 ~宮崎アニメと共に歩んだ25年間 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZgjtM4AkwHQt1SFvQTLduUOgGX.jpg" group-title="CONCIERTOS",久石譲 in 武道館 ~宮崎アニメと共に歩んだ25年間 (2008)
 http://tvpro.tech:8080/movie/acassd22/acab1312/63358.mp4
 #EXTINF:-1 tvg-name="AC/DC: Let There Be Rock (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OVX8H4vXRCuCUNQDYVuRfskX0N.jpg" group-title="CONCIERTOS",AC/DC: Let There Be Rock (1980)
@@ -440,5 +440,1063 @@ http://tvpro.tech:8080/movie/acassd22/acab1312/63444.mkv
 http://tvpro.tech:8080/movie/acassd22/acab1312/63445.mp4
 #EXTINF:-1 tvg-name="diskoteka 80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRcBVjpL7LIHXh1LL1W4pEABLqp.jpg" group-title="CONCIERTOS",diskoteka 80
 http://tvpro.tech:8080/movie/acassd22/acab1312/63446.mp4
+
 #EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
-https://pc-36.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.1.1.v0.1677683741.m3u8#MX
+https://p8xsbi8pjm29.lions-vidcdn.com/hls2/01/00337/4k0ubtlt2gkj_o/master.m3u8?t=vAzmX7t32L7-Cj1t0d8SWivceswb5ix23JZgue5EqqA&s=1694231801&e=129600&f=1689384&srv=809JpKUTHNNs&i=0.4&sp=1500&p1=809JpKUTHNNs&p2=809JpKUTHNNs&asn=28548
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 2
+https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.2.1.v0.1678732017.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 3
+https://pc-14.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.3.1.v0.1679713268.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 4
+https://pc-38.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.4.1.v0.1678017923.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 5
+https://pc-44.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.5.1.v0.1677960011.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 6
+https://pc-02.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.6.1.v0.1677818962.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 7
+https://pc-17.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.7.1.v0.1679704379.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 8
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.8.1.v0.1677807650.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 9
+https://pc-18.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.9.1.v0.1677445485.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 10
+https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.10.1.v0.1678713042.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 11
+https://pc-28.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.11.1.v0.1678012942.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 12
+https://pc-33.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.12.1.v0.1677694466.m3u8#MX
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 13
+https://pc-39.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.13.1.v0.1677751439.m3u8#MX
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
+
+#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="SIMPSON",TEMP 1 CAP 1
