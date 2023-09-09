@@ -79,7 +79,7 @@ http://45.166.92.22:58001/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_1yBKTOATxYp37F7Me1D_8bUeGHsBrxbGw&usqp=CAU" group-title="Entretenimiento",UNIVISION PR
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148738
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLY-F16N3ZEMWoUxBDU_wYcDasmIs3cPcnA&usqp=CAU" group-title="Kids",CARTOONITO
-http://190.61.55.186:1010/play/714/index.m3u8
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1280px-Galavision_Logo_2013.svg.pngU" group-title="Entretenimiento",GALAVISION 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/131296
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRLCaHtGzTnZ9Y1jG3B-NJli7fk4ZYrHbkQ&usqp=CAU" group-title="Entretenimiento",TELEMUNDO MIAMI 
@@ -126,8 +126,8 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/70
 http://38.43.140.97:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJnMgXYTaITGfW16XAI5HDRykKfYX5QwiNqQ&usqp=CAU" group-title="Cine",DE PELICULA
 http://mag.redmytv.com:80/ivantramonto/5D61D8/409264
-#EXTINF:-1 tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX CLASIC
-http://170.79.235.29:8000/play/121
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="Cine",I SAT
+http://tvpro.tech:8080/acassd22/acab1312/46533
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX FAMILY
 http://170.79.235.29:8000/play/120
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX PRIME
@@ -169,7 +169,7 @@ http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="Cine",UNIVERSAL CRIME
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136174.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVs4-UMRI5Jj4L1ExeFQD49InwPkfWYXBPA&usqp=CAU" group-title="Cine",HBO 
-http://38.43.140.97:8000/play/a01h/index.m3u8
+http://tvpro.tech:8080/acassd22/acab1312/17954
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2 
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/50.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vRkdu-I7ew6YDGxKmmkRchv7bdazsuDc4Q&usqp=CAU" group-title="Cine",HBO PLUS
@@ -212,6 +212,8 @@ http://svtv.xyz:8080/sandra30abril/CQNFV/44409
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ikg6XkXgJo3t1KMI9IQEeOvtHUaQe9KDfw&usqp=CAU" group-title="Deportes",Claro Sports 1
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES"TVC DEPORTES
+http://tvpro.tech:8080/acassd22/acab1312/46745
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx3iJJ4eQuyKTvqFT7cFfBjpdXNteIj80Wg&usqp=CAU" group-title="Deportes",FOX SPORTS
 http://mag.redmytv.com:80/ivantramonto/5D61D8/101205
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQIFkRAjdKP2NSWUFaF-5LJGJKJYs8HGL1A&usqp=CAU" group-title="Deportes",FOX SPORTS 2
@@ -293,7 +295,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136177.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6AoJnsdOFqFrnnRw4N8LjWOl5W8UfAjLuNA&usqp=CAU" group-title="Cine",Lifetime Latinoamerica
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/187271.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Cine",SYFY
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30377.m3u8
+http://tvpro.tech:8080/acassd22/acab1312/46540
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUzNzAxYmItZGIxMS00YjYxLWI3NDItNDRmMzhjM2NiZTc0XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg " group-title="series",GLORIA TREVI S01 E01
 https://pc-27.peliscdnmx.pro:443/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c3090d406c4e1b50431718d177dc89ab/EP.1.2.v0.1692984742.360.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="Gloria trevi S01 E02"tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUzNzAxYmItZGIxMS00YjYxLWI3NDItNDRmMzhjM2NiZTc0XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg" group-title="series",GLORIA TREVI S01 E02
