@@ -52,7 +52,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Entretenimiento",ESTRELLA TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU" group-title="Entretenimiento",DISTRITO COMEDIA
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9126
+http://179.51.168.13:4000/play/a05y
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entretenimiento",COMEDY CENTRAL
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/63840.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnH5-OcuySwjr_MtJ_UlHLsmyBzlMUaJ6gww&usqp=CAU" group-title="Entretenimiento",UNICABLE 
@@ -127,12 +127,8 @@ http://38.43.140.97:8000/play/a03o/index.m3u8
 http://mag.redmytv.com:80/ivantramonto/5D61D8/409264
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="Cine",I SAT
 http://179.51.168.13:4000/play/a03g
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX FAMILY
-http://170.79.235.29:8000/play/120
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX PRIME
-http://170.79.235.29:8000/play/122
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX OLD
-http://170.79.235.29:8000/play/123
+#EXTINF:-1 tvg-logo="https://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="Cine",EURO CHANNEL
+http://179.51.168.13:4000/play/a065
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine",CINE FAMILIAR
 http://179.51.168.13:4000/play/a05h
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIAxwgRNIGNVjZG4vXnQWyJHU-MlecHWAFg&usqp=CAU" group-title="Cine",CINE HISPANO 
@@ -159,9 +155,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121689.ts
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121687.ts
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-reality-dark-logo.png" group-title="Cine",UNIVERSAL REALITY
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/137607.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtMOzdIfzmiBpEq0-WenQ9rr2WZkEBAdu76hwZl08qwEZSQfy5kbztXU&s=10" group-title="Cine",UNIVERSAL COMEDY
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/137844.ts
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="Cine",UNIVERSAL PREMIERE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtMOzdIfzmiBpEq0-WenQ9rr2WZkEBAdu76hwZl08qwEZSQfy5kbztXU&s=="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="Cine",UNIVERSAL PREMIERE
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136175.ts
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="Cine",UNIVERSAL CINEMA
 http://45.166.92.22:58001/play/a01t/index.m3u8
@@ -174,7 +168,7 @@ http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/50.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vRkdu-I7ew6YDGxKmmkRchv7bdazsuDc4Q&usqp=CAU" group-title="Cine",HBO PLUS
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121629.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5e9HAJCC4f5CcOMbK3B6P0u1KrVyA6zk0VQ&usqp=CAU" group-title="Cine",HBO XTREME 
-http://45.166.92.22:58001/play/a03w/index.m3u8
+http://179.51.168.13:4000/play/a03d
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-negeUQyQSSL7ZZiow1g8caNBQxuN5Z2cw&usqp=CAU" group-title="Cine",HBO FAMILY
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121630.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNGcefM0zgWlDgFDc8M9nroyNf6sRT7Vc4w&usqp=CAU" group-title="Cine",HBO MUNDI
@@ -239,8 +233,8 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/135642
 http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101312.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Cine",CINEMAX
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324325.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_OGkRy8pRAn5tUY0r4GMEXlV6Lv2Pwf-jw&usqp=CAU" group-title="Kids",DISNEY XD
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/3027
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/5f/Canal_Infantil.png/revision/latest?cb=20230419185326&path-prefix=es" group-title="Kids",CANAL INFANTIL 
+http://179.51.168.13:4000/play/a01521
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/disney/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20210819102952&path-prefix=es" group-title="Kids",DISNEY CHANNEL
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/166504.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt30h0GbPvcW5Tdidhobj2smcHPuhT-D85iA&usqp=CAU" group-title="Kids",DISCOVERY KIDS
@@ -250,13 +244,13 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9042
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/thumbnail/width/360/height/360?cb=20220912114022" group-title="Kids",BABYFIRST
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/295150
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids",NICK
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9085
+http://179.51.168.13:4000/play/a02l
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqb54AMuBLVzYnDu4HK0nsbUkPGi6Io_HMA&usqp=CAU" group-title="Kids",NICK TEEN
 http://45.228.234.41:16000/play/a09h/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="Kids",NICK JR
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/31745
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RWKyDJQI0RwOGjAttQlrzTKB5LwJ4wJ7MA&usqp=CAU" group-title="Kids",TOONCAST
-http://177.53.153.21:8001/play/a085/index.m3u8
+http://179.51.168.13:4000/play/a06q
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3W2vQQEbkyx6G2_nMSQGlgyQvZvdsC5Q0w&usqp=CAU" group-title="Musica",CONECTA TV
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9FXmY3MRKgU71d4J2kU7bnc5Whn7DNFEJg&usqp=CAU" group-title="Musica",MI MUSICA REGGAETON
