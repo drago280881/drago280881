@@ -126,7 +126,7 @@ http://38.43.140.97:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJnMgXYTaITGfW16XAI5HDRykKfYX5QwiNqQ&usqp=CAU" group-title="Cine",DE PELICULA
 http://mag.redmytv.com:80/ivantramonto/5D61D8/409264
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="Cine",I SAT
-http://tvpro.tech:8080/acassd22/acab1312/46533
+http://179.51.168.13:4000/play/a03g
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX FAMILY
 http://170.79.235.29:8000/play/120
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX PRIME
@@ -134,11 +134,11 @@ http://170.79.235.29:8000/play/122
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOPdT8TwmVs17wCLFGZS05NsY3wcDiacrlA&usqp=CAU" group-title="Cine",MIX OLD
 http://170.79.235.29:8000/play/123
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine",CINE FAMILIAR
-http://181.78.75.11:9500/play/CINEFAMILIAR/index.m3u8
+http://179.51.168.13:4000/play/a05h
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIAxwgRNIGNVjZG4vXnQWyJHU-MlecHWAFg&usqp=CAU" group-title="Cine",CINE HISPANO 
-http://181.78.75.11:9500/play/CINEHISPANO/index.m3u8
+http://179.51.168.13:4000/play/a05i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Cine",CINE PREMIUM
-http://181.78.75.11:9500/play/CINEPREMIUM/index.m3u8
+http://179.51.168.13:4000/play/a05j
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_7DOWNfc3DHpquzTvLIPGIsm-qFKNQ3dPA&usqp=CAU" group-title="Cine",MEGA
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/66636.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNDgiqY1ZM_wMGS_xeu_JeQn1tJ8u3L0W9Q&usqp=CAU" group-title="Cine",AMC
@@ -190,11 +190,11 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324314.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBUSyXrOIBjaqE-L52OPGEaQp5SieN6betA&usqp=CAU" group-title="Cine",FILM AND ARTS
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-R-bLBqhhJ-uTXjJN-MD7R9q1C1SbZHR1A&usqp=CAU" group-title="Cine",A&E
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/118599.ts
+http://179.51.168.13:4000/play/a02m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Cine",TCM
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY
-http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/3007.ts
+http://179.51.168.13:4000/play/a03k
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4A5yg6GpPEeqXwjRUIbguHTk6giHhGCVinA&usqp=CAU" group-title="Cine",TNT HD
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324320.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZyjTfO6KLR9b1N23MTLpY_E_9pvmr6YDVug&usqp=CAU" group-title="Cine",SPACE
@@ -244,7 +244,7 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/3027
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/disney/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20210819102952&path-prefix=es" group-title="Kids",DISNEY CHANNEL
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/166504.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt30h0GbPvcW5Tdidhobj2smcHPuhT-D85iA&usqp=CAU" group-title="Kids",DISCOVERY KIDS
-http://38.43.140.97:8000/play/a01j/index.m3u8
+http://179.51.168.13:4000/play/a02e
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WRlqjjNawyik_IKVS5EVZnylzwlXoCXGyA&usqp=CAU" group-title="Kids",DISNEY JUNIOR
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9042
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/thumbnail/width/360/height/360?cb=20220912114022" group-title="Kids",BABYFIRST
