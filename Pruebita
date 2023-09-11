@@ -460,32 +460,456 @@ http://tvpro.tech:8080/movie/acassd22/acab1312/63445.mp4
 #EXTINF:-1 tvg-name="diskoteka 80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRcBVjpL7LIHXh1LL1W4pEABLqp.jpg" group-title="CONCIERTOS",diskoteka 80
 http://tvpro.tech:8080/movie/acassd22/acab1312/63446.mp4
 
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 1
-https://p8xsbi8pjm29.lions-vidcdn.com/hls2/01/00337/4k0ubtlt2gkj_o/master.m3u8?t=vAzmX7t32L7-Cj1t0d8SWivceswb5ix23JZgue5EqqA&s=1694231801&e=129600&f=1689384&srv=809JpKUTHNNs&i=0.4&sp=1500&p1=809JpKUTHNNs&p2=809JpKUTHNNs&asn=28548
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 2
-https://pc-26.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.2.1.v0.1678732017.m3u8#MX
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 3
-https://oqpdiwpgzre6.lions-vidcdn.com/hls2/01/00337/9fv5m13j0ak0_o/master.m3u8?t=4NC80g6cq6XR1bImuN4ye4zRqToKr8_qzgY4XSH_3KE&s=1694232740&e=129600&f=1689227&srv=vCRGO5OhkfMZ&i=0.4&sp=1500&p1=vCRGO5OhkfMZ&p2=vCRGO5OhkfMZ&asn=28548
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 4
-https://pc-38.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.4.1.v0.1678017923.m3u8#MX
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 5
-https://pc-44.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.5.1.v0.1677960011.m3u8#MX
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 6
-https://7jh9ab4anf.sw-cdnstream.com/hls2/01/00996/bhhi1rnw2pjx_o/master.m3u8?t=gYypPEy15dHB-hD6nPVN_RvSRIj4ClxaB31pi8ofmj4&s=1694232889&e=129600&f=4983077&srv=ltwxmojzzttc&i=0.4&sp=500&p1=ltwxmojzzttc&p2=ltwxmojzzttc&asn=28548
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 7
-https://FxA1tlMn.sw-cdnstream.com/hls2/01/00996/oktjoqauus2d_o/master.m3u8?t=yIiQCWaPcUx1jprtEZi1px6c9aHgScvBK2gsTGhW0BI&s=1694232959&e=129600&f=4983035&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=28548
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 8
-https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.8.1.v0.1677807650.m3u8#MX
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 9
-https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/00930/uvkxqqb9rr22_o/master.m3u8?t=WSu4dJlAA-JUcpDgXZSP3XVSJtpaDnssJN7WmcdP7_4&s=1694233048&e=129600&f=4651401&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=28548
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 10
-https://pc-23.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.10.1.v0.1678713042.m3u8#MX
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 11
-https://giiv4aeb0l3m.sw-cdnstream.com/hls2/01/00956/hyw2lt240ruj_o/master.m3u8?t=IumoAc4RKxQtI-Q4WY_oY3XzjpK72LQT0ToEazCISv4&s=1694233134&e=129600&f=4782866&srv=ejjkmxupvsar&i=0.4&sp=500&p1=ejjkmxupvsar&p2=ejjkmxupvsar&asn=28548
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 12
-https://pc-33.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9bbb699ac51d22208cfcb1dca60bb1a/EP.12.1.v0.1677694466.m3u8#MX
-#EXTINF:-1 tvg-name="SIMPSON" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ" group-title="Los simpson",TEMP 1 CAP 13
-https://0r0muqzr7.sw-cdnstream.com/hls2/01/00993/wisoegkcp9tr_o/master.m3u8?t=Uq9S0kLcjlbId2P1E3KLnZAwBl2IQV7LVjHuCWTexA4&s=1694233228&e=129600&f=4968306&srv=kekjtzyzmgwi&i=0.4&sp=500&p1=kekjtzyzmgwi&p2=kekjtzyzmgwi&asn=28548
+#EXTINF:-1 tvg-name="Los Simpsons S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j10k0OIY2yRhguiyEEDdNnTRw9.jpg" group-title="SERIES PRO",Los Simpsons S01E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27216.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaXc0rNWRhwcpUZc0ejK9E9fwsM.jpg" group-title="SERIES PRO",Los Simpsons S01E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27217.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJLsaRXLtU1cgROHo69qCuiyu7S.jpg" group-title="SERIES PRO",Los Simpsons S01E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27218.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIf79L9JjIm8eNpIlEDsDtU5gEh.jpg" group-title="SERIES PRO",Los Simpsons S01E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27219.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RGiDc5mA41UR3cwLTYKkKFWmep.jpg" group-title="SERIES PRO",Los Simpsons S01E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27220.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRfDAwncFGuPR8JiYZMz82CFe7M.jpg" group-title="SERIES PRO",Los Simpsons S01E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27221.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seaGKuJYduDo7QcFRIPIb42TFyV.jpg" group-title="SERIES PRO",Los Simpsons S01E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27222.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUPAp7gYJg3tJsNQ2ZcQJdAiRXp.jpg" group-title="SERIES PRO",Los Simpsons S01E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27223.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4Q0SBrJ2WyKdKrcPPIkkUVpvB7.jpg" group-title="SERIES PRO",Los Simpsons S01E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27224.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vTNVcG4iP5h0C46gORJXSWYiZx.jpg" group-title="SERIES PRO",Los Simpsons S01E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27225.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gybGpHuhgpL2GTE27hlaKWXStvy.jpg" group-title="SERIES PRO",Los Simpsons S01E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27226.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDPJG9eirFWNqAA1HcHTOp417MW.jpg" group-title="SERIES PRO",Los Simpsons S01E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27227.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsb8dmod9lygPghY34ekpWUtRXI.jpg" group-title="SERIES PRO",Los Simpsons S01E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27228.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riUlQPXphtJBmn1cO9nppKdczt0.jpg" group-title="SERIES PRO",Los Simpsons S02E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27229.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rODU9X00CE0xN42utusSH7MYtjc.jpg" group-title="SERIES PRO",Los Simpsons S02E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27230.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVdJRzcnSjbsc9YQ2ZuZ0Kmhi13.jpg" group-title="SERIES PRO",Los Simpsons S02E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27231.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrUE7tedOtrA7PurrkbYKRMcYKx.jpg" group-title="SERIES PRO",Los Simpsons S02E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27232.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irKVvA76kx6kxBDop3f8eSAeuSV.jpg" group-title="SERIES PRO",Los Simpsons S02E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27233.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WypJjyyYNseDOv0hkplPdabA9I.jpg" group-title="SERIES PRO",Los Simpsons S02E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27234.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi0MV7BDnNF208Wa5Kv8MIL69NU.jpg" group-title="SERIES PRO",Los Simpsons S02E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27235.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5tCwaAHkmqP8p539uke3s8DjjU.jpg" group-title="SERIES PRO",Los Simpsons S02E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27236.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFfLjt6tG4SBNRrxrqMI1IEqv6R.jpg" group-title="SERIES PRO",Los Simpsons S02E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27237.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iktR0XuBPJHEHqmRjwo4HKqdkPw.jpg" group-title="SERIES PRO",Los Simpsons S02E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27238.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXi0KNvcPXVwOJ19dcfiaanXgxT.jpg" group-title="SERIES PRO",Los Simpsons S02E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27239.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osutS8IJtjo9qOfeNGK0kEep0V.jpg" group-title="SERIES PRO",Los Simpsons S02E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27240.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BGArr1LfGtk6rknBTnEDZR6PMU.jpg" group-title="SERIES PRO",Los Simpsons S02E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27241.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbGO7vBVkoZ41iWmFMPE0Hkgb0V.jpg" group-title="SERIES PRO",Los Simpsons S02E14
+http://tvpro.tech:8080/series/acassd22/acab1312/27242.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioXUeYU5fPpzql7scBslalz6hEu.jpg" group-title="SERIES PRO",Los Simpsons S02E15
+http://tvpro.tech:8080/series/acassd22/acab1312/27243.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29P4tnKK395AolkLX4OMue7Cxr0.jpg" group-title="SERIES PRO",Los Simpsons S02E16
+http://tvpro.tech:8080/series/acassd22/acab1312/27244.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffteyPKIvyBrs7qIOnElkCwQ4Uc.jpg" group-title="SERIES PRO",Los Simpsons S02E17
+http://tvpro.tech:8080/series/acassd22/acab1312/27245.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hp0DAsHnqGSA0nV3a28boZsLFHI.jpg" group-title="SERIES PRO",Los Simpsons S02E18
+http://tvpro.tech:8080/series/acassd22/acab1312/27246.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYlfHJCuoSIeYBxZVZ3BUWKDckn.jpg" group-title="SERIES PRO",Los Simpsons S02E19
+http://tvpro.tech:8080/series/acassd22/acab1312/27247.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63R1SU9J1t5OI4knMHeqAixIh9d.jpg" group-title="SERIES PRO",Los Simpsons S02E20
+http://tvpro.tech:8080/series/acassd22/acab1312/27248.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bjLjlqA1Y1c4Adnry52ZMulSsR.jpg" group-title="SERIES PRO",Los Simpsons S02E21
+http://tvpro.tech:8080/series/acassd22/acab1312/27249.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S02E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lvnWMcyifimlIj1ed678DzaEAG.jpg" group-title="SERIES PRO",Los Simpsons S02E22
+http://tvpro.tech:8080/series/acassd22/acab1312/27250.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FF7LnpvqQQKgixMoluxtcqAnEr.jpg" group-title="SERIES PRO",Los Simpsons S03E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27251.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRTUyhxBzYrtaC7YvKS1tDuYb6L.jpg" group-title="SERIES PRO",Los Simpsons S03E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27252.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/og9K8u6xTF2eBSzxEjBvB5qOwhw.jpg" group-title="SERIES PRO",Los Simpsons S03E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27253.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llymRxYzp8cYnlgM6OE6175vWyY.jpg" group-title="SERIES PRO",Los Simpsons S03E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27254.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sikkdIYDCQtjmu5g7OMY6PLKRIx.jpg" group-title="SERIES PRO",Los Simpsons S03E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27255.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txDISUpW1AZ5XaNesaOVFBbWh9N.jpg" group-title="SERIES PRO",Los Simpsons S03E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27256.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rABQXfeJ09gsahsYmPlhhX93Feu.jpg" group-title="SERIES PRO",Los Simpsons S03E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27257.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Q9ohrz7sbY30ueUvDp9IKs1L36.jpg" group-title="SERIES PRO",Los Simpsons S03E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27258.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miPQWtWWhrFPSQh4JHiq0cq3Atc.jpg" group-title="SERIES PRO",Los Simpsons S03E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27259.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IWlg0MJxv7NES4rNLGLD3aJVuT.jpg" group-title="SERIES PRO",Los Simpsons S03E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27260.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syvECZZ2FLhASlgZaOaUmovJjOE.jpg" group-title="SERIES PRO",Los Simpsons S03E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27261.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aG08CcX9iD8Mwvc8ZFhrOquqmW.jpg" group-title="SERIES PRO",Los Simpsons S03E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27262.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovp2WSTOlpUzPCC58UtYFjZ7Yox.jpg" group-title="SERIES PRO",Los Simpsons S03E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27263.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J73bE1B0bveXjDThkQnHRsVC1d.jpg" group-title="SERIES PRO",Los Simpsons S03E14
+http://tvpro.tech:8080/series/acassd22/acab1312/27264.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVIHYgJozLLOIypGSB5FZeVerz3.jpg" group-title="SERIES PRO",Los Simpsons S03E15
+http://tvpro.tech:8080/series/acassd22/acab1312/27265.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pdG7TQPqOurobhQRskP7e5s8dT.jpg" group-title="SERIES PRO",Los Simpsons S03E16
+http://tvpro.tech:8080/series/acassd22/acab1312/27266.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqtznK6KlgiQ1EHAH59HRHXwG6V.jpg" group-title="SERIES PRO",Los Simpsons S03E17
+http://tvpro.tech:8080/series/acassd22/acab1312/27267.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56WoSO35N1WGYKR8g5A1cR8cjva.jpg" group-title="SERIES PRO",Los Simpsons S03E18
+http://tvpro.tech:8080/series/acassd22/acab1312/27268.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9mO02mvFWhuQFqli2FHuuQEEB4.jpg" group-title="SERIES PRO",Los Simpsons S03E19
+http://tvpro.tech:8080/series/acassd22/acab1312/27269.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4FrjH8jqjUBMAp2yzUOX3Vkbz.jpg" group-title="SERIES PRO",Los Simpsons S03E20
+http://tvpro.tech:8080/series/acassd22/acab1312/27270.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHajuh5v7uJy4anIQ42uGPtdbxT.jpg" group-title="SERIES PRO",Los Simpsons S03E21
+http://tvpro.tech:8080/series/acassd22/acab1312/27271.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw584dD9W5MXQ8F4sjkHchLFiRp.jpg" group-title="SERIES PRO",Los Simpsons S03E22
+http://tvpro.tech:8080/series/acassd22/acab1312/27272.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S03E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6odqrEhZT0JsdaKPf50k4AJ2Ub.jpg" group-title="SERIES PRO",Los Simpsons S03E23
+http://tvpro.tech:8080/series/acassd22/acab1312/27273.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zs2QSFTyu3HmIbeVPO69iLE0VVj.jpg" group-title="SERIES PRO",Los Simpsons S04E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27274.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hURxVAv8BK1Jr0R2u3Ci8Mfg84.jpg" group-title="SERIES PRO",Los Simpsons S04E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27275.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XqoOIAtcBW3CUtSwK1e29ihION.jpg" group-title="SERIES PRO",Los Simpsons S04E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27276.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udnXpNJdyszmppl7ronZswDD2nl.jpg" group-title="SERIES PRO",Los Simpsons S04E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27277.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/objWXgAjSZHnXBMY1QgK3UvLzO1.jpg" group-title="SERIES PRO",Los Simpsons S04E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27278.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpVR9WqxYskM4ODpdpwnXf46YH3.jpg" group-title="SERIES PRO",Los Simpsons S04E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27279.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h7JTbzaZruL6mQ4l99uiBC1AGJ.jpg" group-title="SERIES PRO",Los Simpsons S04E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27280.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Dtu1bRIdjxLRk1y1c5UZKRtDmn.jpg" group-title="SERIES PRO",Los Simpsons S04E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27281.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1GgXspwrdiaikQrxh1Y32CvOcK.jpg" group-title="SERIES PRO",Los Simpsons S04E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27282.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/315Weu2PRav3bjxDQGCH9hnSRjh.jpg" group-title="SERIES PRO",Los Simpsons S04E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27283.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKqG2wMtBv8KMcvCG5aLnFWvwb6.jpg" group-title="SERIES PRO",Los Simpsons S04E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27284.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLS93TLUaEAkGJ4ZEMsxa2sCzia.jpg" group-title="SERIES PRO",Los Simpsons S04E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27285.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6ujXVL5K3JMlAVHw2TwBB7HeGY.jpg" group-title="SERIES PRO",Los Simpsons S04E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27286.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOP5ZJDPnX4gIjGfeNrI6eVFSgh.jpg" group-title="SERIES PRO",Los Simpsons S04E14
+http://tvpro.tech:8080/series/acassd22/acab1312/27287.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sWHsvgyrQ7XjasGeARr7ZuUeIo.jpg" group-title="SERIES PRO",Los Simpsons S04E15
+http://tvpro.tech:8080/series/acassd22/acab1312/27288.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqT5FKfFZGXpHEiZbrsIPRbznaW.jpg" group-title="SERIES PRO",Los Simpsons S04E16
+http://tvpro.tech:8080/series/acassd22/acab1312/27289.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaTrJ51PsApEtTJJV6eWHVyowAJ.jpg" group-title="SERIES PRO",Los Simpsons S04E17
+http://tvpro.tech:8080/series/acassd22/acab1312/27290.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xET0YceozgEEpU6SSazBtsGmSJ5.jpg" group-title="SERIES PRO",Los Simpsons S04E18
+http://tvpro.tech:8080/series/acassd22/acab1312/27291.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v20KvLQFkdqios9s6HMXF9qDL7i.jpg" group-title="SERIES PRO",Los Simpsons S04E19
+http://tvpro.tech:8080/series/acassd22/acab1312/27292.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFnJlw90EiXYBISwT1QoEMQsvW0.jpg" group-title="SERIES PRO",Los Simpsons S04E20
+http://tvpro.tech:8080/series/acassd22/acab1312/27293.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kt0XVaQnjE5vV6ZupNx4rwIJcO6.jpg" group-title="SERIES PRO",Los Simpsons S04E21
+http://tvpro.tech:8080/series/acassd22/acab1312/27294.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S04E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WciDGgyjsBLKnWGpXOv0d6ryiW.jpg" group-title="SERIES PRO",Los Simpsons S04E22
+http://tvpro.tech:8080/series/acassd22/acab1312/27295.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81opatCTqNbbVxJYqo6pX2YFQmI.jpg" group-title="SERIES PRO",Los Simpsons S05E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27296.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEbaUHy8WlYZmfw85d5j6S97xCi.jpg" group-title="SERIES PRO",Los Simpsons S05E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27297.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLhgFURqgVdd7eGRpUHZ6ynhjnu.jpg" group-title="SERIES PRO",Los Simpsons S05E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27298.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HCHSB6DwEhjdru2iIFCrMtS71J.jpg" group-title="SERIES PRO",Los Simpsons S05E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27299.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4bU7miPe8UpqryACLIzlxYxH5n.jpg" group-title="SERIES PRO",Los Simpsons S05E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27300.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBKjCp1WXdiqTymz0EKfLwbL09N.jpg" group-title="SERIES PRO",Los Simpsons S05E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27301.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9i60m6zux4l56vqmJZJIMx2sWu.jpg" group-title="SERIES PRO",Los Simpsons S05E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27302.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/no5gL2bs95k03UpHiajmlti9scd.jpg" group-title="SERIES PRO",Los Simpsons S05E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27303.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/575zG67s8nAgPyQ6ijoFhpzAPLX.jpg" group-title="SERIES PRO",Los Simpsons S05E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27304.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nqrJSe6fu5p4ScUcKlcfVcajdd.jpg" group-title="SERIES PRO",Los Simpsons S05E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27305.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CBxpxq9gXRFJpV6ypPwinX2IE.jpg" group-title="SERIES PRO",Los Simpsons S05E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27306.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGrKr1cGKkxtc9HjzOTFMU3F822.jpg" group-title="SERIES PRO",Los Simpsons S05E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27307.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxoCXKPWBCz7hbLAGiHOzNWEdIH.jpg" group-title="SERIES PRO",Los Simpsons S05E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27308.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRJ1z7QiM6UA4gwji7kyNxKAMGa.jpg" group-title="SERIES PRO",Los Simpsons S05E14
+http://tvpro.tech:8080/series/acassd22/acab1312/27309.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5T4GgsBk8iwIHIVVouw8NTbUkP6.jpg" group-title="SERIES PRO",Los Simpsons S05E15
+http://tvpro.tech:8080/series/acassd22/acab1312/27310.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NbyuyEnV1v59F972xdy3LX4mnD.jpg" group-title="SERIES PRO",Los Simpsons S05E16
+http://tvpro.tech:8080/series/acassd22/acab1312/27311.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bXPNldsxLIFRPabGoRTkqqngCu.jpg" group-title="SERIES PRO",Los Simpsons S05E17
+http://tvpro.tech:8080/series/acassd22/acab1312/27312.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEWDrqqdsUyOwRSIqB0mVVfYF2J.jpg" group-title="SERIES PRO",Los Simpsons S05E18
+http://tvpro.tech:8080/series/acassd22/acab1312/27313.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeW31WEMuITT67PjSa2AMj0Ykia.jpg" group-title="SERIES PRO",Los Simpsons S05E19
+http://tvpro.tech:8080/series/acassd22/acab1312/27314.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5YbUNjiZf1Z2ZCktgHTaXg4gHS.jpg" group-title="SERIES PRO",Los Simpsons S05E20
+http://tvpro.tech:8080/series/acassd22/acab1312/27315.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TpFEh7RngYPopJYDtZLRxHJQTn.jpg" group-title="SERIES PRO",Los Simpsons S05E21
+http://tvpro.tech:8080/series/acassd22/acab1312/27316.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S05E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xhuHdnj1BnO1ZN7w85ZnvhpmhH.jpg" group-title="SERIES PRO",Los Simpsons S05E22
+http://tvpro.tech:8080/series/acassd22/acab1312/27317.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rz9uFKuZLHz0UhtOf4SgnSir1xD.jpg" group-title="SERIES PRO",Los Simpsons S06E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27318.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw2MG9ImULSND503EsOueuBV2dK.jpg" group-title="SERIES PRO",Los Simpsons S06E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27319.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfxlTb5adP02ihAXveNyUM4bnJl.jpg" group-title="SERIES PRO",Los Simpsons S06E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27320.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5u7BWr0Q6rqm0MZAgp2dz0vFULs.jpg" group-title="SERIES PRO",Los Simpsons S06E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27321.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBqxPRC19w6emH3RmQBTjkj4R9f.jpg" group-title="SERIES PRO",Los Simpsons S06E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27322.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yc8Un69DCQz7Dk0u2kzjwO7V6Ay.jpg" group-title="SERIES PRO",Los Simpsons S06E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27323.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDbgXfM1X0FCWCSCVi3ybAgRyoz.jpg" group-title="SERIES PRO",Los Simpsons S06E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27324.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7Q9IPY8AKVYyQITmOfRxu9W61u.jpg" group-title="SERIES PRO",Los Simpsons S06E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27325.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLRhq2VDBrGO1lvt1vpooPlxDV9.jpg" group-title="SERIES PRO",Los Simpsons S06E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27326.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCUbpL76QltEZ8ARfhglrKuKEZS.jpg" group-title="SERIES PRO",Los Simpsons S06E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27327.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4vWKriQpW9ZsbwRCVM0bAmd0Nv.jpg" group-title="SERIES PRO",Los Simpsons S06E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27328.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXjEWSke130ffFpV2ztZHGyUNvo.jpg" group-title="SERIES PRO",Los Simpsons S06E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27329.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFn7sYsCFn0Dup4rK5sv8s7wMRj.jpg" group-title="SERIES PRO",Los Simpsons S06E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27330.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKWhgogf11Gh0ArjyaWX6Xpj06V.jpg" group-title="SERIES PRO",Los Simpsons S06E14
+http://tvpro.tech:8080/series/acassd22/acab1312/27331.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncHTJ7mrOM0HLhaqBTthmZkpaco.jpg" group-title="SERIES PRO",Los Simpsons S06E15
+http://tvpro.tech:8080/series/acassd22/acab1312/27332.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEnIfyA9iKWe6FLunqGiq2ifS5U.jpg" group-title="SERIES PRO",Los Simpsons S06E16
+http://tvpro.tech:8080/series/acassd22/acab1312/27333.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAzgGSFbBHhGloBQIto5pmeqFHt.jpg" group-title="SERIES PRO",Los Simpsons S06E17
+http://tvpro.tech:8080/series/acassd22/acab1312/27334.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUNlKnQR0cMoU91bX8WkZnH9LMt.jpg" group-title="SERIES PRO",Los Simpsons S06E18
+http://tvpro.tech:8080/series/acassd22/acab1312/27335.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Bfoju6VSkw5MAEXyzZTNL8IYLu.jpg" group-title="SERIES PRO",Los Simpsons S06E19
+http://tvpro.tech:8080/series/acassd22/acab1312/27336.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO59TWwbA2KUnsMAJPNMvuHPypT.jpg" group-title="SERIES PRO",Los Simpsons S06E20
+http://tvpro.tech:8080/series/acassd22/acab1312/27337.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sewHQkn73PnzWFmPH3NGtrrHX5b.jpg" group-title="SERIES PRO",Los Simpsons S06E21
+http://tvpro.tech:8080/series/acassd22/acab1312/27338.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enkDNomoUp03x8gfP85nDSz8HDE.jpg" group-title="SERIES PRO",Los Simpsons S06E22
+http://tvpro.tech:8080/series/acassd22/acab1312/27339.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8f0vTLpypTuwN74oHJKZN7E1Tg.jpg" group-title="SERIES PRO",Los Simpsons S06E23
+http://tvpro.tech:8080/series/acassd22/acab1312/27340.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gqTkgajON7aKu3OxWVCdhTSVuI.jpg" group-title="SERIES PRO",Los Simpsons S06E24
+http://tvpro.tech:8080/series/acassd22/acab1312/27341.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S06E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovlPZwOur2hQPJj60qlq1YUenPs.jpg" group-title="SERIES PRO",Los Simpsons S06E25
+http://tvpro.tech:8080/series/acassd22/acab1312/27342.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wdeSKcXLy4WP61M8M9HadXlkGB.jpg" group-title="SERIES PRO",Los Simpsons S07E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27346.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNJsnn3QqaYOogXHv8IE4DdPQ6r.jpg" group-title="SERIES PRO",Los Simpsons S07E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27347.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52eh2IC21DJzyExBd7j4cx8txzc.jpg" group-title="SERIES PRO",Los Simpsons S07E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27348.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLTmCX6H1AAWyINamFV0gRKV5wR.jpg" group-title="SERIES PRO",Los Simpsons S07E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27349.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjgUhWN861zaqgKkhDrhbzbVCnw.jpg" group-title="SERIES PRO",Los Simpsons S07E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27350.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eECINwliKfGDTncCp6XfpFiL8bd.jpg" group-title="SERIES PRO",Los Simpsons S07E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27351.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cEFHzl3dpfLixxbFZ3zSGBWM2I.jpg" group-title="SERIES PRO",Los Simpsons S07E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27352.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBgLOD6GkWweaDBeHWfbapMCgfr.jpg" group-title="SERIES PRO",Los Simpsons S07E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27353.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1H35jadpCSb6cMh9he0xVHVqJ7.jpg" group-title="SERIES PRO",Los Simpsons S07E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27354.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0NczFpaT9Xlkeu4qiyRK14eoMe.jpg" group-title="SERIES PRO",Los Simpsons S07E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27355.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5iEYp4fzeIh85mJU6Cr25YkwBr.jpg" group-title="SERIES PRO",Los Simpsons S07E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27356.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt0k7ZgeOllYvs3pe90xG2sYgH2.jpg" group-title="SERIES PRO",Los Simpsons S07E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27357.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91trtw8tEofl5X8wGGloGIQpQdr.jpg" group-title="SERIES PRO",Los Simpsons S07E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27358.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciA5U7Iz5S5UxuHmk10UEGgq0zJ.jpg" group-title="SERIES PRO",Los Simpsons S07E14
+http://tvpro.tech:8080/series/acassd22/acab1312/27359.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3DuctvVBsOQz3pX84YamGbtRH7.jpg" group-title="SERIES PRO",Los Simpsons S07E15
+http://tvpro.tech:8080/series/acassd22/acab1312/27360.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5990JQ1UWZs2P2zLtTNELpBa3FO.jpg" group-title="SERIES PRO",Los Simpsons S07E16
+http://tvpro.tech:8080/series/acassd22/acab1312/27361.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pF19fUeEhhm4v0EVrqzeUpSkie.jpg" group-title="SERIES PRO",Los Simpsons S07E17
+http://tvpro.tech:8080/series/acassd22/acab1312/27362.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Jjf96bdJ96DvcSSWzxxlfTXlBB.jpg" group-title="SERIES PRO",Los Simpsons S07E18
+http://tvpro.tech:8080/series/acassd22/acab1312/27363.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64Z7yPhTmy3JzxwYYCBpaUYNXV.jpg" group-title="SERIES PRO",Los Simpsons S07E19
+http://tvpro.tech:8080/series/acassd22/acab1312/27364.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eerA88U6DqsT0HR6Q4lbcsh6wr.jpg" group-title="SERIES PRO",Los Simpsons S07E20
+http://tvpro.tech:8080/series/acassd22/acab1312/27365.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBZJotecyaIhEojxkAFRZz5BsOu.jpg" group-title="SERIES PRO",Los Simpsons S07E21
+http://tvpro.tech:8080/series/acassd22/acab1312/27366.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlH4liBdZT78m7poDmeib9RZajt.jpg" group-title="SERIES PRO",Los Simpsons S07E22
+http://tvpro.tech:8080/series/acassd22/acab1312/27367.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jitKY6lmiMiRTszhH0k2eGR5daC.jpg" group-title="SERIES PRO",Los Simpsons S07E23
+http://tvpro.tech:8080/series/acassd22/acab1312/27368.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKPUHKo4UFDcjCg83aAiu9Fk5oa.jpg" group-title="SERIES PRO",Los Simpsons S07E24
+http://tvpro.tech:8080/series/acassd22/acab1312/27369.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S07E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93V2MQ5wlUZKpFZzU8fYtBich0A.jpg" group-title="SERIES PRO",Los Simpsons S07E25
+http://tvpro.tech:8080/series/acassd22/acab1312/27370.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaQViKhEqMs8V5Nrf3uvtcRqzDy.jpg" group-title="SERIES PRO",Los Simpsons S08E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27371.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tr3FltSvSeef4KOffoRKvXvkTMo.jpg" group-title="SERIES PRO",Los Simpsons S08E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27372.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVQk1mXSsjtD6IwdaZLIMnGMOHh.jpg" group-title="SERIES PRO",Los Simpsons S08E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27373.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvd8k2tJaNUg3ktQloIW65TrYzm.jpg" group-title="SERIES PRO",Los Simpsons S08E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27374.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSm8klvIVqkwtuIBE7f4lOHfXHC.jpg" group-title="SERIES PRO",Los Simpsons S08E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27375.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxz4Cgo1ZWUyRt3aum5j54fpo0s.jpg" group-title="SERIES PRO",Los Simpsons S08E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27376.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ALQJZp1ciNNBVKHIJLCk2uJemg.jpg" group-title="SERIES PRO",Los Simpsons S08E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27377.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szX6lIktUBmxhzpGA1vNnW82PJ0.jpg" group-title="SERIES PRO",Los Simpsons S08E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27378.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ai6Zrsce0dlW7bmlpsFSvX95O3.jpg" group-title="SERIES PRO",Los Simpsons S08E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27379.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEtEhGqYH4Z41owDzTCb0Y2k8EV.jpg" group-title="SERIES PRO",Los Simpsons S08E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27380.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TXmfP6mpCsuOWjHfY4SkjX8tpH.jpg" group-title="SERIES PRO",Los Simpsons S08E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27381.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIgWKNXOeBiOYlvscprmEUTMz1i.jpg" group-title="SERIES PRO",Los Simpsons S08E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27382.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kl1YT2oxTlUQPiBN05c7yX2ttK.jpg" group-title="SERIES PRO",Los Simpsons S08E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27383.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLyVYDXy9YuQbrkB0oNCs2kn861.jpg" group-title="SERIES PRO",Los Simpsons S08E14
+http://tvpro.tech:8080/series/acassd22/acab1312/27384.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWwPsxaeRYvYlihlthipMKKkJLM.jpg" group-title="SERIES PRO",Los Simpsons S08E15
+http://tvpro.tech:8080/series/acassd22/acab1312/27385.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYiZ7BXwlGO1mqRwyIRSixyJ8wo.jpg" group-title="SERIES PRO",Los Simpsons S08E16
+http://tvpro.tech:8080/series/acassd22/acab1312/27386.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYXk5Cr7E9sFfKLnlCdrcFJO2lJ.jpg" group-title="SERIES PRO",Los Simpsons S08E17
+http://tvpro.tech:8080/series/acassd22/acab1312/27387.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfjRTtgJKGtXi82okh18g4MnSOe.jpg" group-title="SERIES PRO",Los Simpsons S08E18
+http://tvpro.tech:8080/series/acassd22/acab1312/27388.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YZc0tiAKnvOqc2SyIjmIs7LrVX.jpg" group-title="SERIES PRO",Los Simpsons S08E19
+http://tvpro.tech:8080/series/acassd22/acab1312/27389.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8evgjItuXpjnGtblDKoQkYNEIw.jpg" group-title="SERIES PRO",Los Simpsons S08E20
+http://tvpro.tech:8080/series/acassd22/acab1312/27390.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2caes13RmSbfHLdWhsbOGwbHmXy.jpg" group-title="SERIES PRO",Los Simpsons S08E21
+http://tvpro.tech:8080/series/acassd22/acab1312/27391.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS652eL6gDKXiBYOpyzauryotL.jpg" group-title="SERIES PRO",Los Simpsons S08E22
+http://tvpro.tech:8080/series/acassd22/acab1312/27392.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGAe468prVat7S4Oeu9EgAdyWu8.jpg" group-title="SERIES PRO",Los Simpsons S08E23
+http://tvpro.tech:8080/series/acassd22/acab1312/27393.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fTtoPTg9VMGbUfDv1gL2KdyC4F.jpg" group-title="SERIES PRO",Los Simpsons S08E24
+http://tvpro.tech:8080/series/acassd22/acab1312/27394.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S08E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FUgOJTA8WJMVTPv8JEz3YGU7DG.jpg" group-title="SERIES PRO",Los Simpsons S08E25
+http://tvpro.tech:8080/series/acassd22/acab1312/27395.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raMEb3xRcYIeYHfzkhmfDss8UML.jpg" group-title="SERIES PRO",Los Simpsons S09E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27396.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzo26GVc3Q3ITYw11NeUaLS354b.jpg" group-title="SERIES PRO",Los Simpsons S09E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27397.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fN3PeAZeSoKD2cNWHHJYODM34z.jpg" group-title="SERIES PRO",Los Simpsons S09E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27398.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQTKEJxfLeYY40dvIAVAsaY9Y6H.jpg" group-title="SERIES PRO",Los Simpsons S09E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27399.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c79YWpzWio4oLivKOgmWvGQltc4.jpg" group-title="SERIES PRO",Los Simpsons S09E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27400.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/go6JQYux1hlM7WPnsfsIqqof6ho.jpg" group-title="SERIES PRO",Los Simpsons S09E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27401.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvcyaCGXsjZn4u4xtmyEgMKneQE.jpg" group-title="SERIES PRO",Los Simpsons S09E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27402.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boqwgAaBAJh6TF5X47zLJ3nNolr.jpg" group-title="SERIES PRO",Los Simpsons S09E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27403.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbkPHoRu6P4mqgmdB7P0Z38j774.jpg" group-title="SERIES PRO",Los Simpsons S09E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27404.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LMQpFpTDmBYNvnuArYOr7oqddu.jpg" group-title="SERIES PRO",Los Simpsons S09E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27405.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sa0qgnSMdDXS3ESp4SrGwkCX5ZQ.jpg" group-title="SERIES PRO",Los Simpsons S09E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27406.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aQSiKShLnKPbLQ2AprxL29JdT3.jpg" group-title="SERIES PRO",Los Simpsons S09E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27407.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNLlxplGG2sGsc8TdV3qzxrsQU3.jpg" group-title="SERIES PRO",Los Simpsons S09E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27408.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVXoXctwdj6bJbxi5qKUUr5R8Zy.jpg" group-title="SERIES PRO",Los Simpsons S09E14
+http://tvpro.tech:8080/series/acassd22/acab1312/27409.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bUVpeciwOmR6r3h3DJkNJ1jIAt.jpg" group-title="SERIES PRO",Los Simpsons S09E15
+http://tvpro.tech:8080/series/acassd22/acab1312/27410.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzUm5008fsBvLMcpSVLU7DaLkCE.jpg" group-title="SERIES PRO",Los Simpsons S09E16
+http://tvpro.tech:8080/series/acassd22/acab1312/27411.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLYaNmAjIVC5hA9pmIdPTDxp2In.jpg" group-title="SERIES PRO",Los Simpsons S09E17
+http://tvpro.tech:8080/series/acassd22/acab1312/27412.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdetz1ILFUfwqfBdTChIigeGXyO.jpg" group-title="SERIES PRO",Los Simpsons S09E18
+http://tvpro.tech:8080/series/acassd22/acab1312/27413.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yQ2paqiMAVSS1WBZ7NgtdDlNLA.jpg" group-title="SERIES PRO",Los Simpsons S09E19
+http://tvpro.tech:8080/series/acassd22/acab1312/27414.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8c68o0fnbL4hMv3CFOkrTKxixR5.jpg" group-title="SERIES PRO",Los Simpsons S09E20
+http://tvpro.tech:8080/series/acassd22/acab1312/27415.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYFmsdojWQTqavFDvKb0cRL2Qab.jpg" group-title="SERIES PRO",Los Simpsons S09E21
+http://tvpro.tech:8080/series/acassd22/acab1312/27416.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU7sY3aD6VyH0f2pf1RH0fd94Un.jpg" group-title="SERIES PRO",Los Simpsons S09E22
+http://tvpro.tech:8080/series/acassd22/acab1312/27417.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atNFkJ8s1fkOFBOjMqibfaqmDof.jpg" group-title="SERIES PRO",Los Simpsons S09E23
+http://tvpro.tech:8080/series/acassd22/acab1312/27418.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqCOSobnfYS0E1VYvOshkiPVIVC.jpg" group-title="SERIES PRO",Los Simpsons S09E24
+http://tvpro.tech:8080/series/acassd22/acab1312/27419.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S09E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXCoenPt7wYznYrSPw2BwFRapoc.jpg" group-title="SERIES PRO",Los Simpsons S09E25
+http://tvpro.tech:8080/series/acassd22/acab1312/27420.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BX92Gq0mYyXYjC0zADInMmVgBI.jpg" group-title="SERIES PRO",Los Simpsons S10E01
+http://tvpro.tech:8080/series/acassd22/acab1312/27421.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edvDcVLoszXlBFHTL3RuOiO5mqL.jpg" group-title="SERIES PRO",Los Simpsons S10E02
+http://tvpro.tech:8080/series/acassd22/acab1312/27422.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttST6vuFm9rwIjHYJSs8C9aMocg.jpg" group-title="SERIES PRO",Los Simpsons S10E03
+http://tvpro.tech:8080/series/acassd22/acab1312/27423.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwicl3ahKPqKdyXvvpJav3fgPb7.jpg" group-title="SERIES PRO",Los Simpsons S10E04
+http://tvpro.tech:8080/series/acassd22/acab1312/27424.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPGIv42kRJVT5VyerB1GKrRllPw.jpg" group-title="SERIES PRO",Los Simpsons S10E05
+http://tvpro.tech:8080/series/acassd22/acab1312/27425.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phnfWakOvuULtPb9ebY2F4N8LKK.jpg" group-title="SERIES PRO",Los Simpsons S10E06
+http://tvpro.tech:8080/series/acassd22/acab1312/27426.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbWaF8owl8wD5yyo5K7gOSESdQ7.jpg" group-title="SERIES PRO",Los Simpsons S10E07
+http://tvpro.tech:8080/series/acassd22/acab1312/27427.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoNBTexGBURmZlw2ruzvy5qqmM6.jpg" group-title="SERIES PRO",Los Simpsons S10E08
+http://tvpro.tech:8080/series/acassd22/acab1312/27428.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8suiIlNl3DJ64zQfBfU9OnuhUOn.jpg" group-title="SERIES PRO",Los Simpsons S10E09
+http://tvpro.tech:8080/series/acassd22/acab1312/27429.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/M3F2x4JJuOfBapvqcgy448lNgr.jpg" group-title="SERIES PRO",Los Simpsons S10E10
+http://tvpro.tech:8080/series/acassd22/acab1312/27430.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruM6TsJuR77iqMktO4a4o01dLKe.jpg" group-title="SERIES PRO",Los Simpsons S10E11
+http://tvpro.tech:8080/series/acassd22/acab1312/27431.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h70ZgNWe0VPdK0MkdYagpuXGtYP.jpg" group-title="SERIES PRO",Los Simpsons S10E12
+http://tvpro.tech:8080/series/acassd22/acab1312/27432.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXysSwnlvgbKk6W1mmyr3tY0NPC.jpg" group-title="SERIES PRO",Los Simpsons S10E13
+http://tvpro.tech:8080/series/acassd22/acab1312/27433.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mRrWC78fzzI9faI1lFlIvYvmP4.jpg" group-title="SERIES PRO",Los Simpsons S10E14
+http://tvpro.tech:8080/series/acassd22/acab1312/27434.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bE3BmgQi105cicYgJwb0qQeC3T.jpg" group-title="SERIES PRO",Los Simpsons S10E15
+http://tvpro.tech:8080/series/acassd22/acab1312/27435.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8f1SPiOpJ3zFLRMN5ftSgoRmTt2.jpg" group-title="SERIES PRO",Los Simpsons S10E16
+http://tvpro.tech:8080/series/acassd22/acab1312/27436.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FqLumseC0jODcnuBWTzwTHnqum.jpg" group-title="SERIES PRO",Los Simpsons S10E17
+http://tvpro.tech:8080/series/acassd22/acab1312/27437.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbRCNCZDS7roqzlx8kD95ouyjaO.jpg" group-title="SERIES PRO",Los Simpsons S10E18
+http://tvpro.tech:8080/series/acassd22/acab1312/27438.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOR05yNHBtc55RjDR2e6Zjoq6Ba.jpg" group-title="SERIES PRO",Los Simpsons S10E19
+http://tvpro.tech:8080/series/acassd22/acab1312/27439.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHryWyGO7IJ0jgzPbtPnSrg8EM6.jpg" group-title="SERIES PRO",Los Simpsons S10E20
+http://tvpro.tech:8080/series/acassd22/acab1312/27440.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dot0HpOw1nwG6jToauOa2TzCNU.jpg" group-title="SERIES PRO",Los Simpsons S10E21
+http://tvpro.tech:8080/series/acassd22/acab1312/27441.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpzT6y1hbyEHTp7xJD9RiTFWEo5.jpg" group-title="SERIES PRO",Los Simpsons S10E22
+http://tvpro.tech:8080/series/acassd22/acab1312/27442.mp4
+#EXTINF:-1 tvg-name="Los Simpsons S10E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMb8agwFq0gLqjZYuWllkpGlH9V.jpg" group-title="SERIES PRO",Los Simpsons S10E23
+
 
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png" group-title="Peliculas📽️🎬🎞️🎥",SUPER MARIO BROS 
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
