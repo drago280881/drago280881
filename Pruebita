@@ -139,6 +139,12 @@ http://179.51.168.13:4000/play/a05h
 http://179.51.168.13:4000/play/a05i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Cine",CINE PREMIUM
 http://179.51.168.13:4000/play/a05j
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHHaKg_Q69lQMOyPvlRdchSgpx7SgW-KNNLHZWogaBiDWrtbBUlIhhYQ&s=10" group-title="Cine",FMH FAMILY
+http://186.10.252.90:8000/play/a02i
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMSS7qodQcu7brekPoi9uOFDNNwwFaB65Oqa1z77UZ1BuCrG39-JosY9h&s=10" group-title="Cine",FMH KIDS
+http://186.10.252.90:8000/play/a02j
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnIz_6jVeHJ2X9903reb_LlCKH_zXlGIz42bDJyeSZLCWy9ViMs9xuzuo&s=10" group-title="Cine",FMH MOVIE
+http://186.10.252.90:8000/play/a02k
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_7DOWNfc3DHpquzTvLIPGIsm-qFKNQ3dPA&usqp=CAU" group-title="Cine",MEGA
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/66636.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNDgiqY1ZM_wMGS_xeu_JeQn1tJ8u3L0W9Q&usqp=CAU" group-title="Cine",AMC
@@ -259,6 +265,8 @@ http://179.51.168.13:4000/play/a06q
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9FXmY3MRKgU71d4J2kU7bnc5Whn7DNFEJg&usqp=CAU" group-title="Musica",MI MUSICA REGGAETON
 http://181.78.75.11:9500/play/MUSICAREGGAETON/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMsXOUMnHQFTSAuLs-vPS9GChbYaBsT9uk3GKQe7VKR-Y3-n5I_LzEwW4&s=10" group-title="Musica",KIZZI
+http://186.10.252.90:8000/play/a02l
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoavBjiAS4Dyp1Ct0vOMlg27fZMLe26JxbA&usqp=CAU" group-title="Musica",QUIERO MUSICA
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3548
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYbc8G5cnIzDF0dYzAPmfLIS_XPLtBi6OOw&usqp=CAU" group-title="Musica",BANDAMAX
