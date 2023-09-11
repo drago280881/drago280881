@@ -77,11 +77,13 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/139279.ts
 http://45.166.92.22:58001/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_1yBKTOATxYp37F7Me1D_8bUeGHsBrxbGw&usqp=CAU" group-title="Entretenimiento",UNIVISION PR
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148738
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_1yBKTOATxYp37F7Me1D_8bUeGHsBrxbGw&usqp=CAU" group-title="Entretenimiento",UNIVISION MIAMI
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38559.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLY-F16N3ZEMWoUxBDU_wYcDasmIs3cPcnA&usqp=CAU" group-title="Kids",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1280px-Galavision_Logo_2013.svg.pngU" group-title="Entretenimiento",GALAVISION 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/131296
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRLCaHtGzTnZ9Y1jG3B-NJli7fk4ZYrHbkQ&usqp=CAU" group-title="Entretenimiento",TELEMUNDO MIAMI 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png" group-title="Entretenimiento",TELEMUNDO MIAMI 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLpgsoiNTUV_x6N2AUGW5zFxl-w1s7gQRkuQ&usqp=CAU" group-title="Musica",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
