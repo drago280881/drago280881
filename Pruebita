@@ -889,28 +889,420 @@ http://tvpro.tech:8080/series/acassd22/acab1312/27431.mp4
 #EXTINF:-1 tvg-name="Los Simpsons S10E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h70ZgNWe0VPdK0MkdYagpuXGtYP.jpg" group-title="SERIES PRO",Los Simpsons S10E12
 http://tvpro.tech:8080/series/acassd22/acab1312/27432.mp4
 #EXTINF:-1 tvg-name="Los Simpsons S10E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXysSwnlvgbKk6W1mmyr3tY0NPC.jpg" group-title="SERIES PRO",Los Simpsons S10E13
-http://tvpro.tech:8080/series/acassd22/acab1312/27433.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mRrWC78fzzI9faI1lFlIvYvmP4.jpg" group-title="SERIES PRO",Los Simpsons S10E14
-http://tvpro.tech:8080/series/acassd22/acab1312/27434.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bE3BmgQi105cicYgJwb0qQeC3T.jpg" group-title="SERIES PRO",Los Simpsons S10E15
-http://tvpro.tech:8080/series/acassd22/acab1312/27435.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8f1SPiOpJ3zFLRMN5ftSgoRmTt2.jpg" group-title="SERIES PRO",Los Simpsons S10E16
-http://tvpro.tech:8080/series/acassd22/acab1312/27436.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FqLumseC0jODcnuBWTzwTHnqum.jpg" group-title="SERIES PRO",Los Simpsons S10E17
-http://tvpro.tech:8080/series/acassd22/acab1312/27437.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbRCNCZDS7roqzlx8kD95ouyjaO.jpg" group-title="SERIES PRO",Los Simpsons S10E18
-http://tvpro.tech:8080/series/acassd22/acab1312/27438.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOR05yNHBtc55RjDR2e6Zjoq6Ba.jpg" group-title="SERIES PRO",Los Simpsons S10E19
-http://tvpro.tech:8080/series/acassd22/acab1312/27439.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHryWyGO7IJ0jgzPbtPnSrg8EM6.jpg" group-title="SERIES PRO",Los Simpsons S10E20
-http://tvpro.tech:8080/series/acassd22/acab1312/27440.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dot0HpOw1nwG6jToauOa2TzCNU.jpg" group-title="SERIES PRO",Los Simpsons S10E21
-http://tvpro.tech:8080/series/acassd22/acab1312/27441.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpzT6y1hbyEHTp7xJD9RiTFWEo5.jpg" group-title="SERIES PRO",Los Simpsons S10E22
-http://tvpro.tech:8080/series/acassd22/acab1312/27442.mp4
-#EXTINF:-1 tvg-name="Los Simpsons S10E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMb8agwFq0gLqjZYuWllkpGlH9V.jpg" group-title="SERIES PRO",Los Simpsons S10E23
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E01" tvg-logo="http://magmas5.com:8000/images/54f7d1e105d53ba5338ae59440059a44.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E01
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E02" tvg-logo="http://magmas5.com:8000/images/e00a05b03bc1dcdaacb8a6af83d43477.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E02
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E03" tvg-logo="http://magmas5.com:8000/images/97d6b8e573c19aa8dec95155aa5aac6e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E03
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E04" tvg-logo="http://magmas5.com:8000/images/a8de0c6a3b7c33e36e93557991d8b42f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E04
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E05" tvg-logo="http://magmas5.com:8000/images/99adcec69e57fd30e0eaefbc8e35710f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E05
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E06" tvg-logo="http://magmas5.com:8000/images/cfff5d1831bd8c21202aceae993d8c4c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E06
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E07" tvg-logo="http://magmas5.com:8000/images/8131f0df59dba4415bea29a9ca93c1dc.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E07
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E08" tvg-logo="http://magmas5.com:8000/images/6dceb66e12c111152b0f5cbfb2c90332.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E08
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E09" tvg-logo="http://magmas5.com:8000/images/f779db6804d5aee15d9cb08708f3d579.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E09
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E10" tvg-logo="http://magmas5.com:8000/images/f00b3838c3385cc48ea9d2efd733d13a.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E10
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E11" tvg-logo="http://magmas5.com:8000/images/40582489a9f5567ee88a1942925f40c9.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E11
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E12" tvg-logo="http://magmas5.com:8000/images/8be8a700354206c65e4bacc36348669e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E12
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S01 E13" tvg-logo="http://magmas5.com:8000/images/46513f8ef02654b19f28db1e9cb7e421.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S01 E13
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E01" tvg-logo="http://magmas5.com:8000/images/3e8e57114b37c83e0c659b496f3c54e4.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E01
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E02" tvg-logo="http://magmas5.com:8000/images/00062ca366d00b5a20e98b5b78ca9677.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E02
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E03" tvg-logo="http://magmas5.com:8000/images/14b118b3ef798696f4c42bf3b17ae1bb.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E03
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E04" tvg-logo="http://magmas5.com:8000/images/ba9134516bb876337fa4818f23900276.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E04
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E05" tvg-logo="http://magmas5.com:8000/images/9037e2ca3b69cc08e9b36d1097be912f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E05
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E06" tvg-logo="http://magmas5.com:8000/images/abb25256f5e435346a84e0daec4f9cb1.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E06
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E07" tvg-logo="http://magmas5.com:8000/images/d46621973fd168ad573cd435ab3e2f3a.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E07
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E08" tvg-logo="http://magmas5.com:8000/images/60cca6371002ab480f2480df0a2c903c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E08
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E09" tvg-logo="http://magmas5.com:8000/images/99d948fd564ba2473090184bfeb83231.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E09
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E10" tvg-logo="http://magmas5.com:8000/images/0a92ad7a5ee1a5d9d5617b39e2057fea.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E10
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E11" tvg-logo="http://magmas5.com:8000/images/f6dd8783c6464a552728fa0c054a4b6c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E11
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E12" tvg-logo="http://magmas5.com:8000/images/c5e11c557c5d9650a55cd60a73a1a648.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E12
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E13" tvg-logo="http://magmas5.com:8000/images/c3482f287c2bafef2bb93087f24e7078.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E13
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E14" tvg-logo="http://magmas5.com:8000/images/743e389afbc6c80a52e926e1acdd42e0.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E14
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E15" tvg-logo="http://magmas5.com:8000/images/50fd0379ff00ebb51bd73f1f7e384422.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E15
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E16" tvg-logo="http://magmas5.com:8000/images/a9f87493f60f3a49996df6e8cefea386.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E16
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E17" tvg-logo="http://magmas5.com:8000/images/0081568707781493ad5d161fabaa9789.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E17
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E18" tvg-logo="http://magmas5.com:8000/images/6166bdc6f932c3bbb8c50a192bf7bd5d.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E18
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E19" tvg-logo="http://magmas5.com:8000/images/a0cf866e8216545a5c1f9d8d9db9692f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E19
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E20" tvg-logo="http://magmas5.com:8000/images/7bdb9b4fc3bce0a22aef8703a003e0cf.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E20
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E21" tvg-logo="http://magmas5.com:8000/images/1bc07e190467848d2707441d01391848.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E21
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S02 E22" tvg-logo="http://magmas5.com:8000/images/48aec32ba435dae89a6b845d6d6929c8.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S02 E22
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E01" tvg-logo="http://magmas5.com:8000/images/984d60b5f90dbc9d980cefebdd0370fa.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E01
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E02" tvg-logo="http://magmas5.com:8000/images/c9e65d00df97bb8e8247bd92203c43d0.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E02
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E03" tvg-logo="http://magmas5.com:8000/images/44d8b81f63306097811d2165a967badf.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E03
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E04" tvg-logo="http://magmas5.com:8000/images/606ee6cd42921907b934077ea13dc508.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E04
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E05" tvg-logo="http://magmas5.com:8000/images/b8d055a69054db97fa697582fb24a88e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E05
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E06" tvg-logo="http://magmas5.com:8000/images/7cd3383028c55fddb6e9b43127737b1c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E06
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E07" tvg-logo="http://magmas5.com:8000/images/375f523bb7e4c957abc5c4ea178b8b45.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E07
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E08" tvg-logo="http://magmas5.com:8000/images/143993a37f98ee3907be6f33720d423d.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E08
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E09" tvg-logo="http://magmas5.com:8000/images/0cd1efb303a08ece3c08e68fd3c32f33.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E09
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E10" tvg-logo="http://magmas5.com:8000/images/00f6f01768752fb281165b220e2998b5.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E10
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E11" tvg-logo="http://magmas5.com:8000/images/bebe12e6fd84488d92a96f9c302c76ac.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E11
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E12" tvg-logo="http://magmas5.com:8000/images/bcde85faff6d53d65d9bb1dca19899f4.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E12
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E13" tvg-logo="http://magmas5.com:8000/images/78f12dee745432929a930eb762210d3c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E13
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E14" tvg-logo="http://magmas5.com:8000/images/5d6d67e44ff056cd9654f46be8c073d1.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E14
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E15" tvg-logo="http://magmas5.com:8000/images/36d578fa9345ff9b012d6a219bf39b0e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E15
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E16" tvg-logo="http://magmas5.com:8000/images/3b483eeaf166ab80e2697760542f978e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E16
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E17" tvg-logo="http://magmas5.com:8000/images/da4f2d90a15b2d64934abf74eeed175c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E17
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E18" tvg-logo="http://magmas5.com:8000/images/e7cfe7c7e8824214befe28783ab9250d.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E18
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E19" tvg-logo="http://magmas5.com:8000/images/db7b87657d11d405045c62d21065faf3.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E19
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E20" tvg-logo="http://magmas5.com:8000/images/533eb3ec97483f58aa3d1e5624145a4f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E20
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E21" tvg-logo="http://magmas5.com:8000/images/4e0df8154b4b9c6db2225684ec3ac143.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E21
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E22" tvg-logo="http://magmas5.com:8000/images/c51079fcf2d13341793938d45dce00e7.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E22
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E23" tvg-logo="http://magmas5.com:8000/images/cb9247e837eb6717c838f4c8a3519ba0.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E23
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S03 E24" tvg-logo="http://magmas5.com:8000/images/cb7d19de4b72308194a150a66cf327a3.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S03 E24
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E01" tvg-logo="http://magmas5.com:8000/images/3f5a3193e9505e869ead0f52c3c9de4c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E01
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E02" tvg-logo="http://magmas5.com:8000/images/01c9e2fe452ba928336580c1bf6cd368.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E02
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E03" tvg-logo="http://magmas5.com:8000/images/41d348a4572d27cbdddb18c00e04bb85.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E03
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E04" tvg-logo="http://magmas5.com:8000/images/a7746cab683800a86e6f6d4db2b8efdc.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E04
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E05" tvg-logo="http://magmas5.com:8000/images/46b96534b5fccf26e98c1f564c1a9485.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E05
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E06" tvg-logo="http://magmas5.com:8000/images/7c77c67202f535e98cab2fe136f123f5.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E06
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E07" tvg-logo="http://magmas5.com:8000/images/d72c07a4152b558de39f169fceb43a70.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E07
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E08" tvg-logo="http://magmas5.com:8000/images/6824a7e742972d402f59b67b4263e38d.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E08
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E09" tvg-logo="http://magmas5.com:8000/images/eab57e0356ebe23a6add77880aae639a.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E09
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E10" tvg-logo="http://magmas5.com:8000/images/04a9751bb114c937cb668543ee3d24bc.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E10
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E11" tvg-logo="http://magmas5.com:8000/images/bc2d88ac4f777ef110fd5b0136a4b02e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E11
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E12" tvg-logo="http://magmas5.com:8000/images/b256eba03ffb5d7da926c32fd2a1265e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E12
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E13" tvg-logo="http://magmas5.com:8000/images/501aee702ad636aeff58237a4b33b7a6.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E13
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E14" tvg-logo="http://magmas5.com:8000/images/7f255e69a4d5400e2d1f50889ee67e16.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E14
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E15" tvg-logo="http://magmas5.com:8000/images/876fe70c53aa39c668f383448da4fe5a.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E15
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E16" tvg-logo="http://magmas5.com:8000/images/597575b6d0e745957c030090c81e3a7f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E16
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E17" tvg-logo="http://magmas5.com:8000/images/543a2e42b9152a0b5cb475ed0868b63e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E17
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E18" tvg-logo="http://magmas5.com:8000/images/906431a8e5136f641405da4790a8cbc8.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E18
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E19" tvg-logo="http://magmas5.com:8000/images/5e01ff64cd1ee2f99b618e29c85a9b2f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E19
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E20" tvg-logo="http://magmas5.com:8000/images/0e86cc5e9edced59850c8757800a01e3.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E20
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E21" tvg-logo="http://magmas5.com:8000/images/6980aeb71b06a3a6e75d74c918f3d970.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E21
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S04 E22" tvg-logo="http://magmas5.com:8000/images/a89b5a4bb5fde39afb65b221e1eb934e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S04 E22
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E01" tvg-logo="http://magmas5.com:8000/images/d934fe6bb79d54a4f8a93da9e97bd4f4.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E01
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E02" tvg-logo="http://magmas5.com:8000/images/3b2d5942dc5a60d6af1c3eb6a29308ca.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E02
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E03" tvg-logo="http://magmas5.com:8000/images/3c8c4cb80ff1c10b2ced8a748eb95741.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E03
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E04" tvg-logo="http://magmas5.com:8000/images/190d040979e03f30386f114cf4737f97.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E04
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E05" tvg-logo="http://magmas5.com:8000/images/df6f274ef0bf215ade93c46bab25dae7.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E05
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E06" tvg-logo="http://magmas5.com:8000/images/6e1f1037d75f1a20ac8edfc9d0d18952.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E06
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E07" tvg-logo="http://magmas5.com:8000/images/6a2ba6fe625651dacec8e5e50c336da6.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E07
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E08" tvg-logo="http://magmas5.com:8000/images/b3949924e15e5c3f04bdd793863defaf.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E08
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E09" tvg-logo="http://magmas5.com:8000/images/bc56116a8c3bb1ead0e63954e1774ea8.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E09
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E10" tvg-logo="http://magmas5.com:8000/images/c9055b2c4be3a57e27410bb7f3506229.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E10
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E11" tvg-logo="http://magmas5.com:8000/images/4316fb61804c141e68b7a8d9d628bca1.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E11
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E12" tvg-logo="http://magmas5.com:8000/images/08c39fcdca2aa692e0867fda044a161f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E12
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E13" tvg-logo="http://magmas5.com:8000/images/74497cd1e9b8d5a4ea913f2509541642.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E13
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E14" tvg-logo="http://magmas5.com:8000/images/853f6747709a12dcdf983ce14b69cab5.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E14
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E15" tvg-logo="http://magmas5.com:8000/images/3026fff92db407ebafe18b1325addea7.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E15
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E16" tvg-logo="http://magmas5.com:8000/images/76288b6e7aed8f63c70add016693c33f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E16
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E17" tvg-logo="http://magmas5.com:8000/images/78cde5b15c9739bc5a1f24351ae4cc67.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E17
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E18" tvg-logo="http://magmas5.com:8000/images/c39d0c05973d653f63a17c05af2bf5ce.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E18
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E19" tvg-logo="http://magmas5.com:8000/images/7c86f841fb39318f90d187c3ad1cd404.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E19
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E20" tvg-logo="http://magmas5.com:8000/images/8ac7e62f1bc7da79d83e271072692419.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E20
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E21" tvg-logo="http://magmas5.com:8000/images/a8fef7eba041105eac8102d7aaa4aee4.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E21
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S05 E22" tvg-logo="http://magmas5.com:8000/images/579e2c08fab44b5b8b2f89e2ac83f164.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S05 E22
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E01" tvg-logo="http://magmas5.com:8000/images/6853af6ba708e25e2362ebba808c9494.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E01
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E02" tvg-logo="http://magmas5.com:8000/images/6c2eb88d51a30104f5e311756f2d9e29.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E02
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E03" tvg-logo="http://magmas5.com:8000/images/3e172acd92850fb776672ce547d32f1e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E03
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E04" tvg-logo="http://magmas5.com:8000/images/4da70c3ab14a3ffd3fde1f212180594c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E04
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E05" tvg-logo="http://magmas5.com:8000/images/2ddb7352ff2ef2f6461ea575511aa7b4.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E05
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E06" tvg-logo="http://magmas5.com:8000/images/d327beefb2663bd427cd1c3116b8730e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E06
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E07" tvg-logo="http://magmas5.com:8000/images/2b8ba6f8f4544a34473ca762122bad6a.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E07
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E08" tvg-logo="http://magmas5.com:8000/images/b0a5a3bd5c664ba1a95ee205d12464c0.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E08
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E09" tvg-logo="http://magmas5.com:8000/images/c381b0610bdbca81f273fb6e92370539.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E09
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E10" tvg-logo="http://magmas5.com:8000/images/a08e939e9e97587c4bce6c2570b44b9a.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E10
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E11" tvg-logo="http://magmas5.com:8000/images/d743ca9c6483176ab0e4f62e8dbfcf85.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E11
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E12" tvg-logo="http://magmas5.com:8000/images/28ae7e3b49477680e13d6e3aa585a639.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E12
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E13" tvg-logo="http://magmas5.com:8000/images/d01214665c335766b1bd63a1783b2426.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E13
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E14" tvg-logo="http://magmas5.com:8000/images/b0ab3d4a72fa9feac390f2c6acd7d7d1.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E14
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E15" tvg-logo="http://magmas5.com:8000/images/5ea873aebaa049b96eb4133e891a8811.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E15
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E16" tvg-logo="http://magmas5.com:8000/images/4462e7d8ed2edcb8508a75ff9270e757.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E16
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E17" tvg-logo="http://magmas5.com:8000/images/998848cbcf88fa1615b665dc3988159b.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E17
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E18" tvg-logo="http://magmas5.com:8000/images/a315b3dc2ae42603d96d9a6f90bf30f9.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E18
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E19" tvg-logo="http://magmas5.com:8000/images/ef006fddc0cff4e67aac6f59075b3569.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E19
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E20" tvg-logo="http://magmas5.com:8000/images/2e4b57e3f51e36098e705f280ac6bffe.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E20
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E21" tvg-logo="http://magmas5.com:8000/images/30b4d45a84726ab2a9b8de0af05d7d93.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E21
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E22" tvg-logo="http://magmas5.com:8000/images/570fe5dc440fe9f4c19233ce396b27a0.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E22
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E23" tvg-logo="http://magmas5.com:8000/images/80203a5e98e795a5ffbbac8eec59d5ed.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E23
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E24" tvg-logo="http://magmas5.com:8000/images/38d7e15c6ec5222c06e4c8507f436852.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E24
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S06 E25" tvg-logo="http://magmas5.com:8000/images/122e8c6afcc5aa2d65008a58db9dac1e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S06 E25
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E01" tvg-logo="http://magmas5.com:8000/images/7497c543cac2d6e0f9899e3b8436851c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E01
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E02" tvg-logo="http://magmas5.com:8000/images/3f7e81f94210332663002ccb39f0ef27.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E02
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E03" tvg-logo="http://magmas5.com:8000/images/66c0519b534644a9b70e6f907206daa4.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E03
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E04" tvg-logo="http://magmas5.com:8000/images/491931032646d5a47e357740a86d9b4f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E04
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E05" tvg-logo="http://magmas5.com:8000/images/9231c50836f7b1c46409822528fcaa41.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E05
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E06" tvg-logo="http://magmas5.com:8000/images/cafe439a30b17365295a7aea93417b5a.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E06
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E07" tvg-logo="http://magmas5.com:8000/images/d84182458a531a624dbbc67177559ee4.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E07
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E08" tvg-logo="http://magmas5.com:8000/images/7086b67cd0d3b656ad0dc46077ea63bb.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E08
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E09" tvg-logo="http://magmas5.com:8000/images/5efee5955e83ddbd9a0d5772d9795eec.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E09
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E10" tvg-logo="http://magmas5.com:8000/images/3e374be9753160a94afad84afadd49b0.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E10
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E11" tvg-logo="http://magmas5.com:8000/images/625096936ecd0a52d030ef8316526235.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E11
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E12" tvg-logo="http://magmas5.com:8000/images/274159bf8f4a8ffb4c3db847d9397793.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E12
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E13" tvg-logo="http://magmas5.com:8000/images/04c90dabb0a587bc9677ae5f6b846fee.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E13
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E14" tvg-logo="http://magmas5.com:8000/images/92285359de795f168a1be61cf8c0f5ed.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E14
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E15" tvg-logo="http://magmas5.com:8000/images/bcce59b5a0d98cbadd8cd260308fd173.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E15
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E16" tvg-logo="http://magmas5.com:8000/images/9fc6a0b0aacc23327ddc9d861509dd90.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E16
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E17" tvg-logo="http://magmas5.com:8000/images/d9129f769f954bc17f270391e95acbc8.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E17
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E18" tvg-logo="http://magmas5.com:8000/images/917b53edfbe85ae198cf19aa4404d1d8.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E18
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E19" tvg-logo="http://magmas5.com:8000/images/ef56e1f7e9f584fd166b82075622703e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E19
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E20" tvg-logo="http://magmas5.com:8000/images/572379e294a9d874198b1128698ff374.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E20
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E21" tvg-logo="http://magmas5.com:8000/images/c60e1253de6396049adffd4c2f742396.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E21
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E22" tvg-logo="http://magmas5.com:8000/images/71fb300612e64f4fba8ade3490a0962f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E22
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E23" tvg-logo="http://magmas5.com:8000/images/55d223cb14f50ba833fce0d412fe3e0f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E23
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E24" tvg-logo="http://magmas5.com:8000/images/c00b7408377a1a359fbd0eb8434f9b1c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E24
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S07 E25" tvg-logo="http://magmas5.com:8000/images/7365da165d5cc0347c461f5bd748e968.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S07 E25
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E01" tvg-logo="http://magmas5.com:8000/images/930bb1fa2322c5f81350fa39ced670eb.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E01
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E02" tvg-logo="http://magmas5.com:8000/images/5bd0b704c9ce5b2c6b040d283fc0f2bf.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E02
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E03" tvg-logo="http://magmas5.com:8000/images/ecf4079dc2c15d8804e9c88f92230e85.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E03
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E04" tvg-logo="http://magmas5.com:8000/images/2a389c1ed2e35e7369625753d18c2bfb.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E04
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E05" tvg-logo="http://magmas5.com:8000/images/0b6f9fa6813a04fa887dd34a218641b2.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E05
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E06" tvg-logo="http://magmas5.com:8000/images/ecf94d535520be26f3c382330ff8a012.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E06
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E07" tvg-logo="http://magmas5.com:8000/images/c00c55e66e3bb4196ef04cd7f6ec726e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E07
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E08" tvg-logo="http://magmas5.com:8000/images/4de85196c3c0d6a194570ee941b27645.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E08
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E09" tvg-logo="http://magmas5.com:8000/images/941b704734f34394f16efc54e20ed69f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E09
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E10" tvg-logo="http://magmas5.com:8000/images/b7e46819f3f7985c21dc2d50d7384bb9.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E10
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E11" tvg-logo="http://magmas5.com:8000/images/cbab0b16d5b1a2f5ce4cc3d0b8bb09ab.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E11
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E12" tvg-logo="http://magmas5.com:8000/images/6f9fd98be43ddebb7bd54a9f074b35fe.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E12
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E13" tvg-logo="http://magmas5.com:8000/images/fb16660ba4523c2067361267f5aef246.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E13
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E14" tvg-logo="http://magmas5.com:8000/images/d25779eeb15942929ad6fbb9fb4e4b95.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E14
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E15" tvg-logo="http://magmas5.com:8000/images/e24507251f9fbca3595af55530de93f1.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E15
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E16" tvg-logo="http://magmas5.com:8000/images/154cbf233c9524d794efed492e4e0ea5.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E16
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E17" tvg-logo="http://magmas5.com:8000/images/99ac7848fcf8846f7bb60fc60dba2e2f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E17
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E18" tvg-logo="http://magmas5.com:8000/images/849015c1e0d34070528be7877de4b457.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E18
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E19" tvg-logo="http://magmas5.com:8000/images/116e340524a8480d9257383a9fa2dead.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E19
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E20" tvg-logo="http://magmas5.com:8000/images/f391725c9efdee9a8c66af43a6f7b0b6.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E20
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E21" tvg-logo="http://magmas5.com:8000/images/3efcbadceac186f13baf45b85bb2e8ea.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E21
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E22" tvg-logo="http://magmas5.com:8000/images/41df79c8cc5e78354b7d96ccba126e77.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E22
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E23" tvg-logo="http://magmas5.com:8000/images/015350cc1b785203494c58b20b324f7e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E23
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E24" tvg-logo="http://magmas5.com:8000/images/44c5ac425eca041d7c7ed0aef39ddf57.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E24
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S08 E25" tvg-logo="http://magmas5.com:8000/images/5b45b7f5c080eca99cac98a9a9fe74b9.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S08 E25
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E01" tvg-logo="http://magmas5.com:8000/images/19788a56e19dec251bb55eb45cfd9f18.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E01
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E02" tvg-logo="http://magmas5.com:8000/images/1bb6eb5f7c285b4b86c123c270f78ebd.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E02
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E03" tvg-logo="http://magmas5.com:8000/images/fd836f636644e780c2b2bc1ba2f99e85.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E03
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E04" tvg-logo="http://magmas5.com:8000/images/573f54bd413cfbdf78b31fd1e8625039.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E04
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E05" tvg-logo="http://magmas5.com:8000/images/1663f49a083dd45340435e7236a4b912.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E05
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E06" tvg-logo="http://magmas5.com:8000/images/c3c178b5a88575f5d00a10fcd3d5724e.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E06
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E07" tvg-logo="http://magmas5.com:8000/images/16261d47a282ec6b44d7338aae1b2567.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E07
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E08" tvg-logo="http://magmas5.com:8000/images/9a30d252a862e5996ce7e1b78d7a2c20.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E08
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E09" tvg-logo="http://magmas5.com:8000/images/e3c007ef203127247860532856856d52.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E09
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E10" tvg-logo="http://magmas5.com:8000/images/3f70097146ea88ea79466418cc046189.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E10
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E11" tvg-logo="http://magmas5.com:8000/images/eb7b3ee87db94f9cbfbfb27a00e957d4.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E11
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E12" tvg-logo="http://magmas5.com:8000/images/ed2233b2a82562e5eeb13cf6a034dcb4.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E12
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E13" tvg-logo="http://magmas5.com:8000/images/2e3c35e9426c4b0831d1e5b297600d4c.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E13
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E14" tvg-logo="http://magmas5.com:8000/images/292d609d6dd47ed94db12fa65c8b284b.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E14
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E15" tvg-logo="http://magmas5.com:8000/images/e0ea4dd6e1f6f2af31081bb380ce6e04.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E15
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E16" tvg-logo="http://magmas5.com:8000/images/71712f4ebf3a9f93834fad3a41720d81.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E16
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E17" tvg-logo="http://magmas5.com:8000/images/1fdc8b0abcea63685a7e81036bf65f6d.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E17
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E18" tvg-logo="http://magmas5.com:8000/images/7c1be5fa11cf62810679b2d39afe6068.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E18
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E19" tvg-logo="http://magmas5.com:8000/images/3fabaab5d56fc60295338f331d58c596.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E19
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E20" tvg-logo="http://magmas5.com:8000/images/e1df58f78c693d0b6bdef3ace392487f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E20
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E21" tvg-logo="http://magmas5.com:8000/images/56b374960d99d0991d884cdc121c7028.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E21
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E22" tvg-logo="http://magmas5.com:8000/images/72716edd21c7fd264b7daca9fe32df15.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E22
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E23" tvg-logo="http://magmas5.com:8000/images/0f641b0c79b1788bfb56a783c0b23ae5.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E23
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E24" tvg-logo="http://magmas5.com:8000/images/fe4f2bbb52b60834d3e6b02355baa36f.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E24
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson S09 E25" tvg-logo="http://magmas5.com:8000/images/fd98e8a976a793a7a8c15e08e04a26c1.jpg" group-title="⭐️ANIME: Hbo, Showtime, Disney+, Peacock, FX, Apple TV+",Los Simpson S09 E25
+http://magmas5.com:8000/series/sunlink/dFIdo0UaMM/143239.mkv
 
 
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/The_Super_Mario_Bros_Movie_logo.png" group-title="Peliculas📽️🎬🎞️🎥",SUPER MARIO BROS 
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOQTrCZXuD25gExnuUUEmAsH9MD.jpg" group-title="Peliculas📽️🎬🎞️🎥 ",Los Simpson: La buena, el malo y Loki (2021)
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/140049.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLy8FyvbSDCnl66lKS8i2Qc6hE3.jpg" group-title="Peliculas📽️🎬🎞️🎥 ",Los Simpson: La película 
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/148131.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5jzbffrXuBTjsiwrQ3aOMTrvCj.jpg" group-title="Peliculas📽️🎬🎞️🎥",Los Simpson en Plusnaniversaeio
+http://magmas5.com:8000/movie/sunlink/dFIdo0UaMM/148957.mkv
 
