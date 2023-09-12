@@ -129,8 +129,12 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 http://190.216.162.152:8001/play/a08g
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4U1f7CnRuFBdunhzRM3wVLBGhwOE5KlsVYw&usqp=CAU" group-title="Cine",GOLDEN EDGE
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/3762.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREH8wezjU5scT1XMg1feFNdZ8oN104WM2HLA&usqp=CAU" group-title="Cine",GOLDEN PREMIER
+http://190.92.7.19:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pV6wgT9u40RbzF385KhTPWkr_AXNba3yIw&usqp=CAU" group-title="Cine",MULTIPREMIER
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/70
+http://45.170.225.210:58001/play/a03e/index.m3u8
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/1200px-MC_logo_2022.png" group-title="Cine",MULTICINEMA 
+http://181.209.173.10:9000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVucp6BFVV2kTAlUJhOzKOXumOp0VhKpfUKA&usqp=CAU" group-title="Cine",AXN
 http://177.53.155.236:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJnMgXYTaITGfW16XAI5HDRykKfYX5QwiNqQ&usqp=CAU" group-title="Cine",DE PELICULA
@@ -210,7 +214,7 @@ http://179.51.168.13:4000/play/a02m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Cine",TCM
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY
-http://179.51.168.13:4000/play/a03k
+http://168.228.194.33:48001/play/a086/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4A5yg6GpPEeqXwjRUIbguHTk6giHhGCVinA&usqp=CAU" group-title="Cine",TNT HD
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324320.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZyjTfO6KLR9b1N23MTLpY_E_9pvmr6YDVug&usqp=CAU" group-title="Cine",SPACE
@@ -241,6 +245,8 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48983.ts
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48967.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48987.ts
+#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 1
+http://50.7.66.234:8080/Javier1120/112020/1160041
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeR8lzlhh9uinSrJXJweCTruOvHhESBrKagw&usqp=CAU" group-title="Deportes",beIN Sports En Español
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48958.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLv9V4-Pd2j5x1zJN2RXdpepjqObDDtpxiA&usqp=CAU" group-title="Deportes",MOVISTAR LA LIGA
