@@ -65,6 +65,12 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/135874
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLpgsoiNTUV_x6N2AUGW5zFxl-w1s7gQRkuQ&usqp=CAU" group-title="Entretenimiento",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_7DOWNfc3DHpquzTvLIPGIsm-qFKNQ3dPA&usqp=CAU" group-title="Entretenimiento",MEGA
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/66636.ts
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyT07xLEaXrmVor616TjxtveGUs6UYJoPGg&usqp=CAU" group-title="Entretenimiento",TV MAX
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlRqqVf6jUmksy9ThsyB0hl-rrwitT99lLjg&usqp=CAU" group-title="Musica",UNO CR
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7eC34t2RRjZbNoidD591q-DTAGAllqM_0Q&usqp=CAU" group-title="Entretenimiento",DISCOVERY CHANNEL
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="Entretenimiento",DISCOVERY THEATER
@@ -135,13 +141,10 @@ http://179.51.168.13:4000/play/a03g
 http://179.51.168.13:4000/play/a065
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Cine",  MX FAMILY
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="Cine", MX CLASSIC
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Cine", MX PRIME
 https://marine2.miplay.cl/mxprime/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="Cine", OLD
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine",CINE FAMILIAR
@@ -156,8 +159,6 @@ http://186.10.252.90:8000/play/a02i
 http://186.10.252.90:8000/play/a02j
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnIz_6jVeHJ2X9903reb_LlCKH_zXlGIz42bDJyeSZLCWy9ViMs9xuzuo&s=10" group-title="Cine",FMH MOVIE
 http://186.10.252.90:8000/play/a02k
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_7DOWNfc3DHpquzTvLIPGIsm-qFKNQ3dPA&usqp=CAU" group-title="Cine",MEGA
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/66636.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNDgiqY1ZM_wMGS_xeu_JeQn1tJ8u3L0W9Q&usqp=CAU" group-title="Cine",AMC
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/260518.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2aZlwuVS7iJTLSY9I0GDGYMkU-DqpglYJhQ&usqp=CAU" group-title="Cine",CINE LATINO 
@@ -216,8 +217,6 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324320.ts
 http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/1200px-TNT_Serie_HD.svg.png" group-title="Cine",TNT SERIES
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121701.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyT07xLEaXrmVor616TjxtveGUs6UYJoPGg&usqp=CAU" group-title="Cine",TV MAX
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHda85H05bX9hCan7YoVRMtxLypJ0S3KBf8w&usqp=CAU" group-title="Deportes",IZZI AFIZZIONADOS
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48976.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofAUkW0AI1sO0BN7GDizBxwtH2PSbjJsCeg&usqp=CAU" group-title="Deportes",TUDNC
@@ -290,8 +289,6 @@ http://38.43.140.97:8000/play/a019/index.m3u8
 https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslZTWniwjcf3Er0gbTcEgVLSkLPaVjLcBpQ&usqp=CAU" group-title="Adultos",MIAMI TV 2
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlRqqVf6jUmksy9ThsyB0hl-rrwitT99lLjg&usqp=CAU" group-title="Musica",UNO CR
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNo7u-3x8y9qzObqr_-xgdVYC2t5SxYjhgQ&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS PLUS
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="Kids",DREAM WORKS CHANNEL 
