@@ -210,7 +210,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324314.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBUSyXrOIBjaqE-L52OPGEaQp5SieN6betA&usqp=CAU" group-title="Cine",FILM AND ARTS
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-R-bLBqhhJ-uTXjJN-MD7R9q1C1SbZHR1A&usqp=CAU" group-title="Cine",A&E
-http://179.51.168.13:4000/play/a02m
+http://190.90.251.194:8921/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Cine",TCM
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY
