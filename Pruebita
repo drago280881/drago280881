@@ -283,6 +283,8 @@ http://179.51.168.13:4000/play/a06q
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9FXmY3MRKgU71d4J2kU7bnc5Whn7DNFEJg&usqp=CAU" group-title="Musica",MI MUSICA REGGAETON
 http://181.78.75.11:9500/play/MUSICAREGGAETON/index.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJi4OtPo4ZWtFRWgNAHF-HCTi849pwETCMg&usqp=CAU" group-title="Musica",MI MUSICA SALSA
+http://181.78.8.90:16123/play/ch55
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMsXOUMnHQFTSAuLs-vPS9GChbYaBsT9uk3GKQe7VKR-Y3-n5I_LzEwW4&s=10" group-title="Musica",KIZZI
 http://186.10.252.90:8000/play/a02l
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoavBjiAS4Dyp1Ct0vOMlg27fZMLe26JxbA&usqp=CAU" group-title="Musica",QUIERO MUSICA
