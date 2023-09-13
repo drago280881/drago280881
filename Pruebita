@@ -278,7 +278,7 @@ http://190.216.162.152:8001/play/a09i
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="Kids",NICK JR
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/31745
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RWKyDJQI0RwOGjAttQlrzTKB5LwJ4wJ7MA&usqp=CAU" group-title="Kids",TOONCAST
-http://179.51.168.13:4000/play/a06q
+http://190.122.186.88:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3W2vQQEbkyx6G2_nMSQGlgyQvZvdsC5Q0w&usqp=CAU" group-title="Musica",CONECTA TV
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9FXmY3MRKgU71d4J2kU7bnc5Whn7DNFEJg&usqp=CAU" group-title="Musica",MI MUSICA REGGAETON
