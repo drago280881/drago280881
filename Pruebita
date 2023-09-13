@@ -210,7 +210,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324314.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBUSyXrOIBjaqE-L52OPGEaQp5SieN6betA&usqp=CAU" group-title="Cine",FILM AND ARTS
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-R-bLBqhhJ-uTXjJN-MD7R9q1C1SbZHR1A&usqp=CAU" group-title="Cine",A&E
-http://190.90.251.194:8921/play/a004/index.m3u8
+http://206.212.244.31/live/oVTsSvYjZu/cAXDNm9LY9/27969.ts?token=GRMJWEQNEFgXVgAHUQUDVFZWAwYBVAZXAwJSVwUIBwBSAFcNBAdRVwxBT0NEQ0QGUV0+CwZGXgMDX1RcGBIRRgdDPlBTRwhABFFVUgMVGkFEWQwHQF5VBw1SVFYABFYGThMRUFNHCEAGUlVZBxUaQVVIFQcQCgVdawIHE11TARdYXxRVW0kQDVs8BwRaVlgHEgpDUkBIRlhHFkBfWkUIWU4TA1BDF1MWUEFZQwYDBVcSHEMBDREKRUYfQF8WfTwXThMEQUMAXBFcDA1DDRVCEBIcQwsROxZURxIQAFVdAUdAC0MIFUkQD1QbPAJYWVgGU0QIDQwXRgsWUVdVFhxGWA1fCE1YF20SXAdBWxUGBVoHAUMf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Cine",TCM
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY
@@ -224,7 +224,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121701.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHda85H05bX9hCan7YoVRMtxLypJ0S3KBf8w&usqp=CAU" group-title="Deportes",IZZI AFIZZIONADOS
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48976.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofAUkW0AI1sO0BN7GDizBxwtH2PSbjJsCeg&usqp=CAU" group-title="Deportes",TUDNC
-http://svtv.xyz:8080/sandra30abril/CQNFV/44409
+http://go.iptvhn.net:25461/live/7672/7672/234.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofAUkW0AI1sO0BN7GDizBxwtH2PSbjJsCeg&usqp=CAU" group-title="Deportes",TUDNM
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ikg6XkXgJo3t1KMI9IQEeOvtHUaQe9KDfw&usqp=CAU" group-title="Deportes",Claro Sports 1
@@ -266,13 +266,13 @@ http://179.51.168.13:4000/play/a01521
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/disney/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20210819102952&path-prefix=es" group-title="Kids",DISNEY CHANNEL
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/166504.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt30h0GbPvcW5Tdidhobj2smcHPuhT-D85iA&usqp=CAU" group-title="Kids",DISCOVERY KIDS
-http://179.51.168.13:4000/play/a02e
+http://190.122.186.88:8000/play/a0ir/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WRlqjjNawyik_IKVS5EVZnylzwlXoCXGyA&usqp=CAU" group-title="Kids",DISNEY JUNIOR
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9042
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/thumbnail/width/360/height/360?cb=20220912114022" group-title="Kids",BABYFIRST
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/295150
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids",NICK
-http://179.51.168.13:4000/play/a02l
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids",NICKELODEON
+http://190.83.60.34:1414/play/a01s
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjqb54AMuBLVzYnDu4HK0nsbUkPGi6Io_HMA&usqp=CAU" group-title="Kids",TEEN NICK
 http://190.216.162.152:8001/play/a09i
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="Kids",NICK JR
