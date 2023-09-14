@@ -14,7 +14,7 @@ http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11513-1329_import.png" group-title="Entretenimiento",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="Entretenimiento",CANAL 5
-http://svtv.xyz:8080/sandra30abril/CQNFV/172
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/91806.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5agugLevugmY8GGw8K94y7loAR6-HavuUw&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS LAGUNA 
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMaguNHLB45_6LT0W-Xau8L7pAXpSXGZjnw&usqp=CAU" group-title="Entretenimiento",AZTECA 7
@@ -25,8 +25,7 @@ http://line.pro-iptv.cc:80/ivantramonto/5D61D8/101168
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/26836.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Entretenimiento",MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-shQa9smN5bpo_0SP6MtXZACdddlMaLJjg&usqp=CAU" group-title="Musica", EXA TV
-http://167.250.222.35:16000/play/a06j/index.m3u8
+
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="Entretenimiento",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Entretenimiento",UNIVERSO
@@ -99,8 +98,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/203108.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriHcvymBdWnOJNkw8cTU2Vf4wr0-rozts3w&usqp=CAU" group-title="Musica",TELEHIT
 http://38.43.140.97:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",BITME
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/304621.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",DISCOVERY TURBO
 http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFD2187FoBzU0v89T0XcEEQU9joVdYWUFgw&usqp=CAU" group-title="Entretenimiento",DISCOVERY HOME HEALT
@@ -210,7 +208,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324314.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBUSyXrOIBjaqE-L52OPGEaQp5SieN6betA&usqp=CAU" group-title="Cine",FILM AND ARTS
 http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-R-bLBqhhJ-uTXjJN-MD7R9q1C1SbZHR1A&usqp=CAU" group-title="Cine",A&E
-http://206.212.244.31/live/oVTsSvYjZu/cAXDNm9LY9/27969.ts?token=GRMJWEQNEFgXVgAHUQUDVFZWAwYBVAZXAwJSVwUIBwBSAFcNBAdRVwxBT0NEQ0QGUV0+CwZGXgMDX1RcGBIRRgdDPlBTRwhABFFVUgMVGkFEWQwHQF5VBw1SVFYABFYGThMRUFNHCEAGUlVZBxUaQVVIFQcQCgVdawIHE11TARdYXxRVW0kQDVs8BwRaVlgHEgpDUkBIRlhHFkBfWkUIWU4TA1BDF1MWUEFZQwYDBVcSHEMBDREKRUYfQF8WfTwXThMEQUMAXBFcDA1DDRVCEBIcQwsROxZURxIQAFVdAUdAC0MIFUkQD1QbPAJYWVgGU0QIDQwXRgsWUVdVFhxGWA1fCE1YF20SXAdBWxUGBVoHAUMf
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/121613.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Cine",TCM
 http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",SONY
@@ -259,6 +257,8 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/135642
 http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101312.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Cine",CINEMAX
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324325.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",BITME
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/304621.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyR8Zt9x7zwDYV5IZs6NfKsFTDgTbLnqcT3A&usqp=CAU" group-title="Kids",DOS KIDS
 http://186.10.252.90:8000/play/a02t
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/5f/Canal_Infantil.png/revision/latest?cb=20230419185326&path-prefix=es" group-title="Kids",CANAL INFANTIL 
@@ -279,6 +279,8 @@ http://190.216.162.152:8001/play/a09i
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/31745
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RWKyDJQI0RwOGjAttQlrzTKB5LwJ4wJ7MA&usqp=CAU" group-title="Kids",TOONCAST
 http://190.122.186.88:8000/play/a0hm/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-shQa9smN5bpo_0SP6MtXZACdddlMaLJjg&usqp=CAU" group-title="Musica", EXA TV
+http://167.250.222.35:16000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3W2vQQEbkyx6G2_nMSQGlgyQvZvdsC5Q0w&usqp=CAU" group-title="Musica",CONECTA TV
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9FXmY3MRKgU71d4J2kU7bnc5Whn7DNFEJg&usqp=CAU" group-title="Musica",MI MUSICA REGGAETON
