@@ -76,8 +76,6 @@ http://45.166.92.22:58001/play/a01n/index.m3u8
 http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",DISCOVERY TURBO
 http://45.166.92.22:58001/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwdX64hoSCc-OJS3EigmjeUsnahZi7UuEA-QDYWh0seLQzPqm0dL8KfM&s=10" group-title="Cine",Movistar Accion HD
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/139279.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Entretenimiento",NATIONAL GEOGRAPHIC
 http://45.166.92.22:58001/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_1yBKTOATxYp37F7Me1D_8bUeGHsBrxbGw&usqp=CAU" group-title="Entretenimiento",UNIVISION PR
@@ -94,7 +92,7 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/131296
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLpgsoiNTUV_x6N2AUGW5zFxl-w1s7gQRkuQ&usqp=CAU" group-title="Musica",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Entretenimiento",CARACOL
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Entretenimiento",CARACOL HD
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/203108.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriHcvymBdWnOJNkw8cTU2Vf4wr0-rozts3w&usqp=CAU" group-title="Musica",TELEHIT
 http://38.43.140.97:8000/play/a00o/index.m3u8
@@ -123,6 +121,8 @@ http://45.166.92.22:58001/play/a04o/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL-NtUvtXatynECZzoPzO002wWdxBmhwNqg&usqp=CAU group-title="Entretenimiento",EWTN ESPAÑOL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwdX64hoSCc-OJS3EigmjeUsnahZi7UuEA-QDYWh0seLQzPqm0dL8KfM&s=10" group-title="Cine",Movistar Accion HD
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/139279.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4j-IhmB4v64QdAGkDzkS-YUkt_oW-KiHQg&usqp=CAU" group-title="Cine",GOLDEN PLUS
 http://190.216.162.152:8001/play/a08g
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4U1f7CnRuFBdunhzRM3wVLBGhwOE5KlsVYw&usqp=CAU" group-title="Cine",GOLDEN EDGE
