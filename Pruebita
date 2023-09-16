@@ -3,6 +3,8 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlj08etwYGcLg7VSgczl4hKvgUTBbBEpkBVA&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlj08etwYGcLg7VSgczl4hKvgUTBbBEpkBVA&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS - 1 HRS
+http://sdmx.vip:8080/live/Carlos242424/Carlos8888@/2153486.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS -2 HRS
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/162200
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCGgLMiPGPU8AOWGtSbhc_dNQQGFD2oJubw&usqp=CAU" group-title="Entretenimiento",TELEFORMULA 
