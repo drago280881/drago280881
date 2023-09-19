@@ -151,9 +151,11 @@ https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine",CINE FAMILIAR
 http://179.51.168.13:4000/play/a05h
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIAxwgRNIGNVjZG4vXnQWyJHU-MlecHWAFg&usqp=CAU" group-title="Cine",CINE HISPANO 
-http://179.51.168.13:4000/play/a05i
+http://190.90.71.68:15082/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Cine",CINE PREMIUM
-http://179.51.168.13:4000/play/a05j
+http://191.52.214.5:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccb02bZUfkvdaaoEYHANpvqCY21ZX_GtOPg&usqp=CAU" group-title="Cine",CINEMA PLATINO 
+http://191.52.214.5:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHHaKg_Q69lQMOyPvlRdchSgpx7SgW-KNNLHZWogaBiDWrtbBUlIhhYQ&s=10" group-title="Cine",FMH FAMILY
 http://186.10.252.90:8000/play/a02i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMSS7qodQcu7brekPoi9uOFDNNwwFaB65Oqa1z77UZ1BuCrG39-JosY9h&s=10" group-title="Cine",FMH KIDS
@@ -242,7 +244,7 @@ http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48983.ts
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48967.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48987.ts
-#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="DEPORTES", TNT Sports 1
+#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="Deportes", TNT Sports 1
 http://50.7.66.234:8080/Javier1120/112020/1160041
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeR8lzlhh9uinSrJXJweCTruOvHhESBrKagw&usqp=CAU" group-title="Deportes",beIN Sports En Español
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48958.ts
