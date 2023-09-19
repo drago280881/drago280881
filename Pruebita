@@ -258,8 +258,18 @@ http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101312.m3u8
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324325.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLY-F16N3ZEMWoUxBDU_wYcDasmIs3cPcnA&usqp=CAU" group-title="Kids",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",SKY PREMIER 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="SKY PREMIER",SKY PREMIER 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71323.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="SKY PREMIER",SKY PREMIER 2
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71319.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="SKY PREMIER",SKY PREMIER 3
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71321.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="SKY PREMIER",SKY PREMIER 4
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71324.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="SKY PREMIER",SKY PREMIER 5
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71325.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="SKY PREMIER",SKY PREMIER 6
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71326.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",BITME
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/304621.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyR8Zt9x7zwDYV5IZs6NfKsFTDgTbLnqcT3A&usqp=CAU" group-title="Kids",DOS KIDS
