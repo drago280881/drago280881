@@ -258,6 +258,8 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/135642
 http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101312.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Cine",CINEMAX
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324325.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",SKY PREMIER 
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71323.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",BITME
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/304621.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyR8Zt9x7zwDYV5IZs6NfKsFTDgTbLnqcT3A&usqp=CAU" group-title="Kids",DOS KIDS
