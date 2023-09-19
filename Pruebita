@@ -88,8 +88,6 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/148738
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38559.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_1yBKTOATxYp37F7Me1D_8bUeGHsBrxbGw&usqp=CAU" group-title="Entretenimiento",UNIVISION NUEVA YORK
 http://svtv.xyz:8080/sandra30abril/CQNFV/109705
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLY-F16N3ZEMWoUxBDU_wYcDasmIs3cPcnA&usqp=CAU" group-title="Kids",CARTOONITO
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1280px-Galavision_Logo_2013.svg.pngU" group-title="Entretenimiento",GALAVISION 
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/131296
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png" group-title="Entretenimiento",TELEMUNDO MIAMI 
@@ -258,6 +256,8 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/135642
 http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101312.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Cine",CINEMAX
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324325.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLY-F16N3ZEMWoUxBDU_wYcDasmIs3cPcnA&usqp=CAU" group-title="Kids",CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",SKY PREMIER 
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71323.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",BITME
@@ -282,6 +282,10 @@ http://castlempire.site:8080/live/cristian.garcia/eE8V2QzYhHZ3/170070.ts
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/31745
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RWKyDJQI0RwOGjAttQlrzTKB5LwJ4wJ7MA&usqp=CAU" group-title="Kids",TOONCAST
 http://castlempire.site:8080/live/cristian.garcia/eE8V2QzYhHZ3/170074.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="Kids",DREAM WORKS CHANNEL 
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12074.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRfNQcdB3WzGBEtjtE4EPZBv_2x0zuk3WSg&usqp=CAU" group-title="Kids",RETRO CARTOON
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriHcvymBdWnOJNkw8cTU2Vf4wr0-rozts3w&usqp=CAU" group-title="Musica",TELEHIT
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136177.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJg_gMcRiNAIoZ71QeWuLEUmtsXomtB79YZQ&usqp=CAU" group-title="Musica",MTV Hits
@@ -310,10 +314,6 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNo7u-3x8y9qzObqr_-xgdVYC2t5SxYjhgQ&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS PLUS
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="Kids",DREAM WORKS CHANNEL 
-http://179.51.168.13:4000/play/a05z
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRfNQcdB3WzGBEtjtE4EPZBv_2x0zuk3WSg&usqp=CAU" group-title="Kids",RETRO CARTOON
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DIRECTV SPORT +
 http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/51308
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.pngn_America_%282018%29.png" group-title="Deportes",DAZN
