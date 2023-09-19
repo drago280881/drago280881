@@ -149,7 +149,7 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Old" tvg-name="CL | Old" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="Cine", OLD
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Cine",CINE FAMILIAR
-http://179.51.168.13:4000/play/a05h
+http://190.90.71.68:15082/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIAxwgRNIGNVjZG4vXnQWyJHU-MlecHWAFg&usqp=CAU" group-title="Cine",CINE HISPANO 
 http://190.90.71.68:15082/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Cine",CINE PREMIUM
