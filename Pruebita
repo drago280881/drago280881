@@ -241,25 +241,25 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30337.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoKJf2cMjcojPSaZ1NZtTeTLFzBF7lkACCg&usqp=CAU" group-title="Deportes",FOX SPORTS PREMIUM 
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKN6RKDtZ3COOfKhHe5FJx23HnLjgFyutpJg&usqp=CAU" group-title="Deportes",ESPN
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48983.ts
+http://190.149.66.90:4000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1m8k12wJqsSycunIGbWZ1ChWFquidF7tY8w&usqp=CAU" group-title="Deportes",ESPN 2
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48967.ts
+http://45.5.117.182:8000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48987.ts
+http://45.5.117.182:8000/play/a0jo/index.m3u8
 #EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="Deportes", TNT Sports 1
 http://50.7.66.234:8080/Javier1120/112020/1160041
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeR8lzlhh9uinSrJXJweCTruOvHhESBrKagw&usqp=CAU" group-title="Deportes",beIN Sports En Español
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/48958.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/181230.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLv9V4-Pd2j5x1zJN2RXdpepjqObDDtpxiA&usqp=CAU" group-title="Deportes",MOVISTAR LA LIGA
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/87713.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/222101.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqD1vPIwKPmn2irnsbSPkEiVV09hQ_1x3ieQ&usqp=CAU" group-title="Deportes", Sky Sports
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/365067.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/281690.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes",DIRECTV SPORTS
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/135642
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="Deportes",DIRECTV SPORTS 2
 http://mag.redmytv.com:80/live/ivantramonto/5D61D8/101312.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Cine",CINEMAX
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/324325.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/169820.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLY-F16N3ZEMWoUxBDU_wYcDasmIs3cPcnA&usqp=CAU" group-title="Kids",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="SKY PREMIER",SKY PREMIER 
@@ -275,13 +275,13 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71325.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="SKY PREMIER",SKY PREMIER 6
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/71326.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="Kids",BITME
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/304621.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/190859.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyR8Zt9x7zwDYV5IZs6NfKsFTDgTbLnqcT3A&usqp=CAU" group-title="Kids",DOS KIDS
 http://186.10.252.90:8000/play/a02t
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/5f/Canal_Infantil.png/revision/latest?cb=20230419185326&path-prefix=es" group-title="Kids", NICK Music 
 http://castlempire.site:8080/live/cristian.garcia/eE8V2QzYhHZ3/170079.ts
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/disney/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20210819102952&path-prefix=es" group-title="Kids",DISNEY CHANNEL
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/166504.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/170065.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt30h0GbPvcW5Tdidhobj2smcHPuhT-D85iA&usqp=CAU" group-title="Kids",DISCOVERY KIDS
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WRlqjjNawyik_IKVS5EVZnylzwlXoCXGyA&usqp=CAU" group-title="Kids",DISNEY JUNIOR
@@ -301,9 +301,9 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12074.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRfNQcdB3WzGBEtjtE4EPZBv_2x0zuk3WSg&usqp=CAU" group-title="Kids",RETRO CARTOON
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriHcvymBdWnOJNkw8cTU2Vf4wr0-rozts3w&usqp=CAU" group-title="Musica",TELEHIT
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/136177.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/242911.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJg_gMcRiNAIoZ71QeWuLEUmtsXomtB79YZQ&usqp=CAU" group-title="Musica",MTV Hits
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/363999.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/190750.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQd4BCO-Xk_WE7vptdQU2m9rme_vvXgaWdtg&usqp=CAU" group-title="Musica",Telehit Música Plus
 http://38.43.140.97:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-shQa9smN5bpo_0SP6MtXZACdddlMaLJjg&usqp=CAU" group-title="Musica", EXA TV
@@ -319,7 +319,7 @@ http://186.10.252.90:8000/play/a02l
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoavBjiAS4Dyp1Ct0vOMlg27fZMLe26JxbA&usqp=CAU" group-title="Musica",QUIERO MUSICA
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3548
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYbc8G5cnIzDF0dYzAPmfLIS_XPLtBi6OOw&usqp=CAU" group-title="Musica",BANDAMAX
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/85298.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/190862.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWd22n9CVDVEM-TXKqizd-EYJaVe-dihcXg&usqp=CAU" group-title="Kids", CARTOON NETWORK
 http://187.102.209.92:9010/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo=" https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" group-title="Adultos",MIAMI TV
@@ -331,13 +331,13 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DIRECTV SPORT +
 http://ae2.aatvbox.club:8880/EilaineCyrus/kwNjMz9Xbu/51308
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.pngn_America_%282018%29.png" group-title="Deportes",DAZN
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/123036.ts
+http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/222698.ts
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0arTKuzOUYfgvg1E9aaaRz2vfHvysBcp0w&usqp=CAU" group-title="Deportes",AZTECA DEPORTES 
-http://tv.proyectox.vip:43201/ossi2022/RNe48QBDyX/180061
+http://tv.proyectox.vip:8080/live/jose123/QWsbRtFFnA/180062.ts
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/MTV-logo.png" group-title"Musica",MTV Latinoamerica
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/49285.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6AoJnsdOFqFrnnRw4N8LjWOl5W8UfAjLuNA&usqp=CAU" group-title="Cine",Lifetime Latinoamerica
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/187271.ts
+http://tv.proyectox.vip:8080/live/jose123/QWsbRtFFnA/26914.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUNn8BiFaiUIfwtwZF_VOn9LFxDk82DiPeg&usqp=CAU" group-title="Cine",SYFY
 http://tvpro.tech:8080/acassd22/acab1312/46540
 
