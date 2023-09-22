@@ -155,7 +155,7 @@ http://190.90.71.68:15082/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIAxwgRNIGNVjZG4vXnQWyJHU-MlecHWAFg&usqp=CAU" group-title="Cine",CINE HISPANO 
 http://190.90.71.68:15082/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06Za6sS8deTJjPQdNI5mdDwAoXKvEcbdJcQ&usqp=CAU" group-title="Cine",CINE PREMIUM
-http://191.52.214.5:8000/play/a068/index.m3u8
+http://181.174.228.123:9080/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccb02bZUfkvdaaoEYHANpvqCY21ZX_GtOPg&usqp=CAU" group-title="Cine",CINEMA PLATINO 
 http://191.52.214.5:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHHaKg_Q69lQMOyPvlRdchSgpx7SgW-KNNLHZWogaBiDWrtbBUlIhhYQ&s=10" group-title="Cine",FMH FAMILY
