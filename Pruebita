@@ -7,6 +7,8 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://sdmx.vip:8080/Enrique123/Enrique123/2153486
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS -2 HRS
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/162200
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E2As7kj6NGtc7ihcqPaNol6o2IRJlFzp2g&usqp=CAU" group-title="Entretenimiento",LAS ESTRELLAS LAT
+https://linear-553.frequency.stream:443/dist/vix/553/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCGgLMiPGPU8AOWGtSbhc_dNQQGFD2oJubw&usqp=CAU" group-title="Entretenimiento",TELEFORMULA 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40CtFK-5Qkzj7A-Dq6nh2Kqr_35zdxCnHjw&usqp=CAU" group-title="Entretenimiento",EXCELSIOR TV
