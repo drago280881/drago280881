@@ -248,8 +248,8 @@ http://190.149.66.90:4000/play/a03a/index.m3u8
 http://45.5.117.182:8000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://45.5.117.182:8000/play/a0jo/index.m3u8
-#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="Deportes", TNT Sports 1
-http://50.7.66.234:8080/Javier1120/112020/1160041
+#EXTINF:0 type="stream" channelId="tntsports" tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsports@2x.png" group="Deportes", TNT Sports Mx
+http://sdmx.vip:8080/live/Enrique123/Enrique123/219731.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeR8lzlhh9uinSrJXJweCTruOvHhESBrKagw&usqp=CAU" group-title="Deportes",beIN Sports En Español
 http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/181230.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLv9V4-Pd2j5x1zJN2RXdpepjqObDDtpxiA&usqp=CAU" group-title="Deportes",MOVISTAR LA LIGA
