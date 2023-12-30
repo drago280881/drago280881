@@ -235,11 +235,11 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/144620
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES"TVC DEPORTES
 http://tvpro.tech:8080/acassd22/acab1312/46745
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXx3iJJ4eQuyKTvqFT7cFfBjpdXNteIj80Wg&usqp=CAU" group-title="Deportes",FOX SPORTS
-http://mag.redmytv.com:80/ivantramonto/5D61D8/101205
+http://167.114.156.136:25461/INFINITV/ZX89NM22/42
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQIFkRAjdKP2NSWUFaF-5LJGJKJYs8HGL1A&usqp=CAU" group-title="Deportes",FOX SPORTS 2
-http://mag.redmytv.com:80/ivantramonto/5D61D8/101206
+http://187.102.209.92:9010/play/a048/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBf3BrQQxZAkWG-ixDAdc7yn2OypCtbImOmw&usqp=CAU" group-title="Deportes",FOX SPORTS 3
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30337.m3u8
+http://190.60.40.37:12500/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoKJf2cMjcojPSaZ1NZtTeTLFzBF7lkACCg&usqp=CAU" group-title="Deportes",FOX SPORTS PREMIUM 
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKN6RKDtZ3COOfKhHe5FJx23HnLjgFyutpJg&usqp=CAU" group-title="Deportes",ESPN
