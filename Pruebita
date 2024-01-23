@@ -11,8 +11,8 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 https://linear-553.frequency.stream:443/dist/vix/553/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCGgLMiPGPU8AOWGtSbhc_dNQQGFD2oJubw&usqp=CAU" group-title="Entretenimiento",TELEFORMULA 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40CtFK-5Qkzj7A-Dq6nh2Kqr_35zdxCnHjw&usqp=CAU" group-title="Entretenimiento",EXCELSIOR TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705024536/ei/uEegZfnqNoqxlu8Pyd6nqAw/ip/172.71.167.33/id/3VR6FCGNbJg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxhuzbyOLZHmuPsXe1cefZfSPYyaPuz7s1Ydto4EThA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgP1WaLFOFYxZRgH2j6lmokOT-ujz1pVdbeFEjFfPx4IgCID4PMBZdwfmLR3s3q0trRGqDLneXaPMMO3y64oL9SDld/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6imcQvcAJEwF-UhkhdsPIcNDwMgUGNeMmEjwp6XpKxC2PAMNzAQ2jA9xbbbI1Wk91IYa" group-title="Entretenimiento",QUIERO TV
+https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Entretenimiento",IMAGEN
 http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11513-1329_import.png" group-title="Entretenimiento",FORO TV
