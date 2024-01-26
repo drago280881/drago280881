@@ -122,14 +122,16 @@ http://45.166.92.22:58001/play/a04o/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL-NtUvtXatynECZzoPzO002wWdxBmhwNqg&usqp=CAU group-title="Entretenimiento",EWTN ESPAÑOL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi8ZBi4fw5XHKYtc46RnyusDSQL_3FUGn_yg&usqp=CAU group-title="Entretenimiento",MARIA VISION
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwdX64hoSCc-OJS3EigmjeUsnahZi7UuEA-QDYWh0seLQzPqm0dL8KfM&s=10" group-title="Cine",Movistar Accion HD
 http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/139279.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4j-IhmB4v64QdAGkDzkS-YUkt_oW-KiHQg&usqp=CAU" group-title="Cine",GOLDEN PLUS
-http://190.216.162.152:8001/play/a08g
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4U1f7CnRuFBdunhzRM3wVLBGhwOE5KlsVYw&usqp=CAU" group-title="Cine",GOLDEN EDGE
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/3762.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREH8wezjU5scT1XMg1feFNdZ8oN104WM2HLA&usqp=CAU" group-title="Cine",GOLDEN PREMIER
-http://190.92.7.19:8000/play/a00h/index.m3u8
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pV6wgT9u40RbzF385KhTPWkr_AXNba3yIw&usqp=CAU" group-title="Cine",MULTIPREMIER
 http://45.170.225.210:58001/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/1200px-MC_logo_2022.png" group-title="Cine",MULTICINEMA 
@@ -323,7 +325,7 @@ http://186.10.252.90:8000/play/a02l
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoavBjiAS4Dyp1Ct0vOMlg27fZMLe26JxbA&usqp=CAU" group-title="Musica",QUIERO MUSICA
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3548
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYbc8G5cnIzDF0dYzAPmfLIS_XPLtBi6OOw&usqp=CAU" group-title="Musica",BANDAMAX
-http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/190862.ts
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWd22n9CVDVEM-TXKqizd-EYJaVe-dihcXg&usqp=CAU" group-title="Kids", CARTOON NETWORK
 http://187.102.209.92:9010/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo=" https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" group-title="Adultos",MIAMI TV
