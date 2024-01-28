@@ -19,8 +19,8 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png" group-title="Entretenimiento",CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5agugLevugmY8GGw8K94y7loAR6-HavuUw&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS LAGUNA 
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5agugLevugmY8GGw8K94y7loAR6-HavuUw&usqp=CAU" group-title="Entretenimiento",MULTIMEDIOS 
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMaguNHLB45_6LT0W-Xau8L7pAXpSXGZjnw&usqp=CAU" group-title="Entretenimiento",AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoonJapyw6FjCzN6EhLZw8Ay-RtyqRL5Jng&usqp=CAU" group-title="Entretenimiento",CORAZÓN 
@@ -96,8 +96,8 @@ http://magmas5.com:8000/sunlink/dFIdo0UaMM/131296
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/148712
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLpgsoiNTUV_x6N2AUGW5zFxl-w1s7gQRkuQ&usqp=CAU" group-title="Entretenimiento",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Entretenimiento",Caracol HD2
-http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/203108.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="Entretenimiento",Caracol HD
+http://167.114.156.136:25461/INFINITV/ZX89NM22/157
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",DISCOVERY TURBO
 http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFD2187FoBzU0v89T0XcEEQU9joVdYWUFgw&usqp=CAU" group-title="Entretenimiento",DISCOVERY HOME HEALT
@@ -307,21 +307,21 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12074.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRfNQcdB3WzGBEtjtE4EPZBv_2x0zuk3WSg&usqp=CAU" group-title="Kids",RETRO CARTOON
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriHcvymBdWnOJNkw8cTU2Vf4wr0-rozts3w&usqp=CAU" group-title="Musica",TELEHIT
-http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/242911.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJg_gMcRiNAIoZ71QeWuLEUmtsXomtB79YZQ&usqp=CAU" group-title="Musica",MTV Hits
-http://castlempire.site:8080/live/StarPlay11Cesar50/rfUnKQcv6x/190750.ts
+https://linear-417.frequency.stream:443/mt/studio/417/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJg_gMcRiNAIoZ71QeWuLEUmtsXomtB79YZQ&usqp=CAU" group-title="Musica",MTV 
+http://138.59.177.34:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQd4BCO-Xk_WE7vptdQU2m9rme_vvXgaWdtg&usqp=CAU" group-title="Musica",Telehit Música Plus
-http://38.43.140.97:8000/play/a00o/index.m3u8
+https://linear-418.frequency.stream:443/mt/studio/418/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-shQa9smN5bpo_0SP6MtXZACdddlMaLJjg&usqp=CAU" group-title="Musica", EXA TV
-http://167.250.222.35:16000/play/a06j/index.m3u8
+http://138.59.177.34:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3W2vQQEbkyx6G2_nMSQGlgyQvZvdsC5Q0w&usqp=CAU" group-title="Musica",CONECTA TV
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+http://138.59.177.34:8000/play/a06l/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9FXmY3MRKgU71d4J2kU7bnc5Whn7DNFEJg&usqp=CAU" group-title="Musica",MI MUSICA REGGAETON
-http://181.78.75.11:9500/play/MUSICAREGGAETON/index.m3u8
+http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDJi4OtPo4ZWtFRWgNAHF-HCTi849pwETCMg&usqp=CAU" group-title="Musica",MI MUSICA SALSA
-http://181.78.8.90:16123/play/ch55
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMsXOUMnHQFTSAuLs-vPS9GChbYaBsT9uk3GKQe7VKR-Y3-n5I_LzEwW4&s=10" group-title="Musica",KIZZI
-http://186.10.252.90:8000/play/a02l
+http://177.234.230.226:8010/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMsXOUMnHQFTSAuLs-vPS9GChbYaBsT9uk3GKQe7VKR-Y3-n5I_LzEwW4&s=10" group-title="Musica",COLOSAL TV
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoavBjiAS4Dyp1Ct0vOMlg27fZMLe26JxbA&usqp=CAU" group-title="Musica",QUIERO MUSICA
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3548
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYbc8G5cnIzDF0dYzAPmfLIS_XPLtBi6OOw&usqp=CAU" group-title="Musica",BANDAMAX
